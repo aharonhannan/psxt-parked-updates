@@ -8,7 +8,7 @@ Parked updates are split between P3D and MSFS. Download the airport XML files th
 
 ## Contributing
 
-With so many airports worldwide and flight sim enthusiasts flying an uncountable combination of routes, people who rely on PSXT have relied on generating 
+With so many airports worldwide and flight sim enthusiasts flying an uncountable combination of routes, people who rely on PSXT have relied on generating airports with the included Learner.exe tool, however this can take a week to build a comprehensive database for a single airport. The goal for this repository is to open up collaboration and merge parked updates for airports worldwide to get folks started quicker.
 
 ## Credits
 
