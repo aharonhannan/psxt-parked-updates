@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+<meta>
+	<info name="author" value="PPG_MSFS" />
+	<info name="version" value="3.0" />
+	<info name="date" value="Apr  1, 2021" />
+</meta>
+<parameters>
+	<parameter name="airport_name" value="Santa Barbara Muni" />
+	<parameter name="supplier" value="MSFS ORBX" />
+	<parameter name="altitude" value="8" />
+	<parameter name="num_parkpos" value="32" />
+	<parameter name="parking_percentage" value="50" />
+	<parameter name="last_update" value="Jan 24, 2022" />
+	<parameter name="home_base" value="" />
+	<parameter name="max_two" value="" />
+	<parameter name="real_only" value="0" />
+	<parameter name="actual_hour_only" value="0" />
+</parameters>
+<parkpositions>
+	<parkpos id="g2" latitude="34.424881" longitude="-119.837196" heading="89.7" radius="20.0" cargo="false" ramp="true" />
+	<parkpos id="g4" latitude="34.425125" longitude="-119.837273" heading="114.5" radius="20.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="QXE" type="E75L" real="false" hours="3" />
+			<option airline="SKW" type="E75L" real="false" hours="19,20" />
+			<option airline="UAL" type="A319" real="false" hours="20" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="r1" latitude="34.424007" longitude="-119.836929" heading="76.0" radius="20.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="ASH" type="CRJ9" opf="AAL" real="true" hours="20" />
+			<option airline="ENY" type="E75L" real="false" hours="19" />
+			<option airline="ENY" type="E75L" real="true" hours="3,19,20" />
+			<option airline="SKW" type="E75L" real="false" hours="1,2" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="r10" latitude="34.432655" longitude="-119.835129" heading="65.6" radius="15.0" cargo="false" ramp="true" />
+	<parkpos id="r11" latitude="34.432972" longitude="-119.835266" heading="71.9" radius="15.0" cargo="false" ramp="true" />
+	<parkpos id="r12" latitude="34.432392" longitude="-119.835716" heading="249.8" radius="10.0" cargo="false" ramp="true" />
+	<parkpos id="r13" latitude="34.432610" longitude="-119.835800" heading="249.2" radius="10.0" cargo="false" ramp="true" />
+	<parkpos id="r14" latitude="34.432819" longitude="-119.835892" heading="249.0" radius="10.0" cargo="false" ramp="true" />
+	<parkpos id="r15" latitude="34.432377" longitude="-119.836159" heading="248.7" radius="10.0" cargo="false" ramp="true" />
+	<parkpos id="r16" latitude="34.432583" longitude="-119.836250" heading="250.2" radius="10.0" cargo="false" ramp="true" />
+	<parkpos id="r17" latitude="34.431976" longitude="-119.837593" heading="71.2" radius="15.0" cargo="false" ramp="true">
+		<aircraft>
+			<option airline="EDG" type="GLF4" real="true" hours="2,3,5" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="r18" latitude="34.431366" longitude="-119.839226" heading="248.9" radius="10.0" cargo="false" ramp="true" />
+	<parkpos id="r19" latitude="34.431595" longitude="-119.839317" heading="246.9" radius="10.0" cargo="false" ramp="true" />
+	<parkpos id="r2" latitude="34.424271" longitude="-119.837013" heading="105.4" radius="20.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="ASH" type="CRJ9" opf="AAL" real="false" hours="20" />
+			<option airline="LXJ" type="GLF4" real="false" hours="4" />
+			<option airline="QXE" type="E75L" real="false" hours="22,23" />
+			<option airline="UAL" type="A319" real="true" hours="20" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="r20" latitude="34.431271" longitude="-119.839546" heading="247.4" radius="10.0" cargo="false" ramp="true" />
+	<parkpos id="r21" latitude="34.431511" longitude="-119.839638" heading="245.2" radius="10.0" cargo="false" ramp="true" />
+	<parkpos id="r22" latitude="34.429436" longitude="-119.844406" heading="333.4" radius="10.0" cargo="false" ramp="true" />
+	<parkpos id="r23" latitude="34.429337" longitude="-119.844650" heading="334.8" radius="10.0" cargo="false" ramp="true" />
+	<parkpos id="r24" latitude="34.429321" longitude="-119.844986" heading="62.3" radius="10.0" cargo="false" ramp="true" />
+	<parkpos id="r25" latitude="34.431831" longitude="-119.839378" heading="271.6" radius="10.0" cargo="false" ramp="true" />
+	<parkpos id="r3" latitude="34.423138" longitude="-119.836037" heading="347.1" radius="10.0" cargo="false" ramp="true" />
+	<parkpos id="r4" latitude="34.422501" longitude="-119.836227" heading="163.1" radius="15.0" cargo="false" ramp="true" />
+	<parkpos id="r48" latitude="34.425320" longitude="-119.837181" heading="143.7" radius="15.0" cargo="false" ramp="true">
+		<aircraft>
+			<option airline="QXE" type="E75L" real="true" hours="3" />
+			<option airline="SKW" type="E75L" real="true" hours="1" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="r5" latitude="34.422588" longitude="-119.835884" heading="163.8" radius="15.0" cargo="false" ramp="true" />
+	<parkpos id="r50" latitude="34.425896" longitude="-119.836678" heading="194.2" radius="15.0" cargo="false" ramp="true" />
+	<parkpos id="r52" latitude="34.425999" longitude="-119.837090" heading="176.9" radius="15.0" cargo="false" ramp="true" />
+	<parkpos id="r54" latitude="34.425709" longitude="-119.837036" heading="98.6" radius="15.0" cargo="false" ramp="true" />
+	<parkpos id="r58" latitude="34.426006" longitude="-119.837425" heading="90.6" radius="15.0" cargo="false" ramp="true" />
+	<parkpos id="r6" latitude="34.421276" longitude="-119.836075" heading="347.4" radius="10.0" cargo="false" ramp="true" />
+	<parkpos id="r7" latitude="34.421322" longitude="-119.835854" heading="343.6" radius="10.0" cargo="false" ramp="true" />
+	<parkpos id="r8" latitude="34.421066" longitude="-119.835930" heading="164.1" radius="10.0" cargo="false" ramp="true" />
+	<parkpos id="r9" latitude="34.432549" longitude="-119.834587" heading="271.4" radius="15.0" cargo="false" ramp="true">
+		<aircraft>
+			<option airline="EDG" type="GLF4" real="true" hours="18" />
+			<option airline="FTH" type="C750" real="true" hours="2" />
+		</aircraft>
+	</parkpos>
+</parkpositions>

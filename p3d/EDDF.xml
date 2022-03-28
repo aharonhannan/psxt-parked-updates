@@ -1,0 +1,1102 @@
+<?xml version="1.0"?>
+<meta>
+	<info name="author" value="PSXseeconTraffic" />
+	<info name="version" value="29.4" />
+	<info name="date" value="Dec  3, 2021" />
+</meta>
+<parameters>
+	<parameter name="airport_name" value="Frankfurt-Main" />
+	<parameter name="supplier" value="P3Dv5 add-on Aerosoft" />
+	<parameter name="altitude" value="364" />
+	<parameter name="num_parkpos" value="193" />
+	<parameter name="parking_percentage" value="1" />
+	<parameter name="last_update" value="Jan 12, 2022" />
+	<parameter name="home_base" value="" />
+	<parameter name="max_two" value="" />
+	<parameter name="actual_hour_only" value="0" />
+	<parameter name="learn" value="1" />
+	<parameter name="real_only" value="0" />
+</parameters>
+<parkpositions>
+	<parkpos id="1" latitude="50.026402" longitude="8.549666" heading="159.0" radius="51.0" cargo="false" ramp="false" />
+	<parkpos id="171" latitude="50.029030" longitude="8.566600" heading="250.0" radius="51.0" cargo="false" ramp="false" />
+	<parkpos id="175" latitude="50.028454" longitude="8.556549" heading="249.0" radius="51.0" cargo="false" ramp="false" />
+	<parkpos id="380" latitude="50.025085" longitude="8.544462" heading="69.4" radius="51.0" cargo="false" ramp="false" />
+	<parkpos id="5" latitude="50.042877" longitude="8.556604" heading="160.0" radius="51.0" cargo="false" ramp="false" />
+	<parkpos id="A1" latitude="50.049171" longitude="8.570840" heading="98.2" radius="18.2" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="AUA" type="A320" real="true" hours="9" />
+			<option airline="DLH" type="A20N" real="true" hours="10" />
+			<option airline="DLH" type="A320" real="false" hours="12,16,17" />
+			<option airline="DLH" type="A321" real="false" hours="12" />
+			<option airline="DLH" type="E190" real="false" hours="15" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="A11" latitude="50.048935" longitude="8.569908" heading="294.2" radius="24.2" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="DLH" type="A319" real="false" hours="15" />
+			<option airline="DLH" type="A320" real="true" hours="10" />
+			<option airline="RYR" type="B738" real="false" hours="15" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="A13" latitude="50.048477" longitude="8.569586" heading="294.0" radius="24.2" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="DLH" type="A20N" real="false" hours="16" />
+			<option airline="DLH" type="A319" real="false" hours="10" />
+			<option airline="DLH" type="A320" real="true" hours="15" />
+			<option airline="RYR" type="B738" real="false" hours="17" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="A14" latitude="50.047840" longitude="8.567576" heading="114.1" radius="24.2" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="DLH" type="A20N" real="false" hours="15" />
+			<option airline="DLH" type="A319" real="true" hours="12" />
+			<option airline="DLH" type="A321" real="false" hours="10" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="A15" latitude="50.047989" longitude="8.569228" heading="293.9" radius="24.2" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="DLH" type="A319" real="false" hours="12" />
+			<option airline="DLH" type="A320" real="false" hours="10" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="A16" latitude="50.047359" longitude="8.567306" heading="114.2" radius="26.2" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="DLH" type="A320" real="true" hours="10" />
+			<option airline="DLH" type="E190" real="true" hours="11" />
+			<option airline="SWR" type="E290" real="true" hours="12" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="A17" latitude="50.047497" longitude="8.568878" heading="293.5" radius="24.2" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="DLH" type="A20N" real="true" hours="10,12" />
+			<option airline="DLH" type="A319" real="false" hours="16" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="A18" latitude="50.046871" longitude="8.566942" heading="114.6" radius="24.2" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="AFL" type="A20N" real="false" hours="15" />
+			<option airline="DLH" type="A320" real="false" hours="11" />
+			<option airline="DLH" type="A320" real="true" hours="16" />
+			<option airline="DLH" type="A321" real="true" hours="15" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="A19" latitude="50.046989" longitude="8.568589" heading="293.9" radius="26.2" cargo="false" ramp="false" />
+	<parkpos id="A20" latitude="50.046425" longitude="8.566421" heading="114.2" radius="32.2" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="UAL" type="B77W" real="false" hours="12" />
+			<option airline="UAL" type="B789" real="false" hours="11,12,13" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="A21" latitude="50.046497" longitude="8.568233" heading="293.9" radius="26.2" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="DLH" type="A21N" real="true" hours="12" />
+			<option airline="DLH" type="A320" real="true" hours="10" />
+			<option airline="PVT" type="A21N" real="true" hours="12" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="A22" latitude="50.045841" longitude="8.566031" heading="114.1" radius="32.2" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="UAL" type="B772" real="true" hours="13" />
+			<option airline="UAL" type="B78X" real="true" hours="10,11" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="A23" latitude="50.045998" longitude="8.567917" heading="293.9" radius="35.2" cargo="false" ramp="false" />
+	<parkpos id="A24" latitude="50.045330" longitude="8.565836" heading="114.5" radius="24.2" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="DLH" type="A20N" real="true" hours="10" />
+			<option airline="DLH" type="A319" real="true" hours="13" />
+			<option airline="DLH" type="A320" real="true" hours="12" />
+			<option airline="DLH" type="A321" real="false" hours="11" />
+			<option airline="TAP" type="A320" real="false" hours="16" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="A25" latitude="50.045383" longitude="8.567599" heading="293.9" radius="35.2" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="DLH" type="A359" real="false" hours="13" />
+			<option airline="DLH" type="B744" real="true" hours="10" />
+			<option airline="DLH" type="B748" real="true" hours="9,10" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="A26" latitude="50.044834" longitude="8.565373" heading="161.7" radius="18.2" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="DLH" type="A20N" real="false" hours="9,10,15" />
+			<option airline="DLH" type="A20N" real="true" hours="12" />
+			<option airline="DLH" type="A21N" real="false" hours="15" />
+			<option airline="DLH" type="A320" real="false" hours="10" />
+			<option airline="DLH" type="CRJ9" real="false" hours="13,15,16" />
+			<option airline="OCN" type="A320" real="false" hours="10" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="A28" latitude="50.044693" longitude="8.564833" heading="159.0" radius="18.2" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="AEE" type="A21N" real="false" hours="17" />
+			<option airline="DLH" type="A20N" real="false" hours="12,15,16" />
+			<option airline="DLH" type="A319" real="false" hours="15" />
+			<option airline="SAS" type="A320" real="false" hours="15" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="A30" latitude="50.044556" longitude="8.564290" heading="154.5" radius="18.2" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="DLH" type="A20N" real="false" hours="15,16" />
+			<option airline="DLH" type="A20N" real="true" hours="17" />
+			<option airline="TAP" type="A21N" real="true" hours="13" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="A34" latitude="50.044338" longitude="8.563337" heading="170.0" radius="18.2" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="AEE" type="A21N" real="false" hours="16" />
+			<option airline="DLH" type="A20N" real="false" hours="10" />
+			<option airline="DLH" type="A320" real="false" hours="15,16" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="A36" latitude="50.044205" longitude="8.562781" heading="164.0" radius="18.2" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="AEE" type="A21N" real="true" hours="11" />
+			<option airline="DLH" type="A320" real="false" hours="9,10" />
+			<option airline="DLH" type="A320" real="true" hours="15" />
+			<option airline="OCN" type="A320" real="false" hours="10" />
+			<option airline="TAP" type="A320" real="true" hours="16" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="A38" latitude="50.044071" longitude="8.562233" heading="160.1" radius="18.2" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="AEE" type="A21N" real="true" hours="16" />
+			<option airline="DLH" type="A21N" real="true" hours="10" />
+			<option airline="DLH" type="A320" real="true" hours="12" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="A40" latitude="50.043919" longitude="8.561698" heading="156.1" radius="18.2" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="DLH" type="A20N" real="false" hours="10,15,16" />
+			<option airline="DLH" type="A319" real="true" hours="12" />
+			<option airline="DLH" type="A320" real="false" hours="15" />
+			<option airline="DLH" type="A321" real="false" hours="16" />
+			<option airline="SAS" type="A320" real="false" hours="15" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="A50" latitude="50.047993" longitude="8.565898" heading="339.8" radius="32.2" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="DLH" type="A321" real="true" hours="15" />
+			<option airline="DLH" type="B744" real="true" hours="10" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="A52" latitude="50.047729" longitude="8.564962" heading="339.4" radius="45.2" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="DLH" type="A343" real="true" hours="10" />
+			<option airline="DLH" type="B748" real="true" hours="13" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="A54" latitude="50.047523" longitude="8.563894" heading="339.5" radius="45.2" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="DLH" type="A20N" real="true" hours="15,16" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="A58" latitude="50.047245" longitude="8.562748" heading="339.7" radius="45.2" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="DLH" type="A20N" real="true" hours="14" />
+			<option airline="DLH" type="A320" real="true" hours="16" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="A62" latitude="50.046997" longitude="8.561612" heading="339.3" radius="45.2" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="DLH" type="A333" real="true" hours="12" />
+			<option airline="DLH" type="B748" real="true" hours="10" />
+			<option airline="PVT" type="A343" real="true" hours="12" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="A66" latitude="50.046703" longitude="8.560464" heading="339.7" radius="45.2" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="DLH" type="A343" real="true" hours="12" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="A69" latitude="50.046463" longitude="8.559401" heading="339.9" radius="45.2" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="DLH" type="A343" real="true" hours="10,11,12" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="B10" latitude="50.048828" longitude="8.571531" heading="161.6" radius="18.2" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="DLH" type="A319" real="false" hours="15" />
+			<option airline="DLH" type="A319" real="true" hours="12" />
+			<option airline="DLH" type="A320" real="false" hours="15" />
+			<option airline="DLH" type="E190" real="false" hours="16" />
+			<option airline="DLH" type="E195" real="false" hours="16" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="B20" latitude="50.048149" longitude="8.571756" heading="114.7" radius="35.2" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="DLH" type="B748" real="false" hours="10,11" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="B22" latitude="50.047501" longitude="8.571274" heading="120.5" radius="35.2" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="DLH" type="A343" real="true" hours="10,11" />
+			<option airline="DLH" type="A359" real="true" hours="13" />
+			<option airline="PVT" type="A359" real="true" hours="13" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="B23" latitude="50.047085" longitude="8.572993" heading="276.5" radius="32.2" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="ANA" type="B789" real="false" hours="12" />
+			<option airline="THA" type="B77W" real="true" hours="13" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="B24" latitude="50.046997" longitude="8.570844" heading="114.7" radius="35.2" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="DLH" type="A20N" real="true" hours="12" />
+			<option airline="QTR" type="B77W" real="false" hours="16,17" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="B25" latitude="50.046520" longitude="8.570459" heading="90.7" radius="35.2" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="DLH" type="A20N" real="true" hours="15" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="B26" latitude="50.045944" longitude="8.570594" heading="59.3" radius="45.2" cargo="false" ramp="false" />
+	<parkpos id="B27" latitude="50.046066" longitude="8.571986" heading="4.4" radius="24.2" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="DLH" type="A319" real="false" hours="10" />
+			<option airline="DLH" type="A320" real="false" hours="16" />
+			<option airline="DLH" type="A320" real="true" hours="13,14" />
+			<option airline="DLH" type="A321" real="true" hours="12" />
+			<option airline="PVT" type="A321" real="true" hours="12" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="B28" latitude="50.046455" longitude="8.572625" heading="297.4" radius="40.2" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="CFG" type="B753" real="true" hours="10" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="B42" latitude="50.047523" longitude="8.574623" heading="45.1" radius="35.2" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="MSR" type="B738" real="true" hours="15" />
+			<option airline="THY" type="A359" real="true" hours="10,11" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="B43" latitude="50.048550" longitude="8.575237" heading="203.8" radius="26.2" cargo="false" ramp="false" />
+	<parkpos id="B44" latitude="50.048321" longitude="8.576280" heading="203.8" radius="35.2" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="CCA" type="B77W" real="false" hours="16" />
+			<option airline="DLH" type="B748" real="false" hours="10,11" />
+			<option airline="DLH" type="E190" real="true" hours="15" />
+			<option airline="THY" type="B77W" real="false" hours="11" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="B45" latitude="50.048073" longitude="8.577072" heading="232.4" radius="35.2" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="CFG" type="B763" real="false" hours="15,16" />
+			<option airline="DLH" type="A333" real="true" hours="10,11" />
+			<option airline="DLH" type="B748" real="false" hours="13,14" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="B46" latitude="50.047607" longitude="8.577514" heading="269.9" radius="45.2" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="AAR" type="A359" real="true" hours="14,15" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="B47" latitude="50.047089" longitude="8.576231" heading="24.0" radius="24.2" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="CFG" type="B763" real="false" hours="12" />
+			<option airline="CTN" type="A319" real="false" hours="10,15" />
+			<option airline="DLH" type="A21N" real="false" hours="12,16" />
+			<option airline="DLH" type="A21N" real="true" hours="13,14" />
+			<option airline="DLH" type="A320" real="false" hours="15" />
+			<option airline="THY" type="A21N" real="false" hours="17" />
+			<option airline="THY" type="B738" real="false" hours="11" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="B48" latitude="50.047234" longitude="8.575451" heading="33.5" radius="35.2" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="QTR" type="B77W" real="false" hours="10" />
+			<option airline="THY" type="A21N" real="true" hours="12" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="C11" latitude="50.049149" longitude="8.578749" heading="23.6" radius="35.2" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="AIC" type="B788" real="false" hours="10,11" />
+			<option airline="DLH" type="A333" real="false" hours="10" />
+			<option airline="RSY" type="A333" real="false" hours="16" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="C13" latitude="50.048870" longitude="8.579725" heading="10.6" radius="35.2" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="DLH" type="A320" real="true" hours="10,11" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="C14" latitude="50.049030" longitude="8.580656" heading="339.3" radius="45.2" cargo="false" ramp="false" />
+	<parkpos id="C15" latitude="50.049313" longitude="8.581799" heading="339.6" radius="45.2" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="QTR" type="B77W" real="true" hours="12,13" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="C16" latitude="50.049591" longitude="8.582932" heading="339.6" radius="45.2" cargo="false" ramp="false" />
+	<parkpos id="C2" latitude="50.050022" longitude="8.574278" heading="73.2" radius="18.2" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="CFG" type="A320" real="false" hours="9" />
+			<option airline="DLH" type="A20N" real="false" hours="15" />
+			<option airline="DLH" type="A320" real="false" hours="15" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="C4" latitude="50.050125" longitude="8.575224" heading="22.6" radius="26.2" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="EWG" type="A320" real="true" hours="10" />
+			<option airline="SXS" type="B738" real="true" hours="12" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="C5" latitude="50.049931" longitude="8.576012" heading="22.7" radius="26.2" cargo="false" ramp="false" />
+	<parkpos id="C6" latitude="50.049671" longitude="8.576804" heading="23.6" radius="32.2" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="DLH" type="A343" real="false" hours="10" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="C8" latitude="50.049370" longitude="8.577839" heading="23.6" radius="35.2" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="DLH" type="A333" real="false" hours="10" />
+			<option airline="OCN" type="A332" real="true" hours="12" />
+			<option airline="PVT" type="A332" real="true" hours="12" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="D1" latitude="50.050655" longitude="8.587483" heading="339.6" radius="40.2" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="AFL" type="A320" real="true" hours="15" />
+			<option airline="CAL" type="A359" real="false" hours="10" />
+			<option airline="DAL" type="A333" real="true" hours="12" />
+			<option airline="RJA" type="A319" real="true" hours="14" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="D4" latitude="50.050381" longitude="8.586455" heading="339.6" radius="45.2" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="PVT" type="B738" real="true" hours="12" />
+			<option airline="TUI" type="B738" real="true" hours="12" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="D5" latitude="50.050144" longitude="8.585404" heading="339.6" radius="40.2" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="ETD" type="B78X" real="false" hours="13" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="D8" latitude="50.049900" longitude="8.584345" heading="339.6" radius="40.2" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="AFL" type="A321" real="true" hours="13" />
+			<option airline="PVT" type="A321" real="true" hours="13" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="E2" latitude="50.050900" longitude="8.588531" heading="339.6" radius="45.2" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="AAL" type="B772" real="true" hours="10" />
+			<option airline="HVN" type="B78X" real="true" hours="16,17" />
+			<option airline="KAC" type="A20N" real="true" hours="12" />
+			<option airline="RYR" type="B738" real="true" hours="16" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="E5" latitude="50.051189" longitude="8.589778" heading="339.6" radius="45.2" cargo="false" ramp="false" />
+	<parkpos id="E6" latitude="50.051449" longitude="8.590814" heading="339.6" radius="40.2" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="AAL" type="B772" real="false" hours="10" />
+			<option airline="PGT" type="A320" real="true" hours="12" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="E9" latitude="50.051685" longitude="8.591868" heading="339.6" radius="40.2" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="AAL" type="B772" real="false" hours="10" />
+			<option airline="AFL" type="B77W" real="false" hours="12,16" />
+			<option airline="CAL" type="A359" real="false" hours="10" />
+			<option airline="CES" type="A332" real="false" hours="10,11,15" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="F211" latitude="50.039612" longitude="8.543737" heading="69.7" radius="50.0" cargo="true" ramp="true" />
+	<parkpos id="F212" latitude="50.040237" longitude="8.543376" heading="69.7" radius="50.0" cargo="true" ramp="true">
+		<aircraft>
+			<option airline="GEC" type="B77L" real="true" hours="16" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="F213" latitude="50.040043" longitude="8.545541" heading="250.0" radius="50.0" cargo="true" ramp="true">
+		<aircraft>
+			<option airline="GEC" type="B77L" real="false" hours="16" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="F214" latitude="50.040680" longitude="8.545226" heading="249.6" radius="50.0" cargo="true" ramp="true">
+		<aircraft>
+			<option airline="GEC" type="B77L" real="true" hours="16" />
+			<option airline="OCN" type="A332" real="true" hours="10,11" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="F215" latitude="50.040554" longitude="8.547675" heading="69.4" radius="50.0" cargo="true" ramp="true">
+		<aircraft>
+			<option airline="BCS" type="A306" real="false" hours="12,13" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="F216" latitude="50.041176" longitude="8.547303" heading="69.6" radius="50.0" cargo="true" ramp="true">
+		<aircraft>
+			<option airline="GEC" type="B77L" real="true" hours="13,14" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="F219" latitude="50.041672" longitude="8.549768" heading="69.5" radius="50.0" cargo="true" ramp="true">
+		<aircraft>
+			<option airline="CSN" type="B77L" real="false" hours="16,17" />
+			<option airline="UAE" type="B77L" real="false" hours="10" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="F220" latitude="50.041134" longitude="8.550137" heading="69.2" radius="50.0" cargo="true" ramp="true" />
+	<parkpos id="F222" latitude="50.038857" longitude="8.541491" heading="249.9" radius="35.3" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="DLH" type="E190" real="true" hours="15" />
+			<option airline="DLH" type="E195" real="true" hours="11" />
+			<option airline="OMA" type="B789" real="false" hours="10" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="F224" latitude="50.039406" longitude="8.541162" heading="249.9" radius="35.3" cargo="false" ramp="false" />
+	<parkpos id="F231" latitude="50.038010" longitude="8.535085" heading="339.6" radius="45.0" cargo="true" ramp="true">
+		<aircraft>
+			<option airline="BCS" type="A306" real="true" hours="12,13" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="F232" latitude="50.037708" longitude="8.533747" heading="339.1" radius="45.0" cargo="true" ramp="true" />
+	<parkpos id="F233" latitude="50.037376" longitude="8.532389" heading="339.1" radius="45.1" cargo="true" ramp="true">
+		<aircraft>
+			<option airline="THY" type="A332" real="false" hours="12" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="F234" latitude="50.037086" longitude="8.531026" heading="339.6" radius="45.0" cargo="true" ramp="true">
+		<aircraft>
+			<option airline="FDX" type="B77L" real="true" hours="13" />
+			<option airline="PVT" type="B77L" real="true" hours="13" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="F235" latitude="50.036797" longitude="8.529804" heading="339.6" radius="45.0" cargo="true" ramp="true">
+		<aircraft>
+			<option airline="BOX" type="B77L" opf="DHL" real="true" hours="15" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="F237" latitude="50.037281" longitude="8.527807" heading="339.6" radius="35.3" cargo="false" ramp="false" />
+	<parkpos id="F238" latitude="50.036964" longitude="8.526587" heading="340.0" radius="35.3" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="CCA" type="B77W" real="false" hours="12" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="G10" latitude="50.034222" longitude="8.587201" heading="295.0" radius="45.4" cargo="false" ramp="false" />
+	<parkpos id="G11" latitude="50.034573" longitude="8.585281" heading="114.6" radius="45.4" cargo="false" ramp="false" />
+	<parkpos id="G12" latitude="50.034836" longitude="8.587642" heading="295.0" radius="45.4" cargo="false" ramp="false" />
+	<parkpos id="G13" latitude="50.035305" longitude="8.585823" heading="114.6" radius="45.4" cargo="false" ramp="false" />
+	<parkpos id="G14" latitude="50.035439" longitude="8.588125" heading="295.0" radius="45.4" cargo="false" ramp="false" />
+	<parkpos id="G15" latitude="50.035976" longitude="8.586307" heading="114.6" radius="45.4" cargo="false" ramp="false" />
+	<parkpos id="G16" latitude="50.036312" longitude="8.587654" heading="249.9" radius="45.4" cargo="false" ramp="false" />
+	<parkpos id="G2" latitude="50.031673" longitude="8.583275" heading="114.6" radius="18.4" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="PVT" type="A20N" real="false" hours="12" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="G3" latitude="50.032040" longitude="8.583508" heading="114.6" radius="18.4" cargo="false" ramp="false" />
+	<parkpos id="G4" latitude="50.032173" longitude="8.585737" heading="294.2" radius="45.4" cargo="false" ramp="false" />
+	<parkpos id="G5" latitude="50.032413" longitude="8.583753" heading="114.6" radius="18.4" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="PVT" type="B738" real="false" hours="10" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="G6" latitude="50.032791" longitude="8.586174" heading="295.0" radius="45.4" cargo="false" ramp="false" />
+	<parkpos id="G7" latitude="50.032948" longitude="8.584113" heading="114.6" radius="45.4" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="DLH" type="B744" real="true" hours="11" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="G8" latitude="50.033405" longitude="8.586619" heading="295.0" radius="45.4" cargo="false" ramp="false" />
+	<parkpos id="G9" latitude="50.033680" longitude="8.584632" heading="114.6" radius="45.4" cargo="false" ramp="false" />
+	<parkpos id="H12" latitude="50.034325" longitude="8.580100" heading="249.8" radius="45.3" cargo="false" ramp="false" />
+	<parkpos id="H2" latitude="50.031906" longitude="8.581473" heading="249.8" radius="36.3" cargo="false" ramp="false" />
+	<parkpos id="H4" latitude="50.032368" longitude="8.581197" heading="249.0" radius="36.3" cargo="false" ramp="false" />
+	<parkpos id="H6" latitude="50.032925" longitude="8.580899" heading="249.8" radius="36.3" cargo="false" ramp="false" />
+	<parkpos id="H8" latitude="50.033604" longitude="8.580509" heading="249.8" radius="45.3" cargo="false" ramp="false" />
+	<parkpos id="S501" latitude="50.029942" longitude="8.563969" heading="69.4" radius="50.0" cargo="true" ramp="true">
+		<aircraft>
+			<option airline="CAO" type="B744" real="false" hours="15" />
+			<option airline="ETD" type="B77L" real="false" hours="15" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="S503" latitude="50.030464" longitude="8.563615" heading="69.5" radius="50.0" cargo="true" ramp="true" />
+	<parkpos id="S504" latitude="50.030022" longitude="8.561763" heading="249.6" radius="50.0" cargo="true" ramp="true">
+		<aircraft>
+			<option airline="DAH" type="B737" real="true" hours="16" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="S505" latitude="50.031071" longitude="8.563307" heading="69.8" radius="50.0" cargo="true" ramp="true">
+		<aircraft>
+			<option airline="CSN" type="B77L" real="true" hours="15,16" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="S506" latitude="50.030628" longitude="8.561432" heading="249.8" radius="50.0" cargo="true" ramp="true">
+		<aircraft>
+			<option airline="CSN" type="B77L" real="true" hours="12,13,15,16" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="S507" latitude="50.031612" longitude="8.563018" heading="69.9" radius="50.0" cargo="true" ramp="true">
+		<aircraft>
+			<option airline="KAL" type="B748" real="false" hours="12,13" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="S508" latitude="50.031166" longitude="8.561127" heading="249.7" radius="50.0" cargo="true" ramp="true" />
+	<parkpos id="S601" latitude="50.031395" longitude="8.567402" heading="69.2" radius="50.2" cargo="true" ramp="true">
+		<aircraft>
+			<option airline="CCA" type="A333" real="true" hours="10,11" />
+			<option airline="GEL" type="B742" real="true" hours="16" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="S602" latitude="50.030891" longitude="8.565316" heading="249.8" radius="50.2" cargo="true" ramp="true">
+		<aircraft>
+			<option airline="CSN" type="B77L" real="true" hours="11,12,16,17" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="S603" latitude="50.032089" longitude="8.567027" heading="68.8" radius="50.2" cargo="true" ramp="true" />
+	<parkpos id="S604" latitude="50.031578" longitude="8.564926" heading="249.5" radius="50.2" cargo="true" ramp="true">
+		<aircraft>
+			<option airline="LCO" type="B763" real="true" hours="15,16" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="V100" latitude="50.049019" longitude="8.596587" heading="338.9" radius="16.1" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="DLH" type="E195" real="false" hours="16" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="V101" latitude="50.048897" longitude="8.596111" heading="338.9" radius="16.2" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="JME" type="E55P" real="false" hours="16" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="V102" latitude="50.048782" longitude="8.595631" heading="338.9" radius="16.1" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="AFR" type="E170" real="false" hours="16,17" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="V106" latitude="50.049313" longitude="8.592562" heading="339.8" radius="24.2" cargo="false" ramp="false" />
+	<parkpos id="V107" latitude="50.049973" longitude="8.592192" heading="159.3" radius="24.2" cargo="false" ramp="false" />
+	<parkpos id="V108" latitude="50.049137" longitude="8.591908" heading="339.8" radius="24.2" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="ASL" type="A319" real="true" hours="10" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="V109" latitude="50.049805" longitude="8.591523" heading="159.3" radius="24.2" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="DLH" type="A320" real="true" hours="15" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="V110" latitude="50.048958" longitude="8.591142" heading="339.8" radius="24.2" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="RYR" type="B738" real="true" hours="10" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="V111" latitude="50.049633" longitude="8.590760" heading="159.3" radius="24.2" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="DLH" type="A319" real="true" hours="12" />
+			<option airline="DLH" type="A320" real="true" hours="9" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="V112" latitude="50.048817" longitude="8.590465" heading="339.8" radius="24.2" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="DLH" type="A20N" real="true" hours="10" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="V113" latitude="50.049309" longitude="8.589421" heading="159.3" radius="24.2" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="CFG" type="B763" real="true" hours="10" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="V114" latitude="50.048656" longitude="8.589796" heading="339.8" radius="24.2" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="DLH" type="A20N" real="true" hours="12" />
+			<option airline="DLH" type="A320" real="true" hours="10" />
+			<option airline="PGT" type="A21N" real="true" hours="15" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="V115" latitude="50.049133" longitude="8.588665" heading="159.3" radius="24.2" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="DLH" type="E195" real="true" hours="15" />
+			<option airline="ROT" type="B737" real="false" hours="11" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="V116" latitude="50.048462" longitude="8.589042" heading="339.8" radius="24.2" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="LBT" type="A320" real="true" hours="11" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="V117" latitude="50.048977" longitude="8.587998" heading="159.3" radius="24.2" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="EIN" type="A320" real="true" hours="10" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="V118" latitude="50.048309" longitude="8.588370" heading="339.8" radius="24.2" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="DLH" type="A321" real="true" hours="11" />
+			<option airline="RYR" type="B738" real="true" hours="10" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="V120" latitude="50.048374" longitude="8.585642" heading="159.1" radius="35.1" cargo="false" ramp="false" />
+	<parkpos id="V122" latitude="50.048187" longitude="8.584589" heading="159.5" radius="35.3" cargo="false" ramp="false" />
+	<parkpos id="V124" latitude="50.047890" longitude="8.583594" heading="159.3" radius="35.1" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="DLH" type="A21N" real="true" hours="11" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="V127" latitude="50.047554" longitude="8.582188" heading="159.7" radius="35.3" cargo="false" ramp="false" />
+	<parkpos id="V129" latitude="50.047310" longitude="8.581166" heading="159.7" radius="35.1" cargo="false" ramp="false" />
+	<parkpos id="V143" latitude="50.045380" longitude="8.562322" heading="37.0" radius="18.3" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="DLH" type="A21N" real="false" hours="13" />
+			<option airline="DLH" type="A319" real="false" hours="12,13,14" />
+			<option airline="DLH" type="A320" real="false" hours="13" />
+			<option airline="DLH" type="CRJ9" real="false" hours="16" />
+			<option airline="DLH" type="E190" real="false" hours="16" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="V144" latitude="50.045578" longitude="8.563129" heading="36.8" radius="18.3" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="AFL" type="A321" real="false" hours="13" />
+			<option airline="DLH" type="A20N" real="false" hours="10" />
+			<option airline="DLH" type="A21N" real="false" hours="10" />
+			<option airline="DLH" type="A319" real="false" hours="13,16" />
+			<option airline="DLH" type="A320" real="false" hours="15" />
+			<option airline="DLH" type="CRJ9" real="false" hours="15" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="V153" latitude="50.041527" longitude="8.559594" heading="160.0" radius="26.3" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="DLH" type="A319" real="true" hours="12" />
+			<option airline="DLH" type="E190" real="true" hours="13" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="V155" latitude="50.041355" longitude="8.558874" heading="160.0" radius="24.1" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="RYR" type="B738" real="false" hours="15" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="V158" latitude="50.041039" longitude="8.557497" heading="159.2" radius="24.1" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="CFG" type="A321" real="true" hours="10" />
+			<option airline="DLH" type="A319" real="true" hours="11" />
+			<option airline="RYR" type="B738" real="false" hours="16" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="V160" latitude="50.040852" longitude="8.556788" heading="160.0" radius="26.3" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="DLH" type="CRJ9" real="true" hours="10" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="V162" latitude="50.040710" longitude="8.556159" heading="159.7" radius="24.1" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="OCN" type="A320" real="false" hours="10" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="V164" latitude="50.039532" longitude="8.551143" heading="159.8" radius="35.3" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="DLH" type="A320" real="true" hours="10" />
+			<option airline="DLH" type="B744" real="true" hours="10,11" />
+			<option airline="SXS" type="B738" real="true" hours="13" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="V166" latitude="50.038940" longitude="8.548814" heading="160.0" radius="35.3" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="CFG" type="A321" real="true" hours="10" />
+			<option airline="DLH" type="A343" real="true" hours="12" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="V167" latitude="50.038723" longitude="8.547869" heading="159.1" radius="35.3" cargo="false" ramp="false" />
+	<parkpos id="V168" latitude="50.038498" longitude="8.546930" heading="159.3" radius="35.3" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="CKK" type="B77L" real="false" hours="15,16" />
+			<option airline="PVT" type="A332" real="true" hours="10" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="V169" latitude="50.038219" longitude="8.545847" heading="160.0" radius="35.3" cargo="false" ramp="false" />
+	<parkpos id="V170" latitude="50.037991" longitude="8.544915" heading="160.0" radius="35.3" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="CFG" type="A332" real="true" hours="10" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="V171" latitude="50.037216" longitude="8.542198" heading="160.0" radius="18.3" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="DLH" type="A21N" real="false" hours="16" />
+			<option airline="DLH" type="A319" real="false" hours="12" />
+			<option airline="DLH" type="A320" real="false" hours="15,16" />
+			<option airline="DLH" type="A321" real="false" hours="16" />
+			<option airline="DLH" type="CRJ9" real="true" hours="10" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="V172" latitude="50.037010" longitude="8.541409" heading="160.0" radius="18.3" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="AHO" type="E55P" real="false" hours="14" />
+			<option airline="DLH" type="A319" real="false" hours="12" />
+			<option airline="DLH" type="A320" real="false" hours="12" />
+			<option airline="DLH" type="CRJ9" real="true" hours="16" />
+			<option airline="ICE" type="B38M" real="false" hours="12" />
+			<option airline="SWR" type="BCS3" real="false" hours="12" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="V173" latitude="50.036835" longitude="8.540576" heading="160.0" radius="18.3" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="DLH" type="A20N" real="false" hours="15" />
+			<option airline="DLH" type="A21N" real="true" hours="10" />
+			<option airline="DLH" type="CRJ9" real="true" hours="12" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="V174" latitude="50.036556" longitude="8.539455" heading="160.0" radius="18.3" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="DAH" type="B737" real="false" hours="16,17" />
+			<option airline="DLH" type="CRJ9" real="false" hours="12" />
+			<option airline="DLH" type="CRJ9" real="true" hours="16" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="V175" latitude="50.036392" longitude="8.538689" heading="160.0" radius="18.3" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="AUA" type="A321" real="false" hours="12" />
+			<option airline="DLH" type="A20N" real="false" hours="15" />
+			<option airline="DLH" type="A319" real="false" hours="16" />
+			<option airline="DLH" type="A320" real="true" hours="10" />
+			<option airline="DLH" type="CRJ9" real="true" hours="17" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="V176" latitude="50.036198" longitude="8.537924" heading="159.4" radius="16.1" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="DLH" type="CRJ9" real="false" hours="15" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="V177" latitude="50.036037" longitude="8.537255" heading="160.0" radius="16.1" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="DLH" type="CRJ9" real="false" hours="10,12" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="V178" latitude="50.035889" longitude="8.536592" heading="160.0" radius="16.1" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="DLH" type="CRJ9" real="false" hours="15" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="V266" latitude="50.037354" longitude="8.525071" heading="340.1" radius="18.3" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="DLH" type="A20N" real="false" hours="16" />
+			<option airline="DLH" type="A21N" real="false" hours="13" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="V267" latitude="50.037212" longitude="8.524523" heading="340.1" radius="18.3" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="DLH" type="A21N" real="false" hours="15" />
+			<option airline="DLH" type="A320" real="false" hours="15" />
+			<option airline="DLH" type="E195" real="false" hours="15" />
+			<option airline="GFA" type="A21N" real="false" hours="10" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="V268" latitude="50.037083" longitude="8.523959" heading="340.1" radius="18.3" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="CFE" type="E190" real="false" hours="16" />
+			<option airline="DLH" type="A20N" real="false" hours="16" />
+			<option airline="DLH" type="CRJ9" real="false" hours="13" />
+			<option airline="DLH" type="E190" real="false" hours="15" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="V269" latitude="50.036945" longitude="8.523407" heading="340.1" radius="18.3" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="DLH" type="A319" real="false" hours="16" />
+			<option airline="DLH" type="A320" real="false" hours="16" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="V270" latitude="50.036751" longitude="8.522876" heading="340.1" radius="18.3" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="DLH" type="A320" real="false" hours="16" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="V310" latitude="50.027569" longitude="8.569500" heading="249.6" radius="50.2" cargo="true" ramp="true">
+		<aircraft>
+			<option airline="GTI" type="B744" real="true" hours="13,14" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="V311" latitude="50.028183" longitude="8.569157" heading="249.8" radius="50.2" cargo="true" ramp="true">
+		<aircraft>
+			<option airline="CCA" type="B748" real="true" hours="10,11" />
+			<option airline="KAL" type="B748" real="true" hours="13,14,15,16" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="V312" latitude="50.028843" longitude="8.568777" heading="249.0" radius="50.2" cargo="true" ramp="true" />
+	<parkpos id="V313" latitude="50.029560" longitude="8.568377" heading="248.9" radius="50.2" cargo="true" ramp="true">
+		<aircraft>
+			<option airline="KAL" type="B77W" real="true" hours="16" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="V92" latitude="50.049934" longitude="8.600414" heading="338.9" radius="16.2" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="DLH" type="E190" real="false" hours="16" />
+			<option airline="DLH" type="E195" real="false" hours="15" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="V93" latitude="50.049816" longitude="8.599935" heading="338.9" radius="16.3" cargo="false" ramp="false" />
+	<parkpos id="V94" latitude="50.049706" longitude="8.599460" heading="338.9" radius="16.2" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="DLH" type="CRJ9" real="false" hours="12" />
+			<option airline="DLH" type="E190" real="false" hours="15" />
+			<option airline="NJE" type="C68A" real="false" hours="16" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="V95" latitude="50.049587" longitude="8.598979" heading="338.9" radius="16.3" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="DLH" type="E190" real="false" hours="13,14" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="V96" latitude="50.049473" longitude="8.598503" heading="338.9" radius="16.2" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="DLH" type="E195" real="true" hours="16" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="V97" latitude="50.049355" longitude="8.598029" heading="338.9" radius="16.3" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="DLA" type="E195" real="false" hours="16,17" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="V98" latitude="50.049244" longitude="8.597551" heading="338.9" radius="16.1" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="DLA" type="E195" real="false" hours="10" />
+			<option airline="SAS" type="CRJ9" real="false" hours="10" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="V99" latitude="50.049133" longitude="8.597069" heading="338.9" radius="16.2" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="DLH" type="E195" real="false" hours="16" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="g157" latitude="50.041222" longitude="8.558236" heading="159.8" radius="26.3" cargo="false" ramp="false" />
+	<parkpos id="g163" latitude="50.040508" longitude="8.555429" heading="159.6" radius="26.3" cargo="false" ramp="false" />
+	<parkpos id="sep401" latitude="50.030048" longitude="8.557377" heading="159.6" radius="12.0" cargo="false" ramp="true" />
+	<parkpos id="sep403" latitude="50.030159" longitude="8.557835" heading="159.6" radius="12.0" cargo="false" ramp="true" />
+	<parkpos id="sep405" latitude="50.030262" longitude="8.558288" heading="159.6" radius="12.0" cargo="false" ramp="true" />
+	<parkpos id="sep411" latitude="50.030373" longitude="8.558745" heading="159.6" radius="12.0" cargo="false" ramp="true">
+		<aircraft>
+			<option airline="DLH" type="CRJ9" real="false" hours="16" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="sep412" latitude="50.030476" longitude="8.559198" heading="159.6" radius="12.0" cargo="false" ramp="true" />
+	<parkpos id="sep413" latitude="50.030582" longitude="8.559647" heading="159.6" radius="12.0" cargo="false" ramp="true" />
+	<parkpos id="swp402" latitude="50.029770" longitude="8.556015" heading="159.6" radius="10.0" cargo="false" ramp="true">
+		<aircraft>
+			<option airline="GAC" type="C510" real="true" hours="16" />
+			<option airline="PVT" type="P28A" real="false" hours="17" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="swp404" latitude="50.029682" longitude="8.555614" heading="159.6" radius="10.0" cargo="false" ramp="true">
+		<aircraft>
+			<option airline="BNO" type="C68A" real="true" hours="13" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="swp406" latitude="50.029568" longitude="8.555224" heading="159.6" radius="10.0" cargo="false" ramp="true" />
+	<parkpos id="swp408" latitude="50.029465" longitude="8.554826" heading="159.6" radius="10.0" cargo="false" ramp="true" />
+	<parkpos id="swp410" latitude="50.029373" longitude="8.554432" heading="159.6" radius="10.0" cargo="false" ramp="true" />
+	<parkpos id="swp412" latitude="50.029278" longitude="8.554034" heading="159.6" radius="10.0" cargo="false" ramp="true">
+		<aircraft>
+			<option airline="PVT" type="P28A" real="false" hours="16" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="swp414" latitude="50.029179" longitude="8.553639" heading="159.6" radius="10.0" cargo="false" ramp="true">
+		<aircraft>
+			<option airline="HRN" type="C56X" real="true" hours="12" />
+			<option airline="PVT" type="DA42" real="false" hours="15" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="swp416" latitude="50.029072" longitude="8.553195" heading="159.6" radius="10.0" cargo="false" ramp="true">
+		<aircraft>
+			<option airline="NJE" type="C56X" real="true" hours="13" />
+			<option airline="NJE" type="C68A" real="true" hours="13" />
+			<option airline="PVT" type="C150" real="false" hours="16" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="swp418" latitude="50.028976" longitude="8.552786" heading="159.6" radius="10.0" cargo="false" ramp="true" />
+	<parkpos id="swp420" latitude="50.028885" longitude="8.552388" heading="159.6" radius="10.0" cargo="false" ramp="true" />
+</parkpositions>
+<afcad>
+	<parkpos id="1" airls="DLH" />
+	<parkpos id="171" airls="" />
+	<parkpos id="175" airls="CFG" />
+	<parkpos id="380" airls="DLH" />
+	<parkpos id="5" airls="DLH" />
+	<parkpos id="A1" airls="DLH" />
+	<parkpos id="A11" airls="DLH" />
+	<parkpos id="A13" airls="DLH" />
+	<parkpos id="A14" airls="DLH" />
+	<parkpos id="A15" airls="DLH" />
+	<parkpos id="A16" airls="DLH" />
+	<parkpos id="A17" airls="DLH" />
+	<parkpos id="A18" airls="DLH" />
+	<parkpos id="A19" airls="DLH" />
+	<parkpos id="A20" airls="DLH,UAL" />
+	<parkpos id="A21" airls="DLH" />
+	<parkpos id="A22" airls="DLH,UAL" />
+	<parkpos id="A23" airls="DLH,UAL" />
+	<parkpos id="A24" airls="AEE,AUA,DLH,SAS,SWR,TAP" />
+	<parkpos id="A25" airls="DLH,UAL" />
+	<parkpos id="A26" airls="AEE,AUA,DLH,SAS,SWR,TAP" />
+	<parkpos id="A28" airls="AEE,AUA,DLH,SAS,SWR,TAP" />
+	<parkpos id="A30" airls="AEE,AUA,DLH,SAS,SWR,TAP" />
+	<parkpos id="A34" airls="AEE,AUA,DLH,SAS,SWR,TAP" />
+	<parkpos id="A36" airls="AEE,AUA,DLH,SAS,SWR,TAP" />
+	<parkpos id="A38" airls="AEE,AUA,DLH,SAS,SWR,TAP" />
+	<parkpos id="A40" airls="AEE,AUA,DLH,SAS,SWR,TAP" />
+	<parkpos id="A50" airls="DLH" />
+	<parkpos id="A52" airls="DLH,UAL" />
+	<parkpos id="A54" airls="DLH,UAL" />
+	<parkpos id="A58" airls="DLH,UAL" />
+	<parkpos id="A62" airls="DLH,UAL" />
+	<parkpos id="A66" airls="DLH,UAL" />
+	<parkpos id="A69" airls="DLH,UAL" />
+	<parkpos id="B10" airls="DLH" />
+	<parkpos id="B20" airls="ACA,ADR,ANA,CTN,DLH,LOT,MEA,QTR,TAR,THY" />
+	<parkpos id="B22" airls="ACA,ADR,ANA,CTN,DLH,LOT,MEA,QTR,TAR,THY" />
+	<parkpos id="B23" airls="ACA,ADR,ANA,CTN,DLH,LOT,MEA,QTR,TAR,THY" />
+	<parkpos id="B24" airls="ACA,ADR,ANA,CTN,DLH,LOT,MEA,QTR,TAR,THY" />
+	<parkpos id="B25" airls="ACA,ADR,ANA,CTN,DLH,LOT,MEA,QTR,TAR,THY" />
+	<parkpos id="B26" airls="DLH,SIA" />
+	<parkpos id="B27" airls="ACA,ADR,ANA,CTN,DLH,LOT,MEA,QTR,TAR,THY" />
+	<parkpos id="B28" airls="ACA,ADR,ANA,CTN,DLH,LOT,MEA,QTR,TAR,THY" />
+	<parkpos id="B42" airls="ACA,ADR,ANA,CFG,CTN,DLH,LOT,MEA,QTR,TAR,THY" />
+	<parkpos id="B43" airls="ACA,ADR,ANA,CFG,CTN,DLH,LOT,MEA,QTR,TAR,THY" />
+	<parkpos id="B44" airls="ACA,ADR,ANA,CFG,CTN,DLH,LOT,MEA,QTR,TAR,THY" />
+	<parkpos id="B45" airls="ACA,ADR,ANA,CFG,CTN,DLH,LOT,MEA,QTR,TAR,THY" />
+	<parkpos id="B46" airls="ACA,ADR,ANA,CFG,CTN,DLH,LOT,MEA,QTR,TAR,THY" />
+	<parkpos id="B47" airls="ACA,ADR,ANA,CFG,CTN,DLH,LOT,MEA,QTR,TAR,THY" />
+	<parkpos id="B48" airls="ACA,ADR,ANA,CFG,CTN,DLH,LOT,MEA,QTR,TAR,THY" />
+	<parkpos id="C11" airls="DLH" />
+	<parkpos id="C13" airls="DLH" />
+	<parkpos id="C14" airls="DLH" />
+	<parkpos id="C15" airls="DLH" />
+	<parkpos id="C16" airls="DLH" />
+	<parkpos id="C2" airls="CFG,CSA,DLH" />
+	<parkpos id="C4" airls="DLH" />
+	<parkpos id="C5" airls="DLH" />
+	<parkpos id="C6" airls="DLH" />
+	<parkpos id="C8" airls="DLH" />
+	<parkpos id="D1" airls="AAL,AEA,AFL,AFR,ALK,AZA,BAW,BER,CAL,CES,CPA,CSA,DAL,EIN,ETD,IBE,JAL,KAC,KAL,KLM,ROT,RZO,SXS,TUI,UAE,VLG" />
+	<parkpos id="D4" airls="AAL,AEA,AFL,AFR,ALK,AZA,BAW,BER,CAL,CES,CPA,CSA,DAL,EIN,ETD,IBE,JAL,KAC,KAL,KLM,ROT,RZO,SXS,TUI,UAE,VLG" />
+	<parkpos id="D5" airls="AAL,AEA,AFL,AFR,ALK,AZA,BAW,BER,CAL,CES,CPA,CSA,DAL,EIN,ETD,IBE,JAL,KAC,KAL,KLM,ROT,RZO,SXS,TUI,UAE,VLG" />
+	<parkpos id="D8" airls="AAL,AEA,AFL,AFR,ALK,AZA,BAW,BER,CAL,CES,CPA,CSA,DAL,EIN,ETD,IBE,JAL,KAC,KAL,KLM,ROT,RZO,SXS,TUI,UAE,VLG" />
+	<parkpos id="E2" airls="AAL,AEA,AFL,AFR,ALK,AZA,BAW,BER,CAL,CES,CPA,CSA,DAL,EIN,ETD,IBE,JAL,KAC,KAL,KLM,ROT,RZO,SXS,TUI,UAE,VLG" />
+	<parkpos id="E5" airls="AAL,AEA,AFL,AFR,ALK,AZA,BAW,BER,CAL,CES,CPA,CSA,DAL,EIN,ETD,IBE,JAL,KAC,KAL,KLM,ROT,RZO,SXS,TUI,UAE,VLG" />
+	<parkpos id="E6" airls="AAL,AEA,AFL,AFR,ALK,AZA,BAW,BER,CAL,CES,CPA,CSA,DAL,EIN,ETD,IBE,JAL,KAC,KAL,KLM,ROT,RZO,SXS,TUI,UAE,VLG" />
+	<parkpos id="E9" airls="AAL,AEA,AFL,AFR,ALK,AZA,BAW,BER,CAL,CES,CPA,CSA,DAL,EIN,ETD,IBE,JAL,KAC,KAL,KLM,ROT,RZO,SXS,TUI,UAE,VLG" />
+	<parkpos id="F211" airls="DHL,FDX,GEC" />
+	<parkpos id="F212" airls="DHL,FDX,GEC" />
+	<parkpos id="F213" airls="DHL,FDX,GEC" />
+	<parkpos id="F214" airls="DHL,FDX,GEC" />
+	<parkpos id="F215" airls="DHL,FDX,GEC" />
+	<parkpos id="F216" airls="DHL,FDX,GEC" />
+	<parkpos id="F219" airls="DHL,DLH,FDX,GEC" />
+	<parkpos id="F220" airls="DHL,DLH,FDX,GEC" />
+	<parkpos id="F222" airls="" />
+	<parkpos id="F224" airls="" />
+	<parkpos id="F231" airls="ACA,DHL,FDX,GEC" />
+	<parkpos id="F232" airls="ACA,DHL,FDX,GEC" />
+	<parkpos id="F233" airls="ACA,DHL,FDX,GEC" />
+	<parkpos id="F234" airls="ACA,DHL,FDX,GEC" />
+	<parkpos id="F235" airls="ACA,DHL,FDX,GEC" />
+	<parkpos id="F237" airls="" />
+	<parkpos id="F238" airls="" />
+	<parkpos id="G10" airls="" />
+	<parkpos id="G11" airls="" />
+	<parkpos id="G12" airls="" />
+	<parkpos id="G13" airls="" />
+	<parkpos id="G14" airls="" />
+	<parkpos id="G15" airls="" />
+	<parkpos id="G16" airls="" />
+	<parkpos id="G2" airls="" />
+	<parkpos id="G3" airls="" />
+	<parkpos id="G4" airls="" />
+	<parkpos id="G5" airls="" />
+	<parkpos id="G6" airls="" />
+	<parkpos id="G7" airls="" />
+	<parkpos id="G8" airls="" />
+	<parkpos id="G9" airls="" />
+	<parkpos id="H12" airls="" />
+	<parkpos id="H2" airls="" />
+	<parkpos id="H4" airls="" />
+	<parkpos id="H6" airls="" />
+	<parkpos id="H8" airls="" />
+	<parkpos id="S501" airls="CLX,CPA,CPN,DHL,KAL,SQC,UAL,UPS" />
+	<parkpos id="S503" airls="CLX,CPA,CPN,DHL,KAL,SQC,UAL,UPS" />
+	<parkpos id="S504" airls="CLX,CPA,CPN,DHL,KAL,SQC,UAL,UPS" />
+	<parkpos id="S505" airls="CLX,CPA,CPN,DHL,KAL,SQC,UAL,UPS" />
+	<parkpos id="S506" airls="CLX,CPA,CPN,DHL,KAL,SQC,UAL,UPS" />
+	<parkpos id="S507" airls="CLX,CPA,CPN,DHL,KAL,SQC,UAL,UPS" />
+	<parkpos id="S508" airls="CLX,CPA,CPN,DHL,KAL,SQC,UAL,UPS" />
+	<parkpos id="S601" airls="" />
+	<parkpos id="S602" airls="" />
+	<parkpos id="S603" airls="" />
+	<parkpos id="S604" airls="CLX,KIC,SQC,UAL" />
+	<parkpos id="V100" airls="AFR,AUA,AZA,BAW,CRX,DLA,DLH,ELO,EWG,KLC,LOT,SAB,SAS,SMX,SWR,TYR" />
+	<parkpos id="V101" airls="AFR,AUA,AZA,BAW,CRX,DLA,DLH,ELO,EWG,KLC,LOT,SAB,SAS,SMX,SWR,TYR" />
+	<parkpos id="V102" airls="AFR,AUA,AZA,BAW,CRX,DLA,DLH,ELO,EWG,KLC,LOT,SAB,SAS,SMX,SWR,TYR" />
+	<parkpos id="V106" airls="" />
+	<parkpos id="V107" airls="" />
+	<parkpos id="V108" airls="" />
+	<parkpos id="V109" airls="" />
+	<parkpos id="V110" airls="" />
+	<parkpos id="V111" airls="" />
+	<parkpos id="V112" airls="" />
+	<parkpos id="V113" airls="" />
+	<parkpos id="V114" airls="" />
+	<parkpos id="V115" airls="" />
+	<parkpos id="V116" airls="" />
+	<parkpos id="V117" airls="" />
+	<parkpos id="V118" airls="" />
+	<parkpos id="V120" airls="" />
+	<parkpos id="V122" airls="" />
+	<parkpos id="V124" airls="" />
+	<parkpos id="V127" airls="" />
+	<parkpos id="V129" airls="" />
+	<parkpos id="V143" airls="DLH" />
+	<parkpos id="V144" airls="DLH" />
+	<parkpos id="V153" airls="" />
+	<parkpos id="V155" airls="" />
+	<parkpos id="V158" airls="" />
+	<parkpos id="V160" airls="" />
+	<parkpos id="V162" airls="" />
+	<parkpos id="V164" airls="" />
+	<parkpos id="V166" airls="" />
+	<parkpos id="V167" airls="" />
+	<parkpos id="V168" airls="" />
+	<parkpos id="V169" airls="" />
+	<parkpos id="V170" airls="" />
+	<parkpos id="V171" airls="AUA,CRX,DLH,LGL,SAS,SMX,SWR" />
+	<parkpos id="V172" airls="AUA,CRX,DLH,LGL,SAS,SMX,SWR" />
+	<parkpos id="V173" airls="AUA,CRX,DLH,LGL,SAS,SMX,SWR" />
+	<parkpos id="V174" airls="AUA,CRX,DLH,LGL,SAS,SMX,SWR" />
+	<parkpos id="V175" airls="AUA,CRX,DLH,LGL,SAS,SMX,SWR" />
+	<parkpos id="V176" airls="AUA,CRX,DLH,LGL,SAS,SMX,SWR" />
+	<parkpos id="V177" airls="AUA,CRX,DLH,LGL,SAS,SMX,SWR" />
+	<parkpos id="V178" airls="AUA,CRX,DLH,LGL,SAS,SMX,SWR" />
+	<parkpos id="V266" airls="DLH" />
+	<parkpos id="V267" airls="DLH" />
+	<parkpos id="V268" airls="DLH" />
+	<parkpos id="V269" airls="DLH" />
+	<parkpos id="V270" airls="DLH" />
+	<parkpos id="V310" airls="" />
+	<parkpos id="V311" airls="" />
+	<parkpos id="V312" airls="" />
+	<parkpos id="V313" airls="" />
+	<parkpos id="V92" airls="AFR,AUA,AZA,BAW,CRX,DLA,DLH,ELO,EWG,KLC,LOT,SAB,SAS,SMX,SWR,TYR" />
+	<parkpos id="V93" airls="AFR,AUA,AZA,BAW,CRX,DLA,DLH,ELO,EWG,KLC,LOT,SAB,SAS,SMX,SWR,TYR" />
+	<parkpos id="V94" airls="AFR,AUA,AZA,BAW,CRX,DLA,DLH,ELO,EWG,KLC,LOT,SAB,SAS,SMX,SWR,TYR" />
+	<parkpos id="V95" airls="AFR,AUA,AZA,BAW,CRX,DLA,DLH,ELO,EWG,KLC,LOT,SAB,SAS,SMX,SWR,TYR" />
+	<parkpos id="V96" airls="AFR,AUA,AZA,BAW,CRX,DLA,DLH,ELO,EWG,KLC,LOT,SAB,SAS,SMX,SWR,TYR" />
+	<parkpos id="V97" airls="AFR,AUA,AZA,BAW,CRX,DLA,DLH,ELO,EWG,KLC,LOT,SAB,SAS,SMX,SWR,TYR" />
+	<parkpos id="V98" airls="AFR,AUA,AZA,BAW,CRX,DLA,DLH,ELO,EWG,KLC,LOT,SAB,SAS,SMX,SWR,TYR" />
+	<parkpos id="V99" airls="AFR,AUA,AZA,BAW,CRX,DLA,DLH,ELO,EWG,KLC,LOT,SAB,SAS,SMX,SWR,TYR" />
+	<parkpos id="g157" airls="" />
+	<parkpos id="g163" airls="" />
+	<parkpos id="sep401" airls="ADN" />
+	<parkpos id="sep403" airls="" />
+	<parkpos id="sep405" airls="" />
+	<parkpos id="sep411" airls="" />
+	<parkpos id="sep412" airls="EXT" />
+	<parkpos id="sep413" airls="EXT" />
+	<parkpos id="swp402" airls="" />
+	<parkpos id="swp404" airls="" />
+	<parkpos id="swp406" airls="" />
+	<parkpos id="swp408" airls="" />
+	<parkpos id="swp410" airls="" />
+	<parkpos id="swp412" airls="" />
+	<parkpos id="swp414" airls="" />
+	<parkpos id="swp416" airls="" />
+	<parkpos id="swp418" airls="" />
+	<parkpos id="swp420" airls="" />
+</afcad>

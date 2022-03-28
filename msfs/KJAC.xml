@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<meta>
+	<info name="author" value="PPG_MSFS" />
+	<info name="version" value="3.0" />
+	<info name="date" value="Apr  5, 2021" />
+</meta>
+<parameters>
+	<parameter name="airport_name" value="Jackson Hole" />
+	<parameter name="supplier" value="MSFS " />
+	<parameter name="altitude" value="6426" />
+	<parameter name="num_parkpos" value="7" />
+	<parameter name="parking_percentage" value="75" />
+	<parameter name="last_update" value="Feb  7, 2022" />
+	<parameter name="home_base" value="" />
+	<parameter name="max_two" value="" />
+	<parameter name="real_only" value="0" />
+</parameters>
+<parkpositions>
+	<parkpos id="10" latitude="43.599350" longitude="-110.739395" heading="108.0" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="11" latitude="43.597988" longitude="-110.739372" heading="18.0" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="9" latitude="43.600288" longitude="-110.738937" heading="108.0" radius="14.0" cargo="false" ramp="true">
+		<aircraft>
+			<option airline="RVJ" type="BE40" real="true" hours="17" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="g1" latitude="43.604687" longitude="-110.736702" heading="110.0" radius="27.0" cargo="false" ramp="true">
+		<aircraft>
+			<option airline="SKW" type="E75L" opf="UAL" real="true" hours="17" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="g2" latitude="43.603523" longitude="-110.737274" heading="110.0" radius="27.0" cargo="false" ramp="true" />
+	<parkpos id="g3" latitude="43.602291" longitude="-110.737869" heading="110.0" radius="27.0" cargo="false" ramp="true" />
+	<parkpos id="g4" latitude="43.601135" longitude="-110.738441" heading="110.0" radius="27.0" cargo="false" ramp="true" />
+</parkpositions>

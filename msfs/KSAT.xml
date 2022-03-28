@@ -1,0 +1,246 @@
+<?xml version="1.0"?>
+<meta>
+	<info name="author" value="PPG_MSFS" />
+	<info name="version" value="3.0" />
+	<info name="date" value="Apr 15, 2021" />
+</meta>
+<parameters>
+	<parameter name="airport_name" value="San Antonio Intl" />
+	<parameter name="supplier" value="MSFS " />
+	<parameter name="altitude" value="73" />
+	<parameter name="num_parkpos" value="90" />
+	<parameter name="parking_percentage" value="50" />
+	<parameter name="last_update" value="Apr 19, 2021" />
+	<parameter name="home_base" value="" />
+	<parameter name="max_two" value="" />
+	<parameter name="real_only" value="1" />
+	<parameter name="actual_hour_only" value="0" />
+	<parameter name="learn" value="1" />
+</parameters>
+<parkpositions>
+	<parkpos id="A1" latitude="29.524387" longitude="-98.472939" heading="22.6" radius="27.4" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="SLI" type="E190" real="false" hours="21" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="A10" latitude="29.526739" longitude="-98.470154" heading="311.1" radius="27.4" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="DAL" type="A320" real="false" hours="3" />
+			<option airline="SWA" type="B38M" real="true" hours="0" />
+			<option airline="SWA" type="B737" real="true" hours="19" />
+			<option airline="SWA" type="B738" real="true" hours="0" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="A11" latitude="29.527128" longitude="-98.471245" heading="149.4" radius="27.4" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="DAL" type="A321" real="false" hours="1,2" />
+			<option airline="SLI" type="E190" real="false" hours="17" />
+			<option airline="SWA" type="B737" real="true" hours="0" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="A12" latitude="29.526993" longitude="-98.469833" heading="312.1" radius="27.4" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="AMF" type="B190" real="false" hours="2,3" />
+			<option airline="SWA" type="B737" real="true" hours="0,19" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="A13" latitude="29.527332" longitude="-98.470871" heading="149.3" radius="27.4" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="SWA" type="B737" real="false" hours="3" />
+			<option airline="SWA" type="B737" real="true" hours="18,19,20,21,23" />
+			<option airline="SWA" type="B738" real="true" hours="21" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="A14" latitude="29.527266" longitude="-98.469559" heading="294.9" radius="27.4" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="SWA" type="B38M" real="true" hours="23" />
+			<option airline="SWA" type="B737" real="true" hours="22" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="A15" latitude="29.527697" longitude="-98.470612" heading="140.6" radius="27.4" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="AAL" type="A319" real="true" hours="2" />
+			<option airline="AAL" type="B738" real="true" hours="17,18" />
+			<option airline="SWA" type="B738" real="false" hours="2,3" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="A17" latitude="29.527958" longitude="-98.470367" heading="168.6" radius="27.4" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="AAL" type="A319" real="true" hours="18,19,22" />
+			<option airline="AAL" type="A320" real="true" hours="3" />
+			<option airline="SWA" type="B737" real="false" hours="3" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="A2" latitude="29.524324" longitude="-98.472595" heading="350.5" radius="27.4" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="ASA" type="A320" real="false" hours="1" />
+			<option airline="UAL" type="B738" real="false" hours="2" />
+			<option airline="VIV" type="A20N" real="false" hours="0" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="A3" latitude="29.524679" longitude="-98.472252" heading="338.2" radius="27.4" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="DAL" type="A321" real="true" hours="23" />
+			<option airline="SKW" type="E75L" real="false" hours="0,23" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="A4" latitude="29.524948" longitude="-98.471924" heading="328.4" radius="27.4" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="DAL" type="A319" real="true" hours="18,23" />
+			<option airline="DAL" type="A321" real="false" hours="22" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="A5" latitude="29.525274" longitude="-98.471672" heading="323.9" radius="27.4" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="FFT" type="A20N" real="true" hours="17" />
+			<option airline="FFT" type="A321" real="true" hours="1" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="A6" latitude="29.525591" longitude="-98.471359" heading="325.6" radius="27.4" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="AAL" type="A320" real="false" hours="22" />
+			<option airline="AMF" type="B190" real="false" hours="2,3" />
+			<option airline="VOI" type="A320" real="true" hours="2,18" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="A7" latitude="29.525904" longitude="-98.471069" heading="324.9" radius="27.4" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="SWA" type="B737" real="false" hours="21,22" />
+			<option airline="VIV" type="A20N" real="true" hours="2" />
+			<option airline="VOI" type="A320" real="false" hours="0" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="A8" latitude="29.526213" longitude="-98.470749" heading="328.2" radius="27.4" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="VIV" type="A20N" real="false" hours="1" />
+			<option airline="VIV" type="A20N" real="true" hours="1,19" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="A9" latitude="29.526423" longitude="-98.470406" heading="312.5" radius="27.4" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="DAL" type="A321" real="false" hours="18,19" />
+			<option airline="SWA" type="B738" real="false" hours="18" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="B1" latitude="29.528454" longitude="-98.473312" heading="132.9" radius="27.4" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="AAL" type="B738" real="false" hours="21,22" />
+			<option airline="DAL" type="A319" real="false" hours="4,5" />
+			<option airline="RPA" type="E170" real="true" hours="19" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="B2" latitude="29.527927" longitude="-98.472191" heading="313.2" radius="27.4" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="RPA" type="E75L" real="true" hours="23" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="B3" latitude="29.528780" longitude="-98.473000" heading="132.4" radius="27.4" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="ASH" type="E75L" real="true" hours="19" />
+			<option airline="UAL" type="B739" real="true" hours="3,21" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="B4" latitude="29.528244" longitude="-98.471893" heading="329.8" radius="27.4" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="AAL" type="A320" real="true" hours="0,23" />
+			<option airline="AAL" type="B738" real="true" hours="0,18,19,21" />
+			<option airline="ASA" type="B739" real="false" hours="3,4" />
+			<option airline="ASH" type="E75L" real="false" hours="1" />
+			<option airline="RPA" type="E75L" real="false" hours="21,22" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="B5" latitude="29.529110" longitude="-98.472694" heading="131.6" radius="27.4" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="SWA" type="B738" real="false" hours="3" />
+			<option airline="UAL" type="A319" real="true" hours="4,5,19" />
+			<option airline="UAL" type="B738" real="true" hours="21,23" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="B6" latitude="29.528444" longitude="-98.471550" heading="310.7" radius="27.4" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="AAL" type="A321" real="true" hours="3" />
+			<option airline="AAL" type="B738" real="true" hours="19,20,22" />
+			<option airline="DAL" type="A321" real="false" hours="21,22" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="B7" latitude="29.529289" longitude="-98.472351" heading="175.7" radius="27.4" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="FFT" type="A321" real="false" hours="1" />
+			<option airline="SWA" type="B737" real="false" hours="23" />
+			<option airline="UAL" type="B739" real="true" hours="22" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="B8" latitude="29.528809" longitude="-98.471428" heading="286.0" radius="27.4" cargo="false" ramp="false" />
+	<parkpos id="g27" latitude="29.529118" longitude="-98.471725" heading="257.8" radius="27.4" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="AAL" type="B738" real="false" hours="23" />
+			<option airline="SKW" type="E75L" real="false" hours="0" />
+			<option airline="SWA" type="B737" real="false" hours="18" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="r10" latitude="29.538074" longitude="-98.470703" heading="302.0" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r117" latitude="29.523310" longitude="-98.466080" heading="178.1" radius="10.0" cargo="false" ramp="true" />
+	<parkpos id="r118" latitude="29.522602" longitude="-98.466904" heading="316.3" radius="9.0" cargo="false" ramp="true" />
+	<parkpos id="r12" latitude="29.538227" longitude="-98.470551" heading="305.2" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r120" latitude="29.531897" longitude="-98.476082" heading="14.6" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="r121" latitude="29.530905" longitude="-98.474823" heading="39.6" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="r122" latitude="29.531658" longitude="-98.475769" heading="76.5" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="r123" latitude="29.531403" longitude="-98.476067" heading="37.9" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="r124" latitude="29.531174" longitude="-98.475761" heading="86.7" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="r125" latitude="29.531427" longitude="-98.475456" heading="84.0" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="r126" latitude="29.531412" longitude="-98.476692" heading="3.8" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="r127" latitude="29.530933" longitude="-98.476089" heading="39.6" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="r128" latitude="29.531160" longitude="-98.475121" heading="30.3" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="r129" latitude="29.530914" longitude="-98.475441" heading="93.7" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="r130" latitude="29.530687" longitude="-98.475777" heading="92.0" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="r131" latitude="29.530708" longitude="-98.476433" heading="220.5" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="r132" latitude="29.530474" longitude="-98.476128" heading="176.0" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="r133" latitude="29.530922" longitude="-98.476768" heading="217.3" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="r134" latitude="29.531174" longitude="-98.477028" heading="218.7" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="r135" latitude="29.530182" longitude="-98.475838" heading="211.8" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="r136" latitude="29.530411" longitude="-98.475487" heading="39.6" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="r137" latitude="29.530653" longitude="-98.475174" heading="190.4" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="r138" latitude="29.531151" longitude="-98.476418" heading="208.1" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="r139" latitude="29.531645" longitude="-98.476379" heading="1.0" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="r143" latitude="29.533501" longitude="-98.456276" heading="359.5" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="r144" latitude="29.533266" longitude="-98.455940" heading="89.2" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="r145" latitude="29.533459" longitude="-98.456833" heading="133.8" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="r146" latitude="29.533224" longitude="-98.456535" heading="282.0" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="r147" latitude="29.533010" longitude="-98.456223" heading="264.0" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="r148" latitude="29.532761" longitude="-98.455894" heading="195.9" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="r149" latitude="29.533031" longitude="-98.455612" heading="133.7" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="r150" latitude="29.533998" longitude="-98.456284" heading="313.6" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="r151" latitude="29.533751" longitude="-98.455971" heading="313.7" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="r152" latitude="29.533510" longitude="-98.455643" heading="133.7" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="r153" latitude="29.533293" longitude="-98.455345" heading="133.6" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="r154" latitude="29.534288" longitude="-98.456017" heading="313.7" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="r155" latitude="29.534000" longitude="-98.455688" heading="133.2" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="r156" latitude="29.533768" longitude="-98.455353" heading="313.8" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="r157" latitude="29.533743" longitude="-98.456581" heading="353.9" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="r158" latitude="29.530806" longitude="-98.457870" heading="26.1" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="r159" latitude="29.531052" longitude="-98.458183" heading="27.1" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="r160" latitude="29.531296" longitude="-98.458511" heading="19.2" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="r161" latitude="29.531530" longitude="-98.458847" heading="41.4" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="r17" latitude="29.538383" longitude="-98.470383" heading="302.2" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r18" latitude="29.536030" longitude="-98.468498" heading="41.7" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r22" latitude="29.535892" longitude="-98.468315" heading="38.9" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r23" latitude="29.535757" longitude="-98.468147" heading="40.8" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r24" latitude="29.535624" longitude="-98.467972" heading="41.3" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r25" latitude="29.535490" longitude="-98.467804" heading="41.9" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r26" latitude="29.535349" longitude="-98.467636" heading="42.0" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r28" latitude="29.535225" longitude="-98.467453" heading="37.3" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r3" latitude="29.537910" longitude="-98.471237" heading="309.7" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r39" latitude="29.523539" longitude="-98.465820" heading="146.5" radius="9.0" cargo="false" ramp="true" />
+	<parkpos id="r4" latitude="29.538055" longitude="-98.471062" heading="317.6" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r40" latitude="29.523760" longitude="-98.465591" heading="139.2" radius="9.0" cargo="false" ramp="true" />
+	<parkpos id="r43" latitude="29.522409" longitude="-98.467117" heading="316.2" radius="9.0" cargo="false" ramp="true" />
+	<parkpos id="r44" latitude="29.522219" longitude="-98.467331" heading="310.9" radius="9.0" cargo="false" ramp="true" />
+	<parkpos id="r45" latitude="29.521496" longitude="-98.467972" heading="283.2" radius="8.0" cargo="false" ramp="true" />
+	<parkpos id="r46" latitude="29.521284" longitude="-98.468216" heading="313.9" radius="8.0" cargo="false" ramp="true" />
+	<parkpos id="r48" latitude="29.521076" longitude="-98.468430" heading="302.4" radius="9.0" cargo="false" ramp="true" />
+	<parkpos id="r5" latitude="29.538202" longitude="-98.470917" heading="299.9" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r6" latitude="29.538349" longitude="-98.470764" heading="302.2" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r7" latitude="29.538515" longitude="-98.470596" heading="309.3" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r8" latitude="29.537760" longitude="-98.471016" heading="310.8" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r9" latitude="29.537912" longitude="-98.470871" heading="299.1" radius="7.0" cargo="false" ramp="true" />
+</parkpositions>
