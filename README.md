@@ -10,6 +10,13 @@ Parked updates are split between P3D and MSFS. Download the airport XML files th
 
 With so many airports worldwide and flight sim enthusiasts flying an uncountable combination of routes, people who rely on PSXT have relied on generating airports with the included Learner.exe tool, however this can take a week to build a comprehensive database for a single airport. The goal for this repository is to open up collaboration and merge parked updates for airports worldwide to get folks started quicker.
 
+## Contributors
+
+Special thanks to these folks (and their compute power) for generating files. Consider this list a living document - if you have contributed here, feel free to add yourself to this list:
+
+- [AVSIM\kiek](https://www.avsim.com/profile/101066-kiek/)
+- [AVSIM\airlinetycoon](https://www.avsim.com/profile/369444-airlinetycoon/)
+
 ## Credits
 
 Several files have been provided by kiek, the creator of PSXT, that have been included in this repository (or slightly modified from the base) available at [PSXT's Landing Page](https://www.lekseecon.nl/). These files are:
