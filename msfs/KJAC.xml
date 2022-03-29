@@ -1,34 +1,40 @@
 <?xml version="1.0"?>
 <meta>
-	<info name="author" value="PPG_MSFS" />
-	<info name="version" value="3.0" />
-	<info name="date" value="Apr  5, 2021" />
+	<info name="author" value="PSXT_MSFS" />
+	<info name="version" value="30.2" />
+	<info name="date" value="Jan 12, 2022" />
 </meta>
 <parameters>
 	<parameter name="airport_name" value="Jackson Hole" />
-	<parameter name="supplier" value="MSFS " />
-	<parameter name="altitude" value="6426" />
-	<parameter name="num_parkpos" value="7" />
-	<parameter name="parking_percentage" value="75" />
-	<parameter name="last_update" value="Feb  7, 2022" />
+	<parameter name="supplier" value="MSFS add-on " />
+	<parameter name="altitude" value="6422" />
+	<parameter name="num_parkpos" value="12" />
+	<parameter name="parking_percentage" value="20" />
+	<parameter name="last_update" value="Jan 12, 2022" />
 	<parameter name="home_base" value="" />
 	<parameter name="max_two" value="" />
+	<parameter name="actual_hour_only" value="0" />
 	<parameter name="real_only" value="0" />
 </parameters>
 <parkpositions>
-	<parkpos id="10" latitude="43.599350" longitude="-110.739395" heading="108.0" radius="14.0" cargo="false" ramp="true" />
-	<parkpos id="11" latitude="43.597988" longitude="-110.739372" heading="18.0" radius="14.0" cargo="false" ramp="true" />
-	<parkpos id="9" latitude="43.600288" longitude="-110.738937" heading="108.0" radius="14.0" cargo="false" ramp="true">
-		<aircraft>
-			<option airline="RVJ" type="BE40" real="true" hours="17" />
-		</aircraft>
-	</parkpos>
-	<parkpos id="g1" latitude="43.604687" longitude="-110.736702" heading="110.0" radius="27.0" cargo="false" ramp="true">
+	<parkpos id="g1" latitude="43.605083" longitude="-110.736458" heading="109.5" radius="22.0" cargo="false" ramp="true">
 		<aircraft>
 			<option airline="SKW" type="E75L" opf="UAL" real="true" hours="17" />
 		</aircraft>
 	</parkpos>
-	<parkpos id="g2" latitude="43.603523" longitude="-110.737274" heading="110.0" radius="27.0" cargo="false" ramp="true" />
-	<parkpos id="g3" latitude="43.602291" longitude="-110.737869" heading="110.0" radius="27.0" cargo="false" ramp="true" />
-	<parkpos id="g4" latitude="43.601135" longitude="-110.738441" heading="110.0" radius="27.0" cargo="false" ramp="true" />
+	<parkpos id="g10" latitude="43.601433" longitude="-110.738228" heading="109.3" radius="22.0" cargo="false" ramp="true" />
+	<parkpos id="g11" latitude="43.601017" longitude="-110.738434" heading="109.3" radius="22.0" cargo="false" ramp="true" />
+	<parkpos id="g3" latitude="43.604313" longitude="-110.736847" heading="109.5" radius="22.0" cargo="false" ramp="true" />
+	<parkpos id="g4" latitude="43.603924" longitude="-110.737038" heading="109.5" radius="22.0" cargo="false" ramp="true" />
+	<parkpos id="g6" latitude="43.603146" longitude="-110.737419" heading="109.5" radius="22.0" cargo="false" ramp="true" />
+	<parkpos id="g8" latitude="43.602268" longitude="-110.737816" heading="109.3" radius="22.0" cargo="false" ramp="true" />
+	<parkpos id="g9" latitude="43.601852" longitude="-110.738022" heading="109.4" radius="22.0" cargo="false" ramp="true">
+		<aircraft>
+			<option airline="RVJ" type="BE40" real="true" hours="17" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="r1" latitude="43.598366" longitude="-110.739380" heading="20.0" radius="12.0" cargo="false" ramp="false" />
+	<parkpos id="r2" latitude="43.599396" longitude="-110.738838" heading="110.0" radius="10.0" cargo="false" ramp="false" />
+	<parkpos id="r3" latitude="43.599525" longitude="-110.739319" heading="110.0" radius="10.0" cargo="false" ramp="false" />
+	<parkpos id="r4" latitude="43.599186" longitude="-110.738937" heading="110.0" radius="7.0" cargo="false" ramp="false" />
 </parkpositions>
