@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<meta>
+	<info name="author" value="PSXT_MSFS" />
+	<info name="version" value="30.3" />
+	<info name="date" value="Feb 14, 2022" />
+</meta>
+<parameters>
+	<parameter name="airport_name" value="Ballina" />
+	<parameter name="supplier" value="MSFS add-on " />
+	<parameter name="altitude" value="0" />
+	<parameter name="num_parkpos" value="3" />
+	<parameter name="parking_percentage" value="25" />
+	<parameter name="last_update" value="Feb 14, 2022" />
+	<parameter name="home_base" value="" />
+	<parameter name="max_two" value="" />
+	<parameter name="actual_hour_only" value="0" />
+	<parameter name="real_only" value="0" />
+</parameters>
+<parkpositions>
+	<parkpos id="g1" latitude="-28.837309" longitude="153.555145" heading="204.1" radius="14.0" cargo="false" ramp="true">
+		<aircraft>
+			<option airline="QLK" type="DH8D" real="false" hours="8" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="g3" latitude="-28.836884" longitude="153.556198" heading="207.7" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="g4" latitude="-28.836699" longitude="153.556946" heading="207.9" radius="22.0" cargo="false" ramp="false" />
+</parkpositions>

@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<meta>
+	<info name="author" value="PSXT_MSFS" />
+	<info name="version" value="28.4" />
+	<info name="date" value="Nov 14, 2021" />
+</meta>
+<parameters>
+	<parameter name="airport_name" value="" />
+	<parameter name="supplier" value="MSFS " />
+	<parameter name="altitude" value="13" />
+	<parameter name="num_parkpos" value="6" />
+	<parameter name="parking_percentage" value="25" />
+	<parameter name="last_update" value="Nov 16, 2021" />
+	<parameter name="home_base" value="" />
+	<parameter name="max_two" value="" />
+	<parameter name="actual_hour_only" value="0" />
+	<parameter name="learn" value="1" />
+	<parameter name="real_only" value="0" />
+</parameters>
+<parkpositions>
+	<parkpos id="ep1" latitude="-42.840721" longitude="147.510025" heading="315.0" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="ep2" latitude="-42.840572" longitude="147.510223" heading="315.0" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="ep3" latitude="-42.840439" longitude="147.510406" heading="315.0" radius="14.0" cargo="false" ramp="true">
+		<aircraft>
+			<option airline="PVT" type="C172" real="false" hours="8" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="g11" latitude="-42.840309" longitude="147.506500" heading="45.0" radius="18.0" cargo="false" ramp="true">
+		<aircraft>
+			<option airline="JST" type="A320" real="false" hours="10" />
+			<option airline="QFA" type="B738" real="false" hours="10" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="g21" latitude="-42.835377" longitude="147.505035" heading="275.5" radius="15.0" cargo="false" ramp="true" />
+	<parkpos id="g22" latitude="-42.835613" longitude="147.504547" heading="180.0" radius="15.0" cargo="false" ramp="true" />
+</parkpositions>

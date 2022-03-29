@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<meta>
+	<info name="author" value="PSXT_MSFS" />
+	<info name="version" value="30.1" />
+	<info name="date" value="Jan 10, 2022" />
+</meta>
+<parameters>
+	<parameter name="airport_name" value="A Coruna" />
+	<parameter name="supplier" value="MSFS add-on " />
+	<parameter name="altitude" value="314" />
+	<parameter name="num_parkpos" value="7" />
+	<parameter name="parking_percentage" value="100" />
+	<parameter name="last_update" value="Mar 25, 2022" />
+	<parameter name="home_base" value="" />
+	<parameter name="max_two" value="" />
+	<parameter name="actual_hour_only" value="0" />
+	<parameter name="real_only" value="0" />
+</parameters>
+<parkpositions>
+	<parkpos id="g1" latitude="43.301575" longitude="-8.380739" heading="323.6" radius="22.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="IBE" type="A319" real="false" hours="20" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="g11" latitude="43.300827" longitude="-8.381272" heading="30.3" radius="20.0" cargo="false" ramp="false" />
+	<parkpos id="g12" latitude="43.300999" longitude="-8.381730" heading="30.5" radius="20.0" cargo="false" ramp="false" />
+	<parkpos id="g13" latitude="43.301079" longitude="-8.382460" heading="358.7" radius="20.0" cargo="false" ramp="false" />
+	<parkpos id="g2" latitude="43.301979" longitude="-8.380270" heading="14.3" radius="20.0" cargo="false" ramp="false" />
+	<parkpos id="g3" latitude="43.302437" longitude="-8.380021" heading="301.2" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="g4" latitude="43.302803" longitude="-8.379749" heading="301.2" radius="20.0" cargo="false" ramp="false" />
+</parkpositions>

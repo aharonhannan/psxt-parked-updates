@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<meta>
+	<info name="author" value="PPG_MSFS" />
+	<info name="version" value="2.0" />
+	<info name="date" value="Jan 18, 2021" />
+</meta>
+<parameters>
+	<parameter name="airport_name" value="London City" />
+	<parameter name="supplier" value="MSFS ORBX" />
+	<parameter name="altitude" value="23" />
+	<parameter name="num_parkpos" value="18" />
+	<parameter name="parking_percentage" value="75" />
+	<parameter name="last_update" value="Sep  8, 2021" />
+	<parameter name="home_base" value="" />
+	<parameter name="max_two" value="" />
+	<parameter name="actual_hour_only" value="1" />
+	<parameter name="real_only" value="1" />
+	<parameter name="learn" value="1" />
+	<parameter name="add_from_AFCAD" value="0" />
+</parameters>
+<parkpositions>
+	<parkpos id="g1" latitude="51.504288" longitude="0.050142" heading="0.2" radius="18.0" cargo="false" ramp="true" />
+	<parkpos id="g2" latitude="51.504333" longitude="0.049566" heading="183.5" radius="18.0" cargo="false" ramp="true" />
+	<parkpos id="g22" latitude="51.504074" longitude="0.051348" heading="355.5" radius="18.0" cargo="false" ramp="true" />
+	<parkpos id="g23" latitude="51.504021" longitude="0.052073" heading="356.2" radius="15.0" cargo="false" ramp="true" />
+	<parkpos id="g24" latitude="51.503998" longitude="0.052647" heading="353.3" radius="15.0" cargo="false" ramp="true" />
+	<parkpos id="g4" latitude="51.504353" longitude="0.048342" heading="355.2" radius="15.0" cargo="false" ramp="true">
+		<aircraft>
+			<option airline="CFE" type="E190" real="true" hours="14" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="g5" latitude="51.504356" longitude="0.047772" heading="356.5" radius="15.0" cargo="false" ramp="true" />
+	<parkpos id="g6" latitude="51.504383" longitude="0.047159" heading="359.8" radius="15.0" cargo="false" ramp="true">
+		<aircraft>
+			<option airline="CFE" type="E190" real="false" hours="14" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="g7" latitude="51.504402" longitude="0.046553" heading="4.2" radius="15.0" cargo="false" ramp="true" />
+	<parkpos id="g8" latitude="51.504421" longitude="0.045874" heading="0.6" radius="15.0" cargo="false" ramp="true" />
+	<parkpos id="g9" latitude="51.504440" longitude="0.045249" heading="2.5" radius="15.0" cargo="false" ramp="true" />
+	<parkpos id="r12" latitude="51.504574" longitude="0.043589" heading="188.7" radius="13.0" cargo="false" ramp="true" />
+	<parkpos id="r13" latitude="51.504601" longitude="0.043095" heading="190.2" radius="12.0" cargo="false" ramp="true" />
+	<parkpos id="r14" latitude="51.504642" longitude="0.042510" heading="191.0" radius="11.0" cargo="false" ramp="true" />
+	<parkpos id="wp101" latitude="51.505367" longitude="0.040907" heading="357.5" radius="9.0" cargo="false" ramp="true" />
+	<parkpos id="wp102" latitude="51.505390" longitude="0.040519" heading="4.2" radius="9.0" cargo="false" ramp="true" />
+	<parkpos id="wp103" latitude="51.505016" longitude="0.040512" heading="186.0" radius="9.0" cargo="false" ramp="true" />
+	<parkpos id="wp104" latitude="51.505222" longitude="0.040243" heading="266.8" radius="11.0" cargo="false" ramp="true" />
+</parkpositions>
+<afcad>
+	<parkpos id="g1" airls="" />
+	<parkpos id="g2" airls="" />
+	<parkpos id="g22" airls="" />
+	<parkpos id="g23" airls="" />
+	<parkpos id="g24" airls="" />
+	<parkpos id="g4" airls="" />
+	<parkpos id="g5" airls="" />
+	<parkpos id="g6" airls="" />
+	<parkpos id="g7" airls="" />
+	<parkpos id="g8" airls="" />
+	<parkpos id="g9" airls="" />
+	<parkpos id="r12" airls="" />
+	<parkpos id="r13" airls="" />
+	<parkpos id="r14" airls="" />
+	<parkpos id="wp101" airls="" />
+	<parkpos id="wp102" airls="" />
+	<parkpos id="wp103" airls="" />
+	<parkpos id="wp104" airls="" />
+</afcad>

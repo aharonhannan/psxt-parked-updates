@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<meta>
+	<info name="author" value="PSXT_MSFS" />
+	<info name="version" value="29.5" />
+	<info name="date" value="Dec  8, 2021" />
+</meta>
+<parameters>
+	<parameter name="airport_name" value="" />
+	<parameter name="supplier" value="MSFS add-on UK2000" />
+	<parameter name="altitude" value="271" />
+	<parameter name="num_parkpos" value="24" />
+	<parameter name="parking_percentage" value="25" />
+	<parameter name="last_update" value="Dec 18, 2021" />
+	<parameter name="home_base" value="" />
+	<parameter name="max_two" value="" />
+	<parameter name="actual_hour_only" value="0" />
+	<parameter name="learn" value="1" />
+	<parameter name="real_only" value="0" />
+</parameters>
+<parkpositions>
+	<parkpos id="g1" latitude="49.205677" longitude="-2.196423" heading="158.9" radius="20.0" cargo="false" ramp="true" />
+	<parkpos id="g10" latitude="49.204945" longitude="-2.196761" heading="2.7" radius="20.0" cargo="false" ramp="true" />
+	<parkpos id="g11" latitude="49.204842" longitude="-2.196199" heading="15.7" radius="19.0" cargo="false" ramp="true">
+		<aircraft>
+			<option airline="BCI" type="AT75" real="false" hours="14" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="g12" latitude="49.204754" longitude="-2.195688" heading="15.5" radius="19.0" cargo="false" ramp="true" />
+	<parkpos id="g13" latitude="49.204666" longitude="-2.195169" heading="16.0" radius="13.0" cargo="false" ramp="true" />
+	<parkpos id="g3" latitude="49.205605" longitude="-2.197005" heading="176.1" radius="19.0" cargo="false" ramp="true" />
+	<parkpos id="g4" latitude="49.205555" longitude="-2.197519" heading="175.0" radius="19.0" cargo="false" ramp="true" />
+	<parkpos id="g5" latitude="49.205524" longitude="-2.198058" heading="173.8" radius="19.0" cargo="false" ramp="true" />
+	<parkpos id="g6" latitude="49.205460" longitude="-2.198580" heading="174.1" radius="19.0" cargo="false" ramp="true" />
+	<parkpos id="g7" latitude="49.204853" longitude="-2.198467" heading="352.4" radius="19.0" cargo="false" ramp="true" />
+	<parkpos id="g8" latitude="49.204849" longitude="-2.197883" heading="353.0" radius="19.0" cargo="false" ramp="true">
+		<aircraft>
+			<option airline="BCI" type="AT75" real="false" hours="13" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="g9" latitude="49.204899" longitude="-2.197336" heading="355.9" radius="19.0" cargo="false" ramp="true" />
+	<parkpos id="sep120" latitude="49.203587" longitude="-2.192363" heading="215.1" radius="14.0" cargo="false" ramp="true">
+		<aircraft>
+			<option airline="BCI" type="AT75" real="false" hours="13,14" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="sep121" latitude="49.204388" longitude="-2.190980" heading="193.8" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="sep122" latitude="49.204670" longitude="-2.191721" heading="12.4" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="sep123" latitude="49.204636" longitude="-2.192326" heading="319.8" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="sp15" latitude="49.203590" longitude="-2.194488" heading="197.4" radius="16.2" cargo="false" ramp="true" />
+	<parkpos id="sp16" latitude="49.203678" longitude="-2.194952" heading="192.6" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="sp17" latitude="49.203770" longitude="-2.195416" heading="193.2" radius="14.0" cargo="false" ramp="true">
+		<aircraft>
+			<option airline="GMA" type="BE20" real="false" hours="12" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="sp18" latitude="49.203854" longitude="-2.195891" heading="198.6" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="sp19" latitude="49.203945" longitude="-2.196346" heading="195.1" radius="14.0" cargo="false" ramp="true">
+		<aircraft>
+			<option airline="BCI" type="AT75" real="false" hours="14" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="sp20" latitude="49.204056" longitude="-2.197024" heading="204.3" radius="18.0" cargo="false" ramp="true">
+		<aircraft>
+			<option airline="GMA" type="G280" real="false" hours="12" />
+			<option airline="PVT" type="DA40" real="false" hours="16" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="sp21" latitude="49.204037" longitude="-2.197654" heading="207.3" radius="17.0" cargo="false" ramp="true" />
+	<parkpos id="sp22" latitude="49.203987" longitude="-2.198333" heading="203.2" radius="18.0" cargo="false" ramp="true">
+		<aircraft>
+			<option airline="BCI" type="AT75" real="false" hours="12,13" />
+		</aircraft>
+	</parkpos>
+</parkpositions>

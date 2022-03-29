@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<meta>
+	<info name="author" value="PPG_MSFS" />
+	<info name="version" value="6.1" />
+	<info name="date" value="Oct  1, 2021" />
+</meta>
+<parameters>
+	<parameter name="airport_name" value="Kastela" />
+	<parameter name="supplier" value="MSFS ORBX" />
+	<parameter name="altitude" value="61" />
+	<parameter name="num_parkpos" value="15" />
+	<parameter name="parking_percentage" value="75" />
+	<parameter name="last_update" value="Oct  1, 2021" />
+	<parameter name="home_base" value="" />
+	<parameter name="max_two" value="" />
+	<parameter name="real_only" value="0" />
+	<parameter name="actual_hour_only" value="0" />
+	<parameter name="learn" value="1" />
+</parameters>
+<parkpositions>
+	<parkpos id="r1" latitude="43.538330" longitude="16.300474" heading="115.2" radius="24.0" cargo="false" ramp="false" />
+	<parkpos id="r10" latitude="43.535076" longitude="16.297705" heading="101.2" radius="22.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="CTN" type="DH8D" real="true" hours="13" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="r11" latitude="43.534721" longitude="16.296965" heading="187.6" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="r12" latitude="43.535065" longitude="16.296497" heading="171.1" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="r14" latitude="43.535480" longitude="16.296251" heading="209.0" radius="18.0" cargo="false" ramp="false" />
+	<parkpos id="r15" latitude="43.535881" longitude="16.295698" heading="114.6" radius="12.0" cargo="false" ramp="true" />
+	<parkpos id="r16" latitude="43.535744" longitude="16.295170" heading="116.0" radius="12.0" cargo="false" ramp="true" />
+	<parkpos id="r2" latitude="43.538006" longitude="16.299892" heading="115.3" radius="24.0" cargo="false" ramp="false" />
+	<parkpos id="r3" latitude="43.537663" longitude="16.299271" heading="115.9" radius="24.0" cargo="false" ramp="false" />
+	<parkpos id="r4" latitude="43.537319" longitude="16.298645" heading="114.2" radius="24.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="EWG" type="A319" real="false" hours="10" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="r5" latitude="43.536980" longitude="16.298023" heading="116.1" radius="24.0" cargo="false" ramp="false" />
+	<parkpos id="r6" latitude="43.536598" longitude="16.297441" heading="94.6" radius="24.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="CFG" type="A321" real="false" hours="13" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="r7" latitude="43.536236" longitude="16.296671" heading="96.2" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="r8" latitude="43.535854" longitude="16.296909" heading="100.0" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="r9" latitude="43.535469" longitude="16.297302" heading="102.6" radius="22.0" cargo="false" ramp="false" />
+</parkpositions>

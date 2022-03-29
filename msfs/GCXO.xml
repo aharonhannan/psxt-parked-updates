@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<meta>
+	<info name="author" value="PSXT_MSFS" />
+	<info name="version" value="30.3" />
+	<info name="date" value="Mar 10, 2022" />
+</meta>
+<parameters>
+	<parameter name="airport_name" value="Los Rodeos" />
+	<parameter name="supplier" value="MSFS add-on " />
+	<parameter name="altitude" value="2077" />
+	<parameter name="num_parkpos" value="26" />
+	<parameter name="parking_percentage" value="25" />
+	<parameter name="last_update" value="Mar 10, 2022" />
+	<parameter name="home_base" value="" />
+	<parameter name="max_two" value="" />
+	<parameter name="actual_hour_only" value="0" />
+	<parameter name="real_only" value="0" />
+</parameters>
+<parkpositions>
+	<parkpos id="1" latitude="28.484953" longitude="-16.341827" heading="20.4" radius="27.0" cargo="false" ramp="true" />
+	<parkpos id="10" latitude="28.486866" longitude="-16.346958" heading="20.1" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="12" latitude="28.487598" longitude="-16.348721" heading="21.4" radius="27.0" cargo="false" ramp="true" />
+	<parkpos id="13" latitude="28.487377" longitude="-16.349373" heading="22.6" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="14" latitude="28.487970" longitude="-16.349874" heading="19.7" radius="27.0" cargo="false" ramp="true" />
+	<parkpos id="15" latitude="28.487799" longitude="-16.350628" heading="18.9" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="2" latitude="28.485001" longitude="-16.342396" heading="21.7" radius="27.0" cargo="false" ramp="true" />
+	<parkpos id="3" latitude="28.485268" longitude="-16.342863" heading="20.5" radius="27.0" cargo="false" ramp="true" />
+	<parkpos id="4" latitude="28.485395" longitude="-16.343485" heading="21.9" radius="27.0" cargo="false" ramp="true" />
+	<parkpos id="5" latitude="28.485886" longitude="-16.343943" heading="21.6" radius="27.0" cargo="false" ramp="true" />
+	<parkpos id="7" latitude="28.486515" longitude="-16.345898" heading="21.2" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="8" latitude="28.486645" longitude="-16.346251" heading="20.5" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="9" latitude="28.486753" longitude="-16.346600" heading="21.5" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="A2" latitude="28.484961" longitude="-16.342379" heading="21.4" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="A3" latitude="28.485075" longitude="-16.342720" heading="22.3" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="A5" latitude="28.485609" longitude="-16.343878" heading="21.3" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="B3" latitude="28.485197" longitude="-16.343058" heading="21.0" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="B5" latitude="28.485725" longitude="-16.344233" heading="22.0" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="K1" latitude="28.486229" longitude="-16.344873" heading="22.7" radius="27.0" cargo="false" ramp="true" />
+	<parkpos id="K2" latitude="28.487192" longitude="-16.347948" heading="61.4" radius="27.0" cargo="false" ramp="true" />
+	<parkpos id="T1" latitude="28.486328" longitude="-16.344566" heading="325.6" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="T2" latitude="28.486164" longitude="-16.345062" heading="30.4" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="T3" latitude="28.486332" longitude="-16.345491" heading="20.9" radius="22.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="VLG" type="A20N" real="false" hours="8,9" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="T4" latitude="28.486967" longitude="-16.347340" heading="36.6" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="T5" latitude="28.487085" longitude="-16.347845" heading="49.6" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="T6" latitude="28.487303" longitude="-16.348106" heading="59.0" radius="22.0" cargo="false" ramp="false" />
+</parkpositions>
+<afcad>
+	<parkpos id="1" airls="" />
+	<parkpos id="10" airls="" />
+	<parkpos id="12" airls="" />
+	<parkpos id="13" airls="" />
+	<parkpos id="14" airls="" />
+	<parkpos id="15" airls="" />
+	<parkpos id="2" airls="" excludes="A2" />
+	<parkpos id="3" airls="" excludes="A3,B3" />
+	<parkpos id="4" airls="" />
+	<parkpos id="5" airls="" />
+	<parkpos id="7" airls="" />
+	<parkpos id="8" airls="" />
+	<parkpos id="9" airls="" />
+	<parkpos id="A2" airls="IBB,IBE,AEA,IBX" excludes="2" />
+	<parkpos id="A3" airls="IBB,IBE,AEA,IBX" excludes="3" />
+	<parkpos id="A5" airls="IBB,IBE,AEA,IBX" />
+	<parkpos id="B3" airls="IBB,IBE,AEA,IBX" excludes="3" />
+	<parkpos id="B5" airls="IBB,IBE,AEA,IBX" />
+	<parkpos id="K1" airls="IBB,IBE,AEA,IBX" excludes="T2" />
+	<parkpos id="K2" airls="IBB,IBE,AEA,IBX" excludes="T5,T6" />
+	<parkpos id="T1" airls="IBB,IBE,AEA,IBX" />
+	<parkpos id="T2" airls="IBB,IBE,AEA,IBX" excludes="K1" />
+	<parkpos id="T3" airls="IBB,IBE,AEA,IBX" />
+	<parkpos id="T4" airls="IBB,IBE,AEA,IBX" />
+	<parkpos id="T5" airls="IBB,IBE,AEA,IBX" excludes="K2" />
+	<parkpos id="T6" airls="IBB,IBE,AEA,IBX" excludes="K2" />
+</afcad>

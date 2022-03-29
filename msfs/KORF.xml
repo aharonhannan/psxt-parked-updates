@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+<meta>
+	<info name="author" value="PSXT_MSFS" />
+	<info name="version" value="30.3" />
+	<info name="date" value="Jan 24, 2022" />
+</meta>
+<parameters>
+	<parameter name="airport_name" value="Norfolk Intl" />
+	<parameter name="supplier" value="MSFS add-on " />
+	<parameter name="altitude" value="23" />
+	<parameter name="num_parkpos" value="28" />
+	<parameter name="parking_percentage" value="20" />
+	<parameter name="last_update" value="Jan 24, 2022" />
+	<parameter name="home_base" value="" />
+	<parameter name="max_two" value="" />
+	<parameter name="real_only" value="0" />
+	<parameter name="actual_hour_only" value="0" />
+</parameters>
+<parkpositions>
+	<parkpos id="1" latitude="36.891254" longitude="-76.206848" heading="178.1" radius="15.0" cargo="true" ramp="true" />
+	<parkpos id="2" latitude="36.891834" longitude="-76.207817" heading="179.9" radius="15.0" cargo="true" ramp="true" />
+	<parkpos id="3" latitude="36.892445" longitude="-76.208710" heading="177.9" radius="15.0" cargo="true" ramp="true" />
+	<parkpos id="A1" latitude="36.899803" longitude="-76.203171" heading="193.3" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="A2" latitude="36.898811" longitude="-76.202698" heading="6.8" radius="22.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="RPA" type="E75S" opf="AAL" real="false" hours="13" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="A3" latitude="36.899727" longitude="-76.202629" heading="189.6" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="A4" latitude="36.898762" longitude="-76.202179" heading="13.1" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="A5" latitude="36.899673" longitude="-76.202164" heading="187.7" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="A6" latitude="36.898617" longitude="-76.201668" heading="12.2" radius="22.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="EJA" type="C68A" real="false" hours="14,15" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="A7" latitude="36.899612" longitude="-76.201721" heading="194.1" radius="22.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="AAL" type="B738" real="false" hours="13" />
+			<option airline="DAL" type="A321" real="false" hours="13,14" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="A8" latitude="36.898705" longitude="-76.201271" heading="11.6" radius="22.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="ENY" type="E170" real="true" hours="17" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="B16" latitude="36.897285" longitude="-76.203644" heading="37.5" radius="22.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="FFT" type="A20N" real="false" hours="13" />
+			<option airline="FFT" type="A20N" real="true" hours="13" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="B19" latitude="36.897606" longitude="-76.202698" heading="217.0" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="B20" latitude="36.896774" longitude="-76.202843" heading="46.0" radius="22.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="EJA" type="C68A" real="false" hours="13" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="B21" latitude="36.897366" longitude="-76.202240" heading="219.3" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="B23" latitude="36.897182" longitude="-76.201813" heading="215.5" radius="22.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="ENY" type="E170" real="false" hours="17" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="B24" latitude="36.897141" longitude="-76.201218" heading="227.3" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="B25" latitude="36.896606" longitude="-76.201050" heading="304.8" radius="22.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="JIA" type="CRJ7" opf="AAL" real="false" hours="13" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="B27" latitude="36.896294" longitude="-76.201477" heading="320.2" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="B28" latitude="36.895920" longitude="-76.201752" heading="349.1" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="B29" latitude="36.895939" longitude="-76.202217" heading="35.5" radius="22.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="UAL" type="A320" real="true" hours="14" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="B30" latitude="36.896255" longitude="-76.202499" heading="49.5" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="nwp1" latitude="36.887421" longitude="-76.200897" heading="47.7" radius="27.0" cargo="false" ramp="true" />
+	<parkpos id="nwp2" latitude="36.887066" longitude="-76.200386" heading="36.6" radius="27.0" cargo="false" ramp="true" />
+	<parkpos id="nwp3" latitude="36.886898" longitude="-76.201538" heading="213.5" radius="12.0" cargo="false" ramp="true" />
+	<parkpos id="nwp4" latitude="36.886745" longitude="-76.201332" heading="214.2" radius="12.0" cargo="false" ramp="true" />
+	<parkpos id="nwp5" latitude="36.886562" longitude="-76.201508" heading="47.0" radius="12.0" cargo="false" ramp="true" />
+	<parkpos id="nwp6" latitude="36.886723" longitude="-76.201759" heading="41.4" radius="12.0" cargo="false" ramp="true" />
+</parkpositions>

@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<meta>
+	<info name="author" value="PPG_MSFS" />
+	<info name="version" value="6.1" />
+	<info name="date" value="Sep 25, 2021" />
+</meta>
+<parameters>
+	<parameter name="airport_name" value="Bilbao" />
+	<parameter name="supplier" value="MSFS " />
+	<parameter name="altitude" value="143" />
+	<parameter name="num_parkpos" value="25" />
+	<parameter name="parking_percentage" value="50" />
+	<parameter name="last_update" value="Sep 25, 2021" />
+	<parameter name="home_base" value="" />
+	<parameter name="max_two" value="" />
+	<parameter name="actual_hour_only" value="0" />
+	<parameter name="learn" value="1" />
+	<parameter name="real_only" value="0" />
+</parameters>
+<parkpositions>
+	<parkpos id="1" latitude="43.301258" longitude="-2.934732" heading="7.3" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="10" latitude="43.301464" longitude="-2.904770" heading="328.9" radius="20.0" cargo="false" ramp="true" />
+	<parkpos id="11" latitude="43.301521" longitude="-2.904136" heading="329.5" radius="20.0" cargo="false" ramp="true" />
+	<parkpos id="12" latitude="43.301723" longitude="-2.903656" heading="329.5" radius="20.0" cargo="false" ramp="true" />
+	<parkpos id="123" latitude="43.301937" longitude="-2.903180" heading="329.5" radius="20.0" cargo="false" ramp="true" />
+	<parkpos id="13" latitude="43.302135" longitude="-2.902716" heading="329.5" radius="20.0" cargo="false" ramp="true" />
+	<parkpos id="14" latitude="43.302479" longitude="-2.902238" heading="236.4" radius="20.0" cargo="false" ramp="true" />
+	<parkpos id="15" latitude="43.302814" longitude="-2.902435" heading="236.4" radius="20.0" cargo="false" ramp="true">
+		<aircraft>
+			<option airline="EZS" type="A319" real="false" hours="11" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="16" latitude="43.303238" longitude="-2.902832" heading="236.4" radius="20.0" cargo="false" ramp="true" />
+	<parkpos id="17" latitude="43.303478" longitude="-2.903193" heading="236.4" radius="20.0" cargo="false" ramp="true" />
+	<parkpos id="18" latitude="43.303867" longitude="-2.903632" heading="236.4" radius="20.0" cargo="false" ramp="true">
+		<aircraft>
+			<option airline="VLG" type="A320" real="false" hours="11" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="19" latitude="43.304588" longitude="-2.909828" heading="356.4" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="2" latitude="43.301285" longitude="-2.935290" heading="6.0" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="20" latitude="43.304703" longitude="-2.909405" heading="356.4" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="21" latitude="43.304680" longitude="-2.908959" heading="356.4" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="3" latitude="43.301334" longitude="-2.935812" heading="7.0" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="7" latitude="43.303020" longitude="-2.904799" heading="57.3" radius="25.0" cargo="false" ramp="true" />
+	<parkpos id="8" latitude="43.301243" longitude="-2.934141" heading="5.3" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="9" latitude="43.302303" longitude="-2.904405" heading="57.3" radius="27.0" cargo="false" ramp="true" />
+	<parkpos id="g1" latitude="43.304691" longitude="-2.908196" heading="27.4" radius="27.0" cargo="false" ramp="true" />
+	<parkpos id="g2" latitude="43.304489" longitude="-2.907543" heading="27.4" radius="27.0" cargo="false" ramp="true" />
+	<parkpos id="g3" latitude="43.304283" longitude="-2.906986" heading="27.4" radius="27.0" cargo="false" ramp="true" />
+	<parkpos id="g4" latitude="43.304100" longitude="-2.906473" heading="27.4" radius="27.0" cargo="false" ramp="true" />
+	<parkpos id="g5" latitude="43.303902" longitude="-2.905906" heading="27.4" radius="27.0" cargo="false" ramp="true" />
+	<parkpos id="g6" latitude="43.303631" longitude="-2.905292" heading="27.4" radius="30.0" cargo="false" ramp="true" />
+</parkpositions>

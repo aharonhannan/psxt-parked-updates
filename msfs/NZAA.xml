@@ -1,0 +1,215 @@
+<?xml version="1.0"?>
+<meta>
+	<info name="author" value="PSXT_MSFS" />
+	<info name="version" value="28.4" />
+	<info name="date" value="Nov 10, 2021" />
+</meta>
+<parameters>
+	<parameter name="airport_name" value="" />
+	<parameter name="supplier" value="MSFS Flightbeam" />
+	<parameter name="altitude" value="26" />
+	<parameter name="num_parkpos" value="64" />
+	<parameter name="parking_percentage" value="25" />
+	<parameter name="last_update" value="Feb 17, 2022" />
+	<parameter name="home_base" value="" />
+	<parameter name="max_two" value="" />
+	<parameter name="actual_hour_only" value="0" />
+	<parameter name="learn" value="1" />
+	<parameter name="real_only" value="0" />
+</parameters>
+<parkpositions>
+	<parkpos id="0" latitude="-37.008934" longitude="174.784531" heading="70.1" radius="27.0" cargo="false" ramp="true" />
+	<parkpos id="g1" latitude="-37.006145" longitude="174.781799" heading="117.7" radius="32.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="ANZ" type="B789" real="false" hours="9,10" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="g10" latitude="-37.008644" longitude="174.782181" heading="17.4" radius="32.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="CSN" type="B789" real="false" hours="9" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="g15" latitude="-37.004837" longitude="174.779892" heading="340.0" radius="32.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="SIA" type="A359" real="false" hours="3" />
+			<option airline="SIA" type="A359" real="true" hours="0,1" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="g16" latitude="-37.005108" longitude="174.778961" heading="339.5" radius="32.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="FJI" type="A332" real="true" hours="0,1" />
+			<option airline="JST" type="B788" real="true" hours="7,8" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="g17" latitude="-37.005199" longitude="174.777908" heading="339.9" radius="32.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="CSN" type="B789" real="true" hours="3,4" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="g18" latitude="-37.005516" longitude="174.776993" heading="339.7" radius="32.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="ANZ" type="B789" real="false" hours="1" />
+			<option airline="QFA" type="A332" real="false" hours="3,4" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="g2" latitude="-37.006550" longitude="174.783386" heading="294.0" radius="32.0" cargo="false" ramp="false" />
+	<parkpos id="g20" latitude="-37.006939" longitude="174.788513" heading="71.3" radius="18.0" cargo="false" ramp="false" />
+	<parkpos id="g21" latitude="-37.007290" longitude="174.788635" heading="70.4" radius="18.0" cargo="false" ramp="false" />
+	<parkpos id="g22" latitude="-37.007607" longitude="174.788864" heading="71.1" radius="18.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="JST" type="A320" real="true" hours="1" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="g24" latitude="-37.007656" longitude="174.789322" heading="33.7" radius="18.0" cargo="false" ramp="false" />
+	<parkpos id="g28" latitude="-37.007530" longitude="174.789703" heading="355.8" radius="18.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="ANZ" type="A320" real="false" hours="1" />
+			<option airline="ANZ" type="A320" real="true" hours="23" />
+			<option airline="ANZ" type="DH8C" real="false" hours="3,4" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="g29" latitude="-37.007397" longitude="174.790115" heading="341.7" radius="18.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="ANZ" type="A320" real="true" hours="3" />
+			<option airline="ANZ" type="DH8C" real="false" hours="1" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="g3" latitude="-37.006603" longitude="174.781525" heading="118.4" radius="32.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="ANZ" type="B789" real="true" hours="0" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="g30" latitude="-37.007282" longitude="174.790543" heading="341.9" radius="18.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="ANZ" type="A320" real="true" hours="3" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="g31" latitude="-37.007168" longitude="174.790985" heading="341.7" radius="18.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="ANZ" type="A20N" real="true" hours="1" />
+			<option airline="ANZ" type="A320" real="true" hours="3,4" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="g32" latitude="-37.007050" longitude="174.791473" heading="341.9" radius="18.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="ANZ" type="A320" real="false" hours="23" />
+			<option airline="ANZ" type="A320" real="true" hours="2,3" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="g33" latitude="-37.006836" longitude="174.791855" heading="313.1" radius="18.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="ANZ" type="DH8C" real="false" hours="1,2" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="g35" latitude="-37.006741" longitude="174.792419" heading="341.5" radius="16.0" cargo="false" ramp="true" />
+	<parkpos id="g39" latitude="-37.006344" longitude="174.792831" heading="305.2" radius="14.0" cargo="false" ramp="true">
+		<aircraft>
+			<option airline="ANZ" type="DH8C" real="true" hours="1,3,4" />
+			<option airline="RLK" type="DH8C" real="true" hours="0,1" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="g4" latitude="-37.007092" longitude="174.783096" heading="295.3" radius="32.0" cargo="false" ramp="false" />
+	<parkpos id="g40" latitude="-37.006744" longitude="174.792831" heading="251.8" radius="14.0" cargo="false" ramp="true">
+		<aircraft>
+			<option airline="ANZ" type="AT76" real="false" hours="3" />
+			<option airline="ANZ" type="AT76" real="true" hours="23" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="g42" latitude="-37.006226" longitude="174.793304" heading="21.8" radius="14.0" cargo="false" ramp="true">
+		<aircraft>
+			<option airline="ANZ" type="AT76" real="false" hours="1" />
+			<option airline="ANZ" type="DH8C" real="true" hours="2,6" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="g43" latitude="-37.006554" longitude="174.793549" heading="302.2" radius="12.0" cargo="false" ramp="true" />
+	<parkpos id="g45" latitude="-37.006439" longitude="174.793915" heading="0.1" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="g46" latitude="-37.006084" longitude="174.793762" heading="282.6" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="g47" latitude="-37.005844" longitude="174.793564" heading="250.6" radius="14.0" cargo="false" ramp="true">
+		<aircraft>
+			<option airline="ANZ" type="DH8C" real="true" hours="2,3,4" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="g48" latitude="-37.005554" longitude="174.793442" heading="251.2" radius="14.0" cargo="false" ramp="true">
+		<aircraft>
+			<option airline="ANZ" type="AT76" real="true" hours="1,3" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="g49" latitude="-37.005241" longitude="174.793304" heading="250.8" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="g5" latitude="-37.007198" longitude="174.781174" heading="109.3" radius="32.0" cargo="false" ramp="false" />
+	<parkpos id="g50" latitude="-37.004948" longitude="174.793167" heading="250.7" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="g51" latitude="-37.004948" longitude="174.794083" heading="71.8" radius="8.0" cargo="false" ramp="true" />
+	<parkpos id="g52" latitude="-37.005108" longitude="174.794144" heading="71.8" radius="8.0" cargo="false" ramp="true" />
+	<parkpos id="g53" latitude="-37.005264" longitude="174.794205" heading="71.9" radius="8.0" cargo="false" ramp="true" />
+	<parkpos id="g54" latitude="-37.005444" longitude="174.794312" heading="70.8" radius="12.0" cargo="false" ramp="true" />
+	<parkpos id="g55" latitude="-37.005650" longitude="174.794403" heading="71.5" radius="12.0" cargo="false" ramp="true" />
+	<parkpos id="g56" latitude="-37.006062" longitude="174.794632" heading="70.0" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="g58" latitude="-37.006207" longitude="174.794998" heading="342.0" radius="10.0" cargo="false" ramp="true" />
+	<parkpos id="g59" latitude="-37.006138" longitude="174.795258" heading="340.5" radius="10.0" cargo="false" ramp="true" />
+	<parkpos id="g6" latitude="-37.007633" longitude="174.782791" heading="297.6" radius="32.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="ANZ" type="B789" real="true" hours="0,10" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="g7" latitude="-37.007809" longitude="174.781097" heading="69.7" radius="32.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="MAS" type="A359" real="false" hours="1,2" />
+			<option airline="SIA" type="A359" real="true" hours="10,11" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="g70" latitude="-37.007381" longitude="174.787170" heading="162.0" radius="18.0" cargo="false" ramp="true" />
+	<parkpos id="g71" latitude="-37.007530" longitude="174.786789" heading="159.9" radius="18.0" cargo="false" ramp="true">
+		<aircraft>
+			<option airline="ANZ" type="A320" real="false" hours="2" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="g72" latitude="-37.007648" longitude="174.786362" heading="160.6" radius="18.0" cargo="false" ramp="true" />
+	<parkpos id="g73" latitude="-37.007801" longitude="174.785934" heading="161.1" radius="18.0" cargo="false" ramp="true">
+		<aircraft>
+			<option airline="ANZ" type="A320" real="true" hours="2" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="g74" latitude="-37.009655" longitude="174.777618" heading="340.9" radius="35.0" cargo="false" ramp="true">
+		<aircraft>
+			<option airline="SIA" type="A359" real="false" hours="10,11" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="g78" latitude="-37.007950" longitude="174.779099" heading="267.4" radius="20.0" cargo="false" ramp="true" />
+	<parkpos id="g79" latitude="-37.007034" longitude="174.779373" heading="256.9" radius="20.0" cargo="false" ramp="true" />
+	<parkpos id="g8" latitude="-37.008438" longitude="174.782913" heading="322.9" radius="32.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="FJI" type="A332" real="false" hours="0,1" />
+			<option airline="SIA" type="A359" real="false" hours="0,1" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="g82" latitude="-37.007488" longitude="174.784912" heading="102.8" radius="32.0" cargo="false" ramp="true" />
+	<parkpos id="g83" latitude="-37.008133" longitude="174.784653" heading="102.7" radius="33.0" cargo="false" ramp="true" />
+	<parkpos id="g9" latitude="-37.008343" longitude="174.781433" heading="40.2" radius="32.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="ANZ" type="B789" real="true" hours="10,11,23" />
+			<option airline="THT" type="B789" real="false" hours="1" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="np101" latitude="-37.002998" longitude="174.804886" heading="182.1" radius="15.0" cargo="true" ramp="true" />
+	<parkpos id="np102" latitude="-37.003006" longitude="174.805344" heading="181.9" radius="15.0" cargo="true" ramp="true" />
+	<parkpos id="np103" latitude="-37.002609" longitude="174.803696" heading="251.9" radius="15.0" cargo="true" ramp="true">
+		<aircraft>
+			<option airline="LFT" type="JS32" real="true" hours="0,23" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="np105" latitude="-37.002247" longitude="174.804001" heading="345.7" radius="15.0" cargo="true" ramp="true" />
+	<parkpos id="np106" latitude="-37.003063" longitude="174.803360" heading="251.5" radius="15.0" cargo="true" ramp="true" />
+	<parkpos id="nwp1" latitude="-37.004345" longitude="174.794968" heading="161.3" radius="12.0" cargo="false" ramp="true" />
+	<parkpos id="nwp2" latitude="-37.004440" longitude="174.794632" heading="161.4" radius="12.0" cargo="false" ramp="true" />
+	<parkpos id="nwp3" latitude="-37.004539" longitude="174.794296" heading="160.0" radius="12.0" cargo="false" ramp="true" />
+	<parkpos id="nwp4" latitude="-37.004128" longitude="174.793167" heading="180.0" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="nwp5" latitude="-37.004753" longitude="174.794006" heading="130.6" radius="8.0" cargo="false" ramp="true">
+		<aircraft>
+			<option airline="SKL" type="C510" real="true" hours="6" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="p1" latitude="-37.003826" longitude="174.801758" heading="251.8" radius="30.0" cargo="true" ramp="true">
+		<aircraft>
+			<option airline="TMN" type="B763" real="true" hours="7,8" />
+		</aircraft>
+	</parkpos>
+</parkpositions>

@@ -1,0 +1,116 @@
+<?xml version="1.0"?>
+<meta>
+	<info name="author" value="PSXT_MSFS" />
+	<info name="version" value="29.1" />
+	<info name="date" value="Nov 18, 2021" />
+</meta>
+<parameters>
+	<parameter name="airport_name" value="" />
+	<parameter name="supplier" value="P3Dv5 add-on " />
+	<parameter name="altitude" value="295" />
+	<parameter name="num_parkpos" value="41" />
+	<parameter name="parking_percentage" value="25" />
+	<parameter name="last_update" value="Nov 18, 2021" />
+	<parameter name="home_base" value="" />
+	<parameter name="max_two" value="" />
+	<parameter name="actual_hour_only" value="0" />
+	<parameter name="learn" value="1" />
+	<parameter name="real_only" value="0" />
+</parameters>
+<parkpositions>
+	<parkpos id="101" latitude="44.571251" longitude="26.078836" heading="174.6" radius="22.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="ATG" type="SF34" real="false" hours="16,17" />
+			<option airline="WZZ" type="A21N" real="false" hours="16" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="102" latitude="44.571281" longitude="26.079456" heading="174.0" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="103" latitude="44.571499" longitude="26.080042" heading="174.1" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="104" latitude="44.571453" longitude="26.080591" heading="173.3" radius="22.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="ROT" type="AT76" real="false" hours="16" />
+			<option airline="WZZ" type="A320" real="true" hours="17,18" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="105" latitude="44.571552" longitude="26.081127" heading="173.3" radius="22.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="NJE" type="C56X" real="false" hours="15,17" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="106" latitude="44.571594" longitude="26.081520" heading="173.9" radius="22.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="ROT" type="B738" real="false" hours="16" />
+			<option airline="WZZ" type="A320" real="false" hours="16" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="107" latitude="44.571468" longitude="26.082382" heading="228.0" radius="32.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="QTR" type="A320" real="true" hours="16" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="108" latitude="44.571056" longitude="26.082954" heading="265.3" radius="32.0" cargo="false" ramp="false" />
+	<parkpos id="109" latitude="44.570187" longitude="26.082863" heading="306.6" radius="32.0" cargo="false" ramp="false" />
+	<parkpos id="110" latitude="44.570103" longitude="26.082012" heading="353.9" radius="22.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="PGT" type="A320" real="true" hours="16" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="111" latitude="44.570000" longitude="26.081369" heading="354.0" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="112" latitude="44.569958" longitude="26.080833" heading="353.9" radius="22.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="LOT" type="E75S" real="false" hours="15" />
+			<option airline="WZZ" type="A21N" real="true" hours="16" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="113" latitude="44.569950" longitude="26.080288" heading="353.8" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="114" latitude="44.569984" longitude="26.079639" heading="353.2" radius="22.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="AFR" type="A319" real="true" hours="16" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="115" latitude="44.569916" longitude="26.079031" heading="353.7" radius="22.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="AFR" type="A319" real="false" hours="16" />
+			<option airline="ROT" type="B737" real="false" hours="15" />
+			<option airline="ROT" type="B738" real="false" hours="16" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="119" latitude="44.568634" longitude="26.080652" heading="353.9" radius="27.0" cargo="false" ramp="true">
+		<aircraft>
+			<option airline="ROT" type="AT76" real="true" hours="16" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="120" latitude="44.568680" longitude="26.081211" heading="353.9" radius="27.0" cargo="false" ramp="true" />
+	<parkpos id="121" latitude="44.568714" longitude="26.081961" heading="353.9" radius="27.0" cargo="false" ramp="true">
+		<aircraft>
+			<option airline="LOT" type="E75S" real="true" hours="16,17" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="122" latitude="44.568752" longitude="26.082451" heading="353.9" radius="27.0" cargo="false" ramp="true" />
+	<parkpos id="201" latitude="44.569538" longitude="26.100052" heading="174.1" radius="27.0" cargo="false" ramp="true" />
+	<parkpos id="202" latitude="44.569492" longitude="26.099268" heading="174.4" radius="27.0" cargo="false" ramp="true" />
+	<parkpos id="203" latitude="44.569427" longitude="26.098486" heading="173.5" radius="27.0" cargo="false" ramp="true" />
+	<parkpos id="204" latitude="44.569382" longitude="26.097925" heading="174.3" radius="27.0" cargo="false" ramp="true" />
+	<parkpos id="205" latitude="44.569347" longitude="26.097366" heading="173.9" radius="27.0" cargo="false" ramp="true" />
+	<parkpos id="206" latitude="44.569298" longitude="26.096800" heading="174.2" radius="27.0" cargo="false" ramp="true" />
+	<parkpos id="207" latitude="44.569260" longitude="26.096237" heading="174.2" radius="27.0" cargo="false" ramp="true" />
+	<parkpos id="208" latitude="44.569218" longitude="26.095675" heading="173.9" radius="27.0" cargo="false" ramp="true" />
+	<parkpos id="209" latitude="44.569164" longitude="26.095030" heading="173.9" radius="27.0" cargo="false" ramp="true" />
+	<parkpos id="210" latitude="44.569115" longitude="26.094378" heading="173.6" radius="27.0" cargo="false" ramp="true" />
+	<parkpos id="211" latitude="44.569069" longitude="26.093721" heading="173.4" radius="27.0" cargo="false" ramp="true" />
+	<parkpos id="212" latitude="44.569016" longitude="26.093035" heading="175.0" radius="27.0" cargo="false" ramp="true" />
+	<parkpos id="213" latitude="44.568966" longitude="26.092384" heading="174.6" radius="27.0" cargo="false" ramp="true" />
+	<parkpos id="214" latitude="44.568920" longitude="26.091742" heading="173.7" radius="27.0" cargo="false" ramp="true" />
+	<parkpos id="215" latitude="44.568878" longitude="26.091175" heading="173.8" radius="27.0" cargo="false" ramp="true">
+		<aircraft>
+			<option airline="ROT" type="B737" real="true" hours="15" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="216" latitude="44.568836" longitude="26.090620" heading="173.9" radius="27.0" cargo="false" ramp="true" />
+	<parkpos id="217" latitude="44.568798" longitude="26.090052" heading="174.3" radius="27.0" cargo="false" ramp="true" />
+	<parkpos id="218" latitude="44.568748" longitude="26.089497" heading="174.0" radius="27.0" cargo="false" ramp="true" />
+	<parkpos id="219" latitude="44.568707" longitude="26.088936" heading="173.7" radius="27.0" cargo="false" ramp="true" />
+	<parkpos id="220" latitude="44.568668" longitude="26.088373" heading="174.7" radius="27.0" cargo="false" ramp="true" />
+	<parkpos id="221" latitude="44.568626" longitude="26.087811" heading="173.9" radius="27.0" cargo="false" ramp="true" />
+	<parkpos id="222" latitude="44.568581" longitude="26.087248" heading="173.7" radius="27.0" cargo="false" ramp="true" />
+</parkpositions>

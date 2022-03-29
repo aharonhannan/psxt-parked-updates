@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<meta>
+	<info name="author" value="PPG_MSFS" />
+	<info name="version" value="6.1" />
+	<info name="date" value="Sep 28, 2021" />
+</meta>
+<parameters>
+	<parameter name="airport_name" value="Joao Paulo Ii" />
+	<parameter name="supplier" value="MSFS " />
+	<parameter name="altitude" value="194" />
+	<parameter name="num_parkpos" value="12" />
+	<parameter name="parking_percentage" value="75" />
+	<parameter name="last_update" value="Sep 28, 2021" />
+	<parameter name="home_base" value="" />
+	<parameter name="max_two" value="" />
+	<parameter name="actual_hour_only" value="0" />
+	<parameter name="learn" value="1" />
+	<parameter name="real_only" value="0" />
+</parameters>
+<parkpositions>
+	<parkpos id="p2" latitude="37.743221" longitude="-25.696186" heading="22.2" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="sp2" latitude="37.741795" longitude="-25.701986" heading="197.7" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="sp3" latitude="37.741489" longitude="-25.701077" heading="201.4" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="sp4" latitude="37.742035" longitude="-25.702915" heading="203.1" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="wp1" latitude="37.748985" longitude="-25.712223" heading="22.0" radius="23.0" cargo="false" ramp="false" />
+	<parkpos id="wp11" latitude="37.747669" longitude="-25.707863" heading="22.0" radius="36.0" cargo="false" ramp="false" />
+	<parkpos id="wp2" latitude="37.748840" longitude="-25.711767" heading="22.0" radius="23.0" cargo="false" ramp="false" />
+	<parkpos id="wp3" latitude="37.748672" longitude="-25.711233" heading="22.0" radius="23.0" cargo="false" ramp="false" />
+	<parkpos id="wp4" latitude="37.748482" longitude="-25.710625" heading="22.0" radius="23.0" cargo="false" ramp="false" />
+	<parkpos id="wp5" latitude="37.748295" longitude="-25.710043" heading="22.0" radius="23.0" cargo="false" ramp="false" />
+	<parkpos id="wp6" latitude="37.748131" longitude="-25.709459" heading="21.9" radius="23.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="RZO" type="A320" real="false" hours="7" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="wp8" latitude="37.747932" longitude="-25.708706" heading="22.0" radius="36.0" cargo="false" ramp="false" />
+</parkpositions>
+<afcad>
+	<parkpos id="p2" airls="" />
+	<parkpos id="sp2" airls="" />
+	<parkpos id="sp3" airls="" />
+	<parkpos id="sp4" airls="" />
+	<parkpos id="wp1" airls="" />
+	<parkpos id="wp11" airls="" />
+	<parkpos id="wp2" airls="" />
+	<parkpos id="wp3" airls="" />
+	<parkpos id="wp4" airls="" />
+	<parkpos id="wp5" airls="" />
+	<parkpos id="wp6" airls="" />
+	<parkpos id="wp8" airls="RYR,SAT,TAP" />
+</afcad>

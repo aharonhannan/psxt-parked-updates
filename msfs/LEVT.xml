@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<meta>
+	<info name="author" value="PSXT_MSFS" />
+	<info name="version" value="29.10" />
+	<info name="date" value="Dec 20, 2021" />
+</meta>
+<parameters>
+	<parameter name="airport_name" value="" />
+	<parameter name="supplier" value="MSFS add-on Aerosoft" />
+	<parameter name="altitude" value="1669" />
+	<parameter name="num_parkpos" value="13" />
+	<parameter name="parking_percentage" value="25" />
+	<parameter name="last_update" value="Dec 20, 2021" />
+	<parameter name="home_base" value="" />
+	<parameter name="max_two" value="" />
+	<parameter name="actual_hour_only" value="0" />
+	<parameter name="real_only" value="0" />
+</parameters>
+<parkpositions>
+	<parkpos id="r1" latitude="42.880886" longitude="-2.734931" heading="36.5" radius="32.0" cargo="true" ramp="true" />
+	<parkpos id="r102" latitude="42.883144" longitude="-2.730597" heading="348.9" radius="22.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="RYR" type="B738" real="true" hours="13" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="r103" latitude="42.883465" longitude="-2.730254" heading="350.8" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="r104" latitude="42.883812" longitude="-2.729942" heading="345.7" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="r105" latitude="42.884167" longitude="-2.729621" heading="347.0" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="r106" latitude="42.884491" longitude="-2.729300" heading="337.0" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="r11" latitude="42.877029" longitude="-2.737568" heading="35.2" radius="27.0" cargo="true" ramp="true" />
+	<parkpos id="r12" latitude="42.876606" longitude="-2.736753" heading="34.1" radius="27.0" cargo="true" ramp="true" />
+	<parkpos id="r2" latitude="42.880440" longitude="-2.734150" heading="37.3" radius="32.0" cargo="true" ramp="true" />
+	<parkpos id="r3" latitude="42.880230" longitude="-2.733565" heading="36.3" radius="25.0" cargo="true" ramp="true" />
+	<parkpos id="r6" latitude="42.879063" longitude="-2.734990" heading="33.8" radius="29.0" cargo="true" ramp="true" />
+	<parkpos id="r7" latitude="42.878933" longitude="-2.737004" heading="301.5" radius="18.0" cargo="true" ramp="true" />
+	<parkpos id="r8" latitude="42.878670" longitude="-2.736513" heading="304.1" radius="18.0" cargo="true" ramp="true" />
+</parkpositions>

@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<meta>
+	<info name="author" value="PSXT_MSFS" />
+	<info name="version" value="28.4" />
+	<info name="date" value="Nov 17, 2021" />
+</meta>
+<parameters>
+	<parameter name="airport_name" value="" />
+	<parameter name="supplier" value="MSFS " />
+	<parameter name="altitude" value="1162" />
+	<parameter name="num_parkpos" value="13" />
+	<parameter name="parking_percentage" value="35" />
+	<parameter name="last_update" value="Nov 23, 2021" />
+	<parameter name="home_base" value="" />
+	<parameter name="max_two" value="" />
+	<parameter name="actual_hour_only" value="0" />
+	<parameter name="learn" value="1" />
+	<parameter name="real_only" value="0" />
+</parameters>
+<parkpositions>
+	<parkpos id="R1" latitude="-45.020870" longitude="168.738174" heading="77.7" radius="10.0" cargo="false" ramp="true" />
+	<parkpos id="R2" latitude="-45.021030" longitude="168.739685" heading="205.8" radius="20.0" cargo="false" ramp="true" />
+	<aircraft>
+		<option airline="JST" type="A320" real="true" hours="7" />
+		<option airline="QFA" type="B738" real="true" hours="7,12" />
+	</aircraft>
+	<parkpos id="R3" latitude="-45.021198" longitude="168.740158" heading="206.3" radius="20.0" cargo="false" ramp="true" />
+	<parkpos id="R4" latitude="-45.021400" longitude="168.740631" heading="205.8" radius="20.0" cargo="false" ramp="true" />
+	<parkpos id="R5" latitude="-45.021606" longitude="168.741058" heading="251.5" radius="20.0" cargo="false" ramp="true" />
+	<aircraft>
+		<option airline="ANZ" type="A20N" real="true" hours="7,12" />
+		<option airline="ANZ" type="A320" real="true" hours="7" />
+	</aircraft>
+	<parkpos id="R6" latitude="-45.021984" longitude="168.741226" heading="251.1" radius="20.0" cargo="false" ramp="true" />
+	<parkpos id="R7" latitude="-45.022358" longitude="168.741409" heading="251.3" radius="20.0" cargo="false" ramp="true" />
+	<parkpos id="R8" latitude="-45.022736" longitude="168.741592" heading="251.3" radius="20.0" cargo="false" ramp="true" />
+	<parkpos id="swp1" latitude="-45.024097" longitude="168.737900" heading="247.5" radius="8.0" cargo="false" ramp="true" />
+	<parkpos id="swp2" latitude="-45.024006" longitude="168.737686" heading="247.5" radius="8.0" cargo="false" ramp="true" />
+	<parkpos id="swp3" latitude="-45.023663" longitude="168.737381" heading="156.0" radius="8.0" cargo="false" ramp="true" />
+	<parkpos id="swp4" latitude="-45.025131" longitude="168.740463" heading="73.3" radius="8.0" cargo="false" ramp="true" />
+	<parkpos id="swp5" latitude="-45.024857" longitude="168.740387" heading="73.3" radius="8.0" cargo="false" ramp="true" />
+</parkpositions>
