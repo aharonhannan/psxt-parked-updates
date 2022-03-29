@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<meta>
+	<info name="author" value="PPG_MSFS" />
+	<info name="version" value="3.0" />
+	<info name="date" value="Apr 14, 2021" />
+</meta>
+<parameters>
+	<parameter name="airport_name" value="Kjevik" />
+	<parameter name="supplier" value="MSFS " />
+	<parameter name="altitude" value="44" />
+	<parameter name="num_parkpos" value="15" />
+	<parameter name="parking_percentage" value="10" />
+	<parameter name="last_update" value="Apr 15, 2021" />
+	<parameter name="home_base" value="" />
+	<parameter name="max_two" value="" />
+	<parameter name="actual_hour_only" value="0" />
+	<parameter name="learn" value="1" />
+	<parameter name="real_only" value="0" />
+</parameters>
+<parkpositions>
+	<parkpos id="r11" latitude="58.203087" longitude="8.076387" heading="301.9" radius="20.0" cargo="true" ramp="true" />
+	<parkpos id="r13" latitude="58.202438" longitude="8.075631" heading="301.8" radius="20.0" cargo="true" ramp="true" />
+	<parkpos id="r15" latitude="58.201809" longitude="8.074902" heading="301.7" radius="20.0" cargo="true" ramp="true" />
+	<parkpos id="r16" latitude="58.201488" longitude="8.074527" heading="301.9" radius="20.0" cargo="true" ramp="true" />
+	<parkpos id="r17" latitude="58.201176" longitude="8.074163" heading="301.8" radius="20.0" cargo="true" ramp="true" />
+	<parkpos id="r18" latitude="58.200825" longitude="8.073755" heading="301.9" radius="22.0" cargo="true" ramp="true" />
+	<parkpos id="r19" latitude="58.200436" longitude="8.073305" heading="302.0" radius="25.0" cargo="true" ramp="true" />
+	<parkpos id="sp41" latitude="58.200623" longitude="8.076154" heading="166.9" radius="8.0" cargo="false" ramp="true" />
+	<parkpos id="sp42" latitude="58.200657" longitude="8.076452" heading="166.2" radius="8.0" cargo="false" ramp="true" />
+	<parkpos id="sp43" latitude="58.200836" longitude="8.076883" heading="121.7" radius="8.0" cargo="false" ramp="true">
+		<aircraft>
+			<option airline="PVT" type="C172" real="false" hours="9,10" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="sp44" latitude="58.200974" longitude="8.077048" heading="121.7" radius="8.0" cargo="false" ramp="true" />
+	<parkpos id="sp45" latitude="58.201111" longitude="8.077209" heading="122.4" radius="8.0" cargo="false" ramp="true" />
+	<parkpos id="sp46" latitude="58.201248" longitude="8.077377" heading="123.3" radius="8.0" cargo="false" ramp="true">
+		<aircraft>
+			<option airline="PIP" type="DA42" real="false" hours="8" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="wp37" latitude="58.200111" longitude="8.073006" heading="173.9" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="wp38" latitude="58.199978" longitude="8.072854" heading="315.2" radius="7.0" cargo="false" ramp="true" />
+</parkpositions>
+<afcad>
+	<parkpos id="r11" airls="" />
+	<parkpos id="r13" airls="" />
+	<parkpos id="r15" airls="" />
+	<parkpos id="r16" airls="" />
+	<parkpos id="r17" airls="" />
+	<parkpos id="r18" airls="" />
+	<parkpos id="r19" airls="" />
+	<parkpos id="sp41" airls="" />
+	<parkpos id="sp42" airls="" />
+	<parkpos id="sp43" airls="" />
+	<parkpos id="sp44" airls="" />
+	<parkpos id="sp45" airls="" />
+	<parkpos id="sp46" airls="" />
+	<parkpos id="wp37" airls="" />
+	<parkpos id="wp38" airls="" />
+</afcad>

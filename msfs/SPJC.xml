@@ -1,0 +1,202 @@
+<?xml version="1.0"?>
+<meta>
+	<info name="author" value="PSXT_MSFS" />
+	<info name="version" value="30.3" />
+	<info name="date" value="Feb  7, 2022" />
+</meta>
+<parameters>
+	<parameter name="airport_name" value="Jorge Chavez Intl" />
+	<parameter name="supplier" value="MSFS add-on " />
+	<parameter name="altitude" value="79" />
+	<parameter name="num_parkpos" value="53" />
+	<parameter name="parking_percentage" value="25" />
+	<parameter name="last_update" value="Feb  9, 2022" />
+	<parameter name="home_base" value="" />
+	<parameter name="max_two" value="" />
+	<parameter name="real_only" value="0" />
+	<parameter name="actual_hour_only" value="0" />
+</parameters>
+<parkpositions>
+	<parkpos id="1" latitude="-12.019635" longitude="-77.111465" heading="19.6" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="10" latitude="-12.021649" longitude="-77.110313" heading="115.6" radius="32.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="LPE" type="A20N" real="true" hours="18" />
+			<option airline="LPE" type="A320" real="true" hours="17,18" />
+			<option airline="SKX" type="A20N" real="true" hours="18" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="11" latitude="-12.022061" longitude="-77.110443" heading="92.8" radius="22.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="SKX" type="A20N" real="true" hours="19" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="12" latitude="-12.022410" longitude="-77.110153" heading="81.3" radius="22.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="LPE" type="A20N" real="false" hours="18,19" />
+			<option airline="LPE" type="A319" real="true" hours="17" />
+			<option airline="LPE" type="A320" real="false" hours="18" />
+			<option airline="SKX" type="A20N" real="false" hours="18" />
+			<option airline="SKX" type="A20N" real="true" hours="17" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="13" latitude="-12.022685" longitude="-77.109818" heading="63.0" radius="22.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="LPE" type="A20N" real="true" hours="18,19" />
+			<option airline="LPE" type="A319" real="false" hours="17" />
+			<option airline="SKX" type="A20N" real="true" hours="17" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="14" latitude="-12.023103" longitude="-77.109634" heading="64.2" radius="22.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="LPE" type="A320" real="true" hours="18" />
+			<option airline="SKX" type="A20N" real="false" hours="19" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="15" latitude="-12.023574" longitude="-77.109406" heading="61.8" radius="32.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="LPE" type="A20N" real="true" hours="18" />
+			<option airline="LPE" type="A319" real="true" hours="17" />
+			<option airline="LPE" type="A320" real="true" hours="17,18" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="16" latitude="-12.024068" longitude="-77.109138" heading="62.8" radius="32.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="LPE" type="A20N" real="true" hours="19" />
+			<option airline="LPE" type="A320" real="true" hours="17,18" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="17" latitude="-12.024547" longitude="-77.108818" heading="65.2" radius="32.0" cargo="false" ramp="false" />
+	<parkpos id="18" latitude="-12.025141" longitude="-77.108635" heading="65.7" radius="32.0" cargo="false" ramp="false" />
+	<parkpos id="19" latitude="-12.025612" longitude="-77.108406" heading="62.9" radius="32.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="LPE" type="B763" real="true" hours="17" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="2" latitude="-12.020422" longitude="-77.111084" heading="62.6" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="20" latitude="-12.026221" longitude="-77.108299" heading="63.9" radius="32.0" cargo="false" ramp="false" />
+	<parkpos id="21" latitude="-12.026685" longitude="-77.108047" heading="36.7" radius="32.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="AEA" type="B789" real="false" hours="17" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="22" latitude="-12.026696" longitude="-77.107552" heading="340.0" radius="32.0" cargo="false" ramp="false" />
+	<parkpos id="23" latitude="-12.026453" longitude="-77.107170" heading="303.2" radius="32.0" cargo="false" ramp="false" />
+	<parkpos id="24" latitude="-12.026079" longitude="-77.107101" heading="277.6" radius="32.0" cargo="false" ramp="false" />
+	<parkpos id="25" latitude="-12.025630" longitude="-77.107246" heading="252.1" radius="32.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="LRC" type="A319" real="true" hours="17" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="26" latitude="-12.025130" longitude="-77.107391" heading="285.0" radius="32.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="LPE" type="A320" real="true" hours="17" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="27" latitude="-12.028172" longitude="-77.107475" heading="112.6" radius="32.0" cargo="false" ramp="false" />
+	<parkpos id="28" latitude="-12.028807" longitude="-77.107193" heading="99.0" radius="32.0" cargo="false" ramp="false" />
+	<parkpos id="29" latitude="-12.029231" longitude="-77.107178" heading="65.3" radius="32.0" cargo="false" ramp="false" />
+	<parkpos id="3" latitude="-12.020859" longitude="-77.110886" heading="11.0" radius="32.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="LPE" type="A319" real="true" hours="17" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="4" latitude="-12.020628" longitude="-77.110435" heading="341.1" radius="22.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="SKX" type="A20N" real="true" hours="18,19" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="40" latitude="-12.027838" longitude="-77.106987" heading="242.8" radius="22.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="LPE" type="A20N" real="false" hours="18" />
+			<option airline="LPE" type="A320" real="false" hours="17" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="41" latitude="-12.028139" longitude="-77.106819" heading="246.6" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="42" latitude="-12.028471" longitude="-77.106621" heading="241.5" radius="22.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="LRC" type="A319" real="false" hours="17" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="43" latitude="-12.028007" longitude="-77.105888" heading="62.1" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="44" latitude="-12.027648" longitude="-77.106026" heading="62.9" radius="22.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="CMP" type="B738" real="false" hours="19" />
+			<option airline="SKX" type="A20N" real="false" hours="17" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="45" latitude="-12.027314" longitude="-77.106216" heading="64.5" radius="22.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="LRC" type="A319" real="true" hours="18" />
+			<option airline="SKX" type="A20N" real="true" hours="17" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="5" latitude="-12.020401" longitude="-77.110016" heading="10.4" radius="22.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="LPE" type="A320" real="false" hours="17" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="51" latitude="-12.021541" longitude="-77.111656" heading="245.2" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="52" latitude="-12.021126" longitude="-77.111824" heading="242.4" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="53" latitude="-12.020737" longitude="-77.111984" heading="242.0" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="54" latitude="-12.020391" longitude="-77.112175" heading="243.2" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="6" latitude="-12.020377" longitude="-77.109619" heading="5.5" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="60" latitude="-12.019349" longitude="-77.111053" heading="338.6" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="61" latitude="-12.019212" longitude="-77.110718" heading="335.4" radius="22.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="LPE" type="A20N" real="false" hours="18,19" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="62" latitude="-12.019055" longitude="-77.110397" heading="334.6" radius="22.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="LPE" type="A319" real="false" hours="17" />
+			<option airline="LPE" type="A320" real="false" hours="17" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="63" latitude="-12.018930" longitude="-77.110046" heading="327.7" radius="22.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="LPE" type="A319" real="true" hours="18" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="64" latitude="-12.019814" longitude="-77.110008" heading="151.3" radius="32.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="LPE" type="A319" real="true" hours="18" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="65" latitude="-12.019953" longitude="-77.110336" heading="150.3" radius="32.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="SKX" type="A20N" real="true" hours="17" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="66" latitude="-12.020127" longitude="-77.110664" heading="152.2" radius="32.0" cargo="false" ramp="false" />
+	<parkpos id="7" latitude="-12.020459" longitude="-77.109283" heading="25.1" radius="22.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="LPE" type="A20N" real="false" hours="18" />
+			<option airline="LPE" type="A319" real="false" hours="18" />
+			<option airline="LPE" type="A320" real="false" hours="18" />
+			<option airline="LPE" type="A320" real="true" hours="17,19" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="74" latitude="-12.018315" longitude="-77.113060" heading="36.9" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="75" latitude="-12.018530" longitude="-77.112770" heading="35.9" radius="22.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="CMP" type="B738" real="false" hours="18,19" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="76" latitude="-12.018741" longitude="-77.112495" heading="39.0" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="8" latitude="-12.021557" longitude="-77.109390" heading="206.1" radius="32.0" cargo="false" ramp="false" />
+	<parkpos id="81" latitude="-12.008812" longitude="-77.117897" heading="154.8" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="82" latitude="-12.008634" longitude="-77.117531" heading="151.5" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="9" latitude="-12.021423" longitude="-77.109825" heading="177.1" radius="22.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="LPE" type="A319" real="true" hours="18" />
+			<option airline="LPE" type="A320" real="false" hours="17" />
+			<option airline="LPE" type="A320" real="true" hours="18,19" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="L80" latitude="-12.007751" longitude="-77.118416" heading="333.9" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="R80" latitude="-12.007568" longitude="-77.118088" heading="329.7" radius="22.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="SKX" type="A20N" real="false" hours="17,18" />
+		</aircraft>
+	</parkpos>
+</parkpositions>

@@ -1,0 +1,190 @@
+<?xml version="1.0"?>
+<meta>
+	<info name="author" value="PPG_MSFS" />
+	<info name="version" value="2.1" />
+	<info name="date" value="Mar 19, 2021" />
+</meta>
+<parameters>
+	<parameter name="airport_name" value="Orly" />
+	<parameter name="supplier" value="MSFS " />
+	<parameter name="altitude" value="827" />
+	<parameter name="num_parkpos" value="61" />
+	<parameter name="parking_percentage" value="20" />
+	<parameter name="last_update" value="Mar  9, 2022" />
+	<parameter name="home_base" value="" />
+	<parameter name="max_two" value="" />
+	<parameter name="actual_hour_only" value="0" />
+	<parameter name="learn" value="1" />
+	<parameter name="real_only" value="0" />
+</parameters>
+<parkpositions>
+	<parkpos id="0" latitude="48.727749" longitude="2.372462" heading="343.4" radius="32.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="FWI" type="A333" real="false" hours="10" />
+			<option airline="FWI" type="A35K" real="true" hours="10" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="10" latitude="48.725349" longitude="2.371374" heading="210.8" radius="25.0" cargo="false" ramp="true" />
+	<parkpos id="11" latitude="48.726643" longitude="2.351733" heading="254.9" radius="27.0" cargo="false" ramp="true" />
+	<parkpos id="12" latitude="48.726227" longitude="2.351862" heading="254.8" radius="27.0" cargo="false" ramp="true">
+		<aircraft>
+			<option airline="EJU" type="A320" real="true" hours="10" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="2" latitude="48.732189" longitude="2.377692" heading="344.0" radius="22.0" cargo="false" ramp="true">
+		<aircraft>
+			<option airline="RAM" type="B738" real="false" hours="10" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="21" latitude="48.724838" longitude="2.349932" heading="74.5" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="22" latitude="48.725212" longitude="2.349768" heading="74.6" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="3" latitude="48.732330" longitude="2.378426" heading="344.4" radius="22.0" cargo="false" ramp="true">
+		<aircraft>
+			<option airline="TAP" type="A320" real="false" hours="10" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="31" latitude="48.725594" longitude="2.349608" heading="74.5" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="32" latitude="48.725967" longitude="2.349443" heading="74.7" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="34" latitude="48.724976" longitude="2.352451" heading="254.5" radius="27.0" cargo="false" ramp="true">
+		<aircraft>
+			<option airline="AFR" type="A318" real="true" hours="10" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="41" latitude="48.724590" longitude="2.352676" heading="254.1" radius="27.0" cargo="false" ramp="true" />
+	<parkpos id="42" latitude="48.724113" longitude="2.365050" heading="165.9" radius="23.0" cargo="false" ramp="true">
+		<aircraft>
+			<option airline="TVF" type="B738" real="true" hours="13" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="51" latitude="48.724422" longitude="2.351369" heading="344.3" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="56" latitude="48.724354" longitude="2.350739" heading="344.8" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="61" latitude="48.724220" longitude="2.350147" heading="344.8" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="62" latitude="48.734245" longitude="2.379313" heading="288.3" radius="22.0" cargo="false" ramp="true">
+		<aircraft>
+			<option airline="AFR" type="A320" real="false" hours="10" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="71" latitude="48.723228" longitude="2.360349" heading="179.6" radius="23.0" cargo="false" ramp="true" />
+	<parkpos id="8" latitude="48.735344" longitude="2.380510" heading="288.9" radius="22.0" cargo="false" ramp="true" />
+	<parkpos id="A12" latitude="48.725616" longitude="2.360784" heading="357.3" radius="22.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="TVF" type="B738" real="false" hours="13" />
+			<option airline="TVF" type="B738" real="true" hours="14" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="A22" latitude="48.725914" longitude="2.361778" heading="339.1" radius="22.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="TVF" type="B738" real="true" hours="14" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="A3" latitude="48.725994" longitude="2.362740" heading="344.2" radius="32.0" cargo="false" ramp="false" excludes="A31">
+		<aircraft>
+			<option airline="AFR" type="B772" real="true" hours="10" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="A31" latitude="48.725830" longitude="2.362503" heading="348.6" radius="22.0" cargo="false" ramp="false" excludes="A3">
+		<aircraft>
+			<option airline="AFR" type="A320" real="false" hours="14" />
+			<option airline="TVF" type="B738" real="true" hours="13" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="A4" latitude="48.726173" longitude="2.363923" heading="344.3" radius="32.0" cargo="false" ramp="false" excludes="A41" />
+	<parkpos id="A41" latitude="48.726044" longitude="2.363671" heading="348.5" radius="22.0" cargo="false" ramp="false" excludes="A4" />
+	<parkpos id="B1" latitude="48.728260" longitude="2.374624" heading="0.7" radius="32.0" cargo="false" ramp="false" excludes="B12" />
+	<parkpos id="B12" latitude="48.728271" longitude="2.374807" heading="347.0" radius="22.0" cargo="false" ramp="false" excludes="B1" />
+	<parkpos id="B22" latitude="48.728745" longitude="2.375552" heading="312.3" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="B3" latitude="48.729252" longitude="2.376058" heading="310.5" radius="32.0" cargo="false" ramp="false" />
+	<parkpos id="B41" latitude="48.729710" longitude="2.376441" heading="288.3" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="B42" latitude="48.730087" longitude="2.376361" heading="269.9" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="B5" latitude="48.730675" longitude="2.376381" heading="262.8" radius="32.0" cargo="false" ramp="false" excludes="B52">
+		<aircraft>
+			<option airline="DAH" type="A332" real="false" hours="13" />
+			<option airline="DAH" type="A332" real="true" hours="10,11" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="B52" latitude="48.730793" longitude="2.376005" heading="229.0" radius="22.0" cargo="false" ramp="false" excludes="B5" />
+	<parkpos id="B62" latitude="48.731247" longitude="2.375241" heading="189.4" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="C1" latitude="48.727219" longitude="2.370542" heading="343.8" radius="32.0" cargo="false" ramp="false" />
+	<parkpos id="C2" latitude="48.727337" longitude="2.371189" heading="343.4" radius="32.0" cargo="false" ramp="false" />
+	<parkpos id="C3" latitude="48.727467" longitude="2.371829" heading="343.7" radius="32.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="RAM" type="B738" real="true" hours="10" />
+			<option airline="TFL" type="B738" real="true" hours="10" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="D0" latitude="48.727264" longitude="2.368359" heading="22.7" radius="22.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="AFR" type="A320" real="false" hours="14" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="D2" latitude="48.727100" longitude="2.367434" heading="22.4" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="D4" latitude="48.726940" longitude="2.366593" heading="22.7" radius="22.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="TVF" type="B738" real="false" hours="13" />
+			<option airline="TVF" type="B738" real="true" hours="10" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="D6" latitude="48.726822" longitude="2.365908" heading="4.4" radius="22.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="IBE" type="A20N" real="true" hours="14" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="P10" latitude="48.731628" longitude="2.360913" heading="165.2" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="P11" latitude="48.731510" longitude="2.360380" heading="159.6" radius="22.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="VLG" type="A321" real="false" hours="13" />
+			<option airline="VLG" type="A321" real="true" hours="10" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="P14" latitude="48.730782" longitude="2.358880" heading="133.6" radius="22.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="TVF" type="B738" real="false" hours="14,15" />
+			<option airline="VLG" type="A320" real="true" hours="10" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="P41" latitude="48.730499" longitude="2.358498" heading="134.1" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="P42" latitude="48.730194" longitude="2.358238" heading="133.6" radius="18.0" cargo="false" ramp="true" />
+	<parkpos id="P8" latitude="48.732113" longitude="2.361691" heading="161.5" radius="18.0" cargo="false" ramp="true">
+		<aircraft>
+			<option airline="RAM" type="B738" real="false" hours="10" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="P9" latitude="48.731873" longitude="2.361299" heading="165.3" radius="22.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="EJU" type="A320" real="false" hours="13" />
+			<option airline="EJU" type="A320" real="true" hours="10" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="R1" latitude="48.729881" longitude="2.357858" heading="158.4" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="R22" latitude="48.729984" longitude="2.357078" heading="189.1" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="S25" latitude="48.729359" longitude="2.356749" heading="104.3" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="S26" latitude="48.729015" longitude="2.356532" heading="118.3" radius="22.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="ITY" type="A319" real="false" hours="10" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="T27" latitude="48.728191" longitude="2.356844" heading="40.3" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="T28" latitude="48.728313" longitude="2.357485" heading="14.4" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="T30" latitude="48.727840" longitude="2.358308" heading="139.3" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="T32" latitude="48.727322" longitude="2.357041" heading="148.4" radius="22.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="AFR" type="A319" real="true" hours="10,11" />
+			<option airline="AFR" type="A320" real="true" hours="14" />
+			<option airline="AFR" type="A321" real="false" hours="13" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="U4" latitude="48.726643" longitude="2.357625" heading="83.6" radius="22.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="AFR" type="A318" real="true" hours="10" />
+			<option airline="AFR" type="A319" real="true" hours="10,13" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="U5" latitude="48.726192" longitude="2.357918" heading="75.4" radius="22.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="EJU" type="A320" real="false" hours="10" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="V37" latitude="48.726223" longitude="2.359440" heading="0.3" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="V6" latitude="48.725750" longitude="2.358737" heading="26.7" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="r8" latitude="48.727913" longitude="2.373165" heading="343.5" radius="27.0" cargo="false" ramp="true" />
+</parkpositions>

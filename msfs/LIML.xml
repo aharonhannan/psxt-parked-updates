@@ -1,0 +1,233 @@
+<?xml version="1.0"?>
+<meta>
+	<info name="author" value="PSXT_MSFS" />
+	<info name="version" value="29.12" />
+	<info name="date" value="Dec 30, 2021" />
+</meta>
+<parameters>
+	<parameter name="airport_name" value="" />
+	<parameter name="supplier" value="MSFS add-on " />
+	<parameter name="altitude" value="347" />
+	<parameter name="num_parkpos" value="46" />
+	<parameter name="parking_percentage" value="15" />
+	<parameter name="last_update" value="Mar 14, 2022" />
+	<parameter name="home_base" value="" />
+	<parameter name="max_two" value="" />
+	<parameter name="actual_hour_only" value="0" />
+	<parameter name="real_only" value="0" />
+</parameters>
+<parkpositions>
+	<parkpos id="g1" latitude="45.459694" longitude="9.278472" heading="359.8" radius="22.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="AMC" type="A320" real="true" hours="13" />
+			<option airline="DLH" type="A20N" real="true" hours="9,10" />
+			<option airline="ITY" type="A319" real="false" hours="12" />
+			<option airline="VOE" type="A320" real="false" hours="11" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="g2" latitude="45.459675" longitude="9.279028" heading="359.9" radius="22.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="DLA" type="E195" real="false" hours="9" />
+			<option airline="EJU" type="A319" real="true" hours="9,10,14" />
+			<option airline="ITY" type="A320" real="false" hours="12,13" />
+			<option airline="KLM" type="B738" real="true" hours="9" />
+			<option airline="KLM" type="E75L" real="false" hours="13" />
+			<option airline="SIO" type="DH8D" real="false" hours="10" />
+			<option airline="SIO" type="GLF5" real="false" hours="10" />
+			<option airline="VOE" type="A320" real="true" hours="8" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="g3" latitude="45.459675" longitude="9.279661" heading="359.9" radius="22.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="BEL" type="A319" real="true" hours="21" />
+			<option airline="DLH" type="A319" real="false" hours="9" />
+			<option airline="EJU" type="A320" real="false" hours="12" />
+			<option airline="ITY" type="A319" real="false" hours="8,12,13" />
+			<option airline="ITY" type="A319" real="true" hours="10,11" />
+			<option airline="ITY" type="A320" real="false" hours="8,18" />
+			<option airline="WZZ" type="A20N" real="false" hours="9" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="r10" latitude="45.456249" longitude="9.280596" heading="89.7" radius="22.0" cargo="false" ramp="true">
+		<aircraft>
+			<option airline="BAW" type="A319" real="true" hours="14" />
+			<option airline="EJU" type="A320" real="true" hours="12,13" />
+			<option airline="ITY" type="A319" real="true" hours="8" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="r103" latitude="45.453388" longitude="9.262547" heading="253.9" radius="12.0" cargo="false" ramp="true" />
+	<parkpos id="r104" latitude="45.453606" longitude="9.262411" heading="250.5" radius="12.0" cargo="false" ramp="true">
+		<aircraft>
+			<option airline="AOJ" type="A320" real="true" hours="13" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="r105" latitude="45.453918" longitude="9.263735" heading="40.5" radius="12.0" cargo="false" ramp="true" />
+	<parkpos id="r11" latitude="45.455616" longitude="9.280596" heading="89.9" radius="22.0" cargo="false" ramp="true">
+		<aircraft>
+			<option airline="AFR" type="E190" real="true" hours="14" />
+			<option airline="BAW" type="A20N" real="true" hours="9" />
+			<option airline="DLH" type="A319" real="true" hours="9" />
+			<option airline="EJU" type="A320" real="true" hours="12" />
+			<option airline="IBE" type="A320" real="true" hours="21" />
+			<option airline="VOE" type="A320" real="true" hours="8" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="r12" latitude="45.455112" longitude="9.280596" heading="89.8" radius="22.0" cargo="false" ramp="true">
+		<aircraft>
+			<option airline="AFR" type="BCS3" real="true" hours="8" />
+			<option airline="ITY" type="A319" real="true" hours="14" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="r120" latitude="45.455948" longitude="9.278798" heading="89.9" radius="28.0" cargo="false" ramp="true" />
+	<parkpos id="r121" latitude="45.455246" longitude="9.278735" heading="89.6" radius="28.0" cargo="false" ramp="true" />
+	<parkpos id="r13" latitude="45.458576" longitude="9.278823" heading="90.3" radius="22.0" cargo="false" ramp="true">
+		<aircraft>
+			<option airline="ITY" type="A319" real="false" hours="12" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="r14" latitude="45.458183" longitude="9.278823" heading="90.0" radius="22.0" cargo="false" ramp="true">
+		<aircraft>
+			<option airline="EJU" type="A319" real="true" hours="18,19" />
+			<option airline="EJU" type="A320" real="true" hours="10" />
+			<option airline="ITY" type="A319" real="true" hours="8,10" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="r15" latitude="45.457745" longitude="9.278810" heading="89.9" radius="22.0" cargo="false" ramp="true" />
+	<parkpos id="r16" latitude="45.457348" longitude="9.278806" heading="90.3" radius="22.0" cargo="false" ramp="true">
+		<aircraft>
+			<option airline="ITY" type="A319" real="true" hours="9" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="r17" latitude="45.456913" longitude="9.278806" heading="89.9" radius="22.0" cargo="false" ramp="true" />
+	<parkpos id="r18" latitude="45.456520" longitude="9.278798" heading="90.1" radius="22.0" cargo="false" ramp="true">
+		<aircraft>
+			<option airline="ITY" type="A319" real="false" hours="9" />
+			<option airline="ITY" type="A319" real="true" hours="12,13" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="r19" latitude="45.456108" longitude="9.278794" heading="90.0" radius="22.0" cargo="false" ramp="true" />
+	<parkpos id="r20" latitude="45.455776" longitude="9.278794" heading="89.8" radius="22.0" cargo="false" ramp="true" />
+	<parkpos id="r21" latitude="45.455402" longitude="9.278791" heading="90.0" radius="22.0" cargo="false" ramp="true" />
+	<parkpos id="r22" latitude="45.455090" longitude="9.278784" heading="89.4" radius="18.0" cargo="false" ramp="true" />
+	<parkpos id="r51" latitude="45.455040" longitude="9.261518" heading="245.1" radius="12.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="LDX" type="CL30" real="true" hours="14" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="r52" latitude="45.454720" longitude="9.261734" heading="244.6" radius="12.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="ASJ" type="C25M" real="true" hours="8" />
+			<option airline="GMA" type="CL60" real="true" hours="8" />
+			<option airline="NJE" type="C56X" real="true" hours="8" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="r53" latitude="45.454411" longitude="9.261915" heading="244.9" radius="12.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="SIO" type="F2TH" real="false" hours="18" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="r54" latitude="45.455135" longitude="9.262948" heading="65.0" radius="12.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="STQ" type="C525" real="false" hours="9" />
+			<option airline="TJD" type="BE40" real="false" hours="11" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="r55" latitude="45.454777" longitude="9.263156" heading="65.0" radius="12.0" cargo="false" ramp="false" />
+	<parkpos id="r56" latitude="45.454456" longitude="9.263404" heading="64.6" radius="12.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="VJT" type="CRJ2" real="false" hours="9" />
+			<option airline="VND" type="LJ40" real="false" hours="12" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="r6" latitude="45.458080" longitude="9.280624" heading="90.0" radius="22.0" cargo="false" ramp="true" />
+	<parkpos id="r61" latitude="45.453819" longitude="9.280715" heading="270.1" radius="22.0" cargo="false" ramp="true" />
+	<parkpos id="r62" latitude="45.453278" longitude="9.281976" heading="118.0" radius="22.0" cargo="true" ramp="true" />
+	<parkpos id="r63" latitude="45.453362" longitude="9.280448" heading="270.1" radius="22.0" cargo="false" ramp="true" />
+	<parkpos id="r64" latitude="45.453045" longitude="9.281726" heading="116.9" radius="27.0" cargo="true" ramp="true" />
+	<parkpos id="r65" latitude="45.452934" longitude="9.281719" heading="116.7" radius="22.0" cargo="true" ramp="true" />
+	<parkpos id="r66" latitude="45.452972" longitude="9.280167" heading="270.0" radius="22.0" cargo="false" ramp="true">
+		<aircraft>
+			<option airline="BAW" type="A319" real="true" hours="8" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="r67" latitude="45.452568" longitude="9.281478" heading="116.7" radius="22.0" cargo="true" ramp="true" />
+	<parkpos id="r68" latitude="45.452515" longitude="9.279812" heading="270.3" radius="22.0" cargo="false" ramp="true">
+		<aircraft>
+			<option airline="ITY" type="A320" real="true" hours="8" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="r69" latitude="45.452225" longitude="9.281241" heading="116.6" radius="22.0" cargo="true" ramp="true" />
+	<parkpos id="r7" latitude="45.457691" longitude="9.280624" heading="90.0" radius="22.0" cargo="false" ramp="true">
+		<aircraft>
+			<option airline="ITY" type="A319" real="true" hours="8" />
+			<option airline="ITY" type="A320" real="true" hours="14" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="r70" latitude="45.452122" longitude="9.279695" heading="270.6" radius="22.0" cargo="false" ramp="true" />
+	<parkpos id="r71" latitude="45.451839" longitude="9.281097" heading="116.3" radius="27.0" cargo="true" ramp="true" />
+	<parkpos id="r72" latitude="45.451668" longitude="9.279663" heading="270.5" radius="22.0" cargo="false" ramp="true" />
+	<parkpos id="r73" latitude="45.451099" longitude="9.279736" heading="270.4" radius="22.0" cargo="false" ramp="true" />
+	<parkpos id="r75" latitude="45.450584" longitude="9.279799" heading="270.8" radius="22.0" cargo="false" ramp="true" />
+	<parkpos id="r76" latitude="45.450073" longitude="9.279867" heading="270.3" radius="22.0" cargo="false" ramp="true" />
+	<parkpos id="r8" latitude="45.457294" longitude="9.280624" heading="90.3" radius="22.0" cargo="false" ramp="true">
+		<aircraft>
+			<option airline="IBE" type="A321" real="true" hours="10" />
+			<option airline="ITY" type="A319" real="true" hours="14,15,21" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="r9" latitude="45.456745" longitude="9.280622" heading="90.1" radius="22.0" cargo="false" ramp="true">
+		<aircraft>
+			<option airline="EZY" type="A320" real="true" hours="21" />
+			<option airline="ITY" type="A319" real="true" hours="10" />
+			<option airline="VOE" type="A320" real="true" hours="8" />
+		</aircraft>
+	</parkpos>
+</parkpositions>
+<afcad>
+	<parkpos id="g1" airls="" />
+	<parkpos id="g2" airls="" />
+	<parkpos id="g3" airls="" />
+	<parkpos id="r10" airls="" />
+	<parkpos id="r103" airls="" />
+	<parkpos id="r104" airls="" />
+	<parkpos id="r105" airls="" />
+	<parkpos id="r11" airls="" />
+	<parkpos id="r12" airls="" />
+	<parkpos id="r120" airls="" excludes="r19,r20" />
+	<parkpos id="r121" airls="" excludes="r21,r22" />
+	<parkpos id="r13" airls="" />
+	<parkpos id="r14" airls="" />
+	<parkpos id="r15" airls="" />
+	<parkpos id="r16" airls="" />
+	<parkpos id="r17" airls="" />
+	<parkpos id="r18" airls="" />
+	<parkpos id="r19" airls="" excludes="r120" />
+	<parkpos id="r20" airls="" excludes="r120" />
+	<parkpos id="r21" airls="" excludes="r121" />
+	<parkpos id="r22" airls="" excludes="r121" />
+	<parkpos id="r51" airls="" />
+	<parkpos id="r52" airls="" />
+	<parkpos id="r53" airls="" />
+	<parkpos id="r54" airls="" />
+	<parkpos id="r55" airls="" />
+	<parkpos id="r56" airls="" />
+	<parkpos id="r6" airls="" />
+	<parkpos id="r61" airls="" />
+	<parkpos id="r62" airls="" />
+	<parkpos id="r63" airls="" />
+	<parkpos id="r64" airls="" excludes="r65" />
+	<parkpos id="r65" airls="" excludes="r64" />
+	<parkpos id="r66" airls="" />
+	<parkpos id="r67" airls="" />
+	<parkpos id="r68" airls="" />
+	<parkpos id="r69" airls="" />
+	<parkpos id="r7" airls="" />
+	<parkpos id="r70" airls="" />
+	<parkpos id="r71" airls="" />
+	<parkpos id="r72" airls="" />
+	<parkpos id="r73" airls="" />
+	<parkpos id="r75" airls="" />
+	<parkpos id="r76" airls="" />
+	<parkpos id="r8" airls="" />
+	<parkpos id="r9" airls="" />
+</afcad>

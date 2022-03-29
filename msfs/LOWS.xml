@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<meta>
+	<info name="author" value="PSXT_MSFS" />
+	<info name="version" value="30.3" />
+	<info name="date" value="Feb 11, 2022" />
+</meta>
+<parameters>
+	<parameter name="airport_name" value="Salzburg" />
+	<parameter name="supplier" value="MSFS add-on " />
+	<parameter name="altitude" value="1411" />
+	<parameter name="num_parkpos" value="10" />
+	<parameter name="parking_percentage" value="25" />
+	<parameter name="last_update" value="Feb 11, 2022" />
+	<parameter name="home_base" value="" />
+	<parameter name="max_two" value="" />
+	<parameter name="actual_hour_only" value="0" />
+	<parameter name="real_only" value="0" />
+</parameters>
+<parkpositions>
+	<parkpos id="7" latitude="47.790237" longitude="13.002122" heading="121.8" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="r1" latitude="47.793140" longitude="12.997869" heading="248.7" radius="22.0" cargo="false" ramp="true" />
+	<parkpos id="r2" latitude="47.792572" longitude="12.998292" heading="281.8" radius="23.0" cargo="false" ramp="true" />
+	<parkpos id="r3" latitude="47.791973" longitude="12.999017" heading="281.6" radius="23.0" cargo="false" ramp="true" />
+	<parkpos id="r4" latitude="47.791676" longitude="12.998938" heading="281.9" radius="22.0" cargo="false" ramp="true">
+		<aircraft>
+			<option airline="DLH" type="A319" real="true" hours="14" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="r5" latitude="47.791447" longitude="12.999245" heading="281.2" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="r6" latitude="47.790894" longitude="12.999680" heading="281.9" radius="23.0" cargo="false" ramp="true">
+		<aircraft>
+			<option airline="ISR" type="B738" real="false" hours="11" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="r7" latitude="47.790302" longitude="12.999949" heading="281.9" radius="22.0" cargo="false" ramp="true">
+		<aircraft>
+			<option airline="BAW" type="A319" real="false" hours="10" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="r8" latitude="47.789722" longitude="13.000361" heading="282.9" radius="22.0" cargo="false" ramp="true" />
+	<parkpos id="r89" latitude="47.795753" longitude="12.998848" heading="67.0" radius="10.0" cargo="false" ramp="true" />
+</parkpositions>

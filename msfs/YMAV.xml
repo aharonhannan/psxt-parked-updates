@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<meta>
+	<info name="author" value="PPG_MSFS" />
+	<info name="version" value="2.0" />
+	<info name="date" value="Jan 22, 2021" />
+</meta>
+<parameters>
+	<parameter name="airport_name" value="Avalon" />
+	<parameter name="supplier" value="MSFS " />
+	<parameter name="altitude" value="35" />
+	<parameter name="num_parkpos" value="15" />
+	<parameter name="parking_percentage" value="25" />
+	<parameter name="last_update" value="Jan 22, 2021" />
+	<parameter name="home_base" value="" />
+	<parameter name="max_two" value="" />
+	<parameter name="learn" value="1" />
+	<parameter name="actual_hour_only" value="0" />
+	<parameter name="real_only" value="0" />
+</parameters>
+<parkpositions>
+	<parkpos id="ep1" latitude="-38.028374" longitude="144.481415" heading="314.0" radius="12.0" cargo="false" ramp="true" />
+	<parkpos id="ep2" latitude="-38.028027" longitude="144.481735" heading="301.9" radius="12.0" cargo="false" ramp="true" />
+	<parkpos id="ep3" latitude="-38.027645" longitude="144.481903" heading="292.5" radius="12.0" cargo="false" ramp="true" />
+	<parkpos id="ep4" latitude="-38.026981" longitude="144.482758" heading="97.9" radius="15.0" cargo="true" ramp="true" />
+	<parkpos id="g1" latitude="-38.027187" longitude="144.472122" heading="7.5" radius="22.0" cargo="false" ramp="true" />
+	<parkpos id="g2" latitude="-38.027248" longitude="144.472641" heading="7.5" radius="22.0" cargo="false" ramp="true" />
+	<parkpos id="g3" latitude="-38.027302" longitude="144.473129" heading="7.5" radius="22.0" cargo="false" ramp="true" />
+	<parkpos id="g4" latitude="-38.027382" longitude="144.473663" heading="7.5" radius="22.0" cargo="false" ramp="true" />
+	<parkpos id="g5" latitude="-38.027439" longitude="144.474182" heading="9.0" radius="22.0" cargo="false" ramp="true" />
+	<parkpos id="g6" latitude="-38.027428" longitude="144.474899" heading="9.0" radius="22.0" cargo="false" ramp="true" />
+	<parkpos id="np1" latitude="-38.024612" longitude="144.481308" heading="150.6" radius="12.0" cargo="false" ramp="true" />
+	<parkpos id="np2" latitude="-38.024189" longitude="144.481552" heading="31.0" radius="12.0" cargo="false" ramp="true" />
+	<parkpos id="np3" latitude="-38.022854" longitude="144.481705" heading="23.1" radius="12.0" cargo="false" ramp="true" />
+	<parkpos id="np4" latitude="-38.022121" longitude="144.481689" heading="195.9" radius="12.0" cargo="false" ramp="true" />
+	<parkpos id="np5" latitude="-38.020435" longitude="144.481827" heading="328.3" radius="12.0" cargo="false" ramp="true" />
+</parkpositions>
+<afcad>
+	<parkpos id="ep1" airls="" />
+	<parkpos id="ep2" airls="" />
+	<parkpos id="ep3" airls="" />
+	<parkpos id="ep4" airls="" />
+	<parkpos id="g1" airls="" />
+	<parkpos id="g2" airls="" />
+	<parkpos id="g3" airls="" />
+	<parkpos id="g4" airls="" />
+	<parkpos id="g5" airls="" />
+	<parkpos id="g6" airls="" />
+	<parkpos id="np1" airls="" />
+	<parkpos id="np2" airls="" />
+	<parkpos id="np3" airls="" />
+	<parkpos id="np4" airls="" />
+	<parkpos id="np5" airls="" />
+</afcad>

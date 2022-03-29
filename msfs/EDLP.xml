@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<meta>
+	<info name="author" value="PSXT_MSFS_Tools" />
+	<info name="version" value="1.0" />
+	<info name="date" value="Oct 13, 2021" />
+</meta>
+<parameters>
+	<parameter name="airport_name" value="Paderborn\/Lippstadt" />
+	<parameter name="supplier" value="MSFS Aerosoft" />
+	<parameter name="altitude" value="678" />
+	<parameter name="num_parkpos" value="23" />
+	<parameter name="parking_percentage" value="50" />
+	<parameter name="last_update" value="Oct 13, 2021" />
+	<parameter name="home_base" value="" />
+	<parameter name="max_two" value="" />
+	<parameter name="actual_hour_only" value="0" />
+	<parameter name="learn" value="1" />
+	<parameter name="real_only" value="0" />
+</parameters>
+<parkpositions>
+	<parkpos id="g1" latitude="51.612267" longitude="8.621836" heading="147.2" radius="18.0" cargo="false" ramp="false" />
+	<parkpos id="g2" latitude="51.611988" longitude="8.621351" heading="146.3" radius="18.0" cargo="false" ramp="false" />
+	<parkpos id="g3" latitude="51.611771" longitude="8.620806" heading="145.4" radius="18.0" cargo="false" ramp="false" />
+	<parkpos id="g4" latitude="51.611530" longitude="8.619970" heading="146.6" radius="23.0" cargo="false" ramp="false" />
+	<parkpos id="g5" latitude="51.611233" longitude="8.619231" heading="146.6" radius="23.0" cargo="false" ramp="false" />
+	<parkpos id="g6" latitude="51.610958" longitude="8.618491" heading="146.6" radius="30.0" cargo="false" ramp="false" />
+	<parkpos id="g7" latitude="51.610447" longitude="8.618004" heading="146.7" radius="18.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="PVD" type="E55P" real="true" hours="13" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="r10" latitude="51.609974" longitude="8.617464" heading="221.8" radius="9.0" cargo="false" ramp="true" />
+	<parkpos id="r12" latitude="51.609882" longitude="8.615473" heading="237.8" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r8" latitude="51.610340" longitude="8.616755" heading="237.0" radius="16.0" cargo="false" ramp="true" />
+	<parkpos id="r9" latitude="51.610149" longitude="8.617293" heading="236.9" radius="9.0" cargo="false" ramp="true" />
+	<parkpos id="sep1" latitude="51.612915" longitude="8.622231" heading="14.6" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="sep2" latitude="51.613052" longitude="8.622564" heading="331.8" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="swp1" latitude="51.608421" longitude="8.615000" heading="352.4" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="swp10" latitude="51.606609" longitude="8.606651" heading="236.8" radius="24.0" cargo="false" ramp="true" />
+	<parkpos id="swp11" latitude="51.609097" longitude="8.615380" heading="35.8" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="swp12" latitude="51.609306" longitude="8.615162" heading="23.7" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="swp2" latitude="51.608795" longitude="8.614606" heading="24.4" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="swp3" latitude="51.609192" longitude="8.612572" heading="15.0" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="swp4" latitude="51.608845" longitude="8.610088" heading="291.3" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="swp5" latitude="51.608353" longitude="8.609155" heading="18.2" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="swp6" latitude="51.608570" longitude="8.609052" heading="149.7" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="swp9" latitude="51.607281" longitude="8.608297" heading="56.9" radius="24.0" cargo="false" ramp="true" />
+</parkpositions>

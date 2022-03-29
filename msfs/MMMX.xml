@@ -1,0 +1,228 @@
+<?xml version="1.0"?>
+<meta>
+	<info name="author" value="PSXT_MSFS" />
+	<info name="version" value="30.3" />
+	<info name="date" value="Jan 17, 2022" />
+</meta>
+<parameters>
+	<parameter name="airport_name" value="Lic Benito Juarez Intl" />
+	<parameter name="supplier" value="MSFS add-on " />
+	<parameter name="altitude" value="7293" />
+	<parameter name="num_parkpos" value="67" />
+	<parameter name="parking_percentage" value="25" />
+	<parameter name="last_update" value="Jan 17, 2022" />
+	<parameter name="home_base" value="" />
+	<parameter name="max_two" value="" />
+	<parameter name="actual_hour_only" value="0" />
+	<parameter name="real_only" value="0" />
+</parameters>
+<parkpositions>
+	<parkpos id="10" latitude="19.432594" longitude="-99.085571" heading="318.8" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="74" latitude="19.421259" longitude="-99.079521" heading="32.2" radius="22.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="SLI" type="E190" real="true" hours="21" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="g1" latitude="19.432995" longitude="-99.086922" heading="149.6" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="g11" latitude="19.432850" longitude="-99.085091" heading="327.8" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="g12" latitude="19.433104" longitude="-99.084663" heading="329.0" radius="22.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="VOI" type="A20N" real="true" hours="15" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="g13" latitude="19.433363" longitude="-99.084244" heading="328.8" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="g15" latitude="19.433603" longitude="-99.083801" heading="329.2" radius="22.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="VIV" type="A321" real="true" hours="19,20" />
+			<option airline="VOI" type="A320" real="false" hours="15" />
+			<option airline="VOI" type="A320" real="true" hours="21" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="g16" latitude="19.433794" longitude="-99.083405" heading="328.5" radius="22.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="VIV" type="A321" real="true" hours="21" />
+			<option airline="VOI" type="A320" real="false" hours="15" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="g17" latitude="19.434017" longitude="-99.082985" heading="329.9" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="g18" latitude="19.434242" longitude="-99.082550" heading="328.9" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="g2" latitude="19.432859" longitude="-99.087242" heading="148.5" radius="22.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="VOI" type="A20N" real="false" hours="19" />
+			<option airline="VOI" type="A20N" real="true" hours="15" />
+			<option airline="VOI" type="A21N" real="false" hours="19" />
+			<option airline="VOI" type="A320" real="false" hours="21" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="g20" latitude="19.434437" longitude="-99.081726" heading="28.6" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="g21" latitude="19.434929" longitude="-99.081573" heading="329.5" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="g22" latitude="19.435108" longitude="-99.081047" heading="330.5" radius="32.0" cargo="false" ramp="false" />
+	<parkpos id="g23" latitude="19.435450" longitude="-99.080452" heading="328.3" radius="32.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="VIV" type="A320" real="true" hours="15" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="g24" latitude="19.435724" longitude="-99.079857" heading="329.0" radius="32.0" cargo="false" ramp="false" />
+	<parkpos id="g25" latitude="19.436111" longitude="-99.079315" heading="328.3" radius="22.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="AAL" type="B38M" real="false" hours="15" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="g26" latitude="19.436354" longitude="-99.078804" heading="291.9" radius="32.0" cargo="false" ramp="false" />
+	<parkpos id="g27" latitude="19.436731" longitude="-99.078949" heading="243.5" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="g28" latitude="19.437105" longitude="-99.079170" heading="238.0" radius="22.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="VOS" type="A20N" real="true" hours="15" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="g29" latitude="19.437576" longitude="-99.078423" heading="59.8" radius="22.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="AAL" type="A320" real="true" hours="19,20" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="g3" latitude="19.432533" longitude="-99.087540" heading="103.8" radius="22.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="VIV" type="A320" real="false" hours="21" />
+			<option airline="VIV" type="A320" real="true" hours="15" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="g30" latitude="19.437263" longitude="-99.078201" heading="61.3" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="g31" latitude="19.436775" longitude="-99.077911" heading="43.4" radius="32.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="AAL" type="B38M" real="true" hours="15" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="g32" latitude="19.436842" longitude="-99.077538" heading="347.9" radius="22.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="AAL" type="A319" real="true" hours="19" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="g33" latitude="19.437111" longitude="-99.076904" heading="330.2" radius="32.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="VIV" type="A320" real="true" hours="15" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="g34" latitude="19.437471" longitude="-99.077011" heading="270.4" radius="22.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="UAL" type="B737" real="true" hours="19,20" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="g35" latitude="19.437851" longitude="-99.077148" heading="245.5" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="g36" latitude="19.438250" longitude="-99.077278" heading="245.4" radius="32.0" cargo="false" ramp="false" />
+	<parkpos id="g4" latitude="19.432137" longitude="-99.087517" heading="64.7" radius="22.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="VOI" type="A320" real="false" hours="15" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="g5" latitude="19.431934" longitude="-99.087151" heading="30.5" radius="22.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="SLI" type="E190" real="true" hours="15" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="g52" latitude="19.423918" longitude="-99.077515" heading="241.0" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="g53" latitude="19.424273" longitude="-99.077713" heading="238.7" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="g55" latitude="19.425013" longitude="-99.078400" heading="207.8" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="g56" latitude="19.425009" longitude="-99.078819" heading="163.5" radius="32.0" cargo="false" ramp="false" />
+	<parkpos id="g57" latitude="19.424765" longitude="-99.079216" heading="136.2" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="g58" latitude="19.424376" longitude="-99.079308" heading="91.9" radius="22.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="AMX" type="B738" real="true" hours="15" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="g59" latitude="19.424013" longitude="-99.079048" heading="59.8" radius="22.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="AMX" type="B38M" real="true" hours="15" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="g6" latitude="19.431980" longitude="-99.086746" heading="344.8" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="g60" latitude="19.423677" longitude="-99.078796" heading="58.7" radius="22.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="AMX" type="B38M" real="true" hours="15" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="g61" latitude="19.423315" longitude="-99.078598" heading="59.1" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="g62" latitude="19.422997" longitude="-99.078362" heading="61.5" radius="22.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="DAL" type="B738" real="true" hours="15" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="g63" latitude="19.422274" longitude="-99.078918" heading="209.2" radius="22.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="AMX" type="B738" real="true" hours="15" />
+			<option airline="SLI" type="E190" real="true" hours="21" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="g64" latitude="19.422438" longitude="-99.079269" heading="209.0" radius="22.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="AMX" type="B38M" real="false" hours="19,20" />
+			<option airline="AMX" type="B738" real="true" hours="15" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="g65" latitude="19.422674" longitude="-99.079613" heading="208.8" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="g66" latitude="19.422951" longitude="-99.079987" heading="210.0" radius="22.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="AMX" type="B738" real="true" hours="15" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="g67" latitude="19.423204" longitude="-99.080414" heading="185.0" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="g68" latitude="19.423040" longitude="-99.080933" heading="165.7" radius="32.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="AMX" type="B738" real="true" hours="21" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="g69" latitude="19.422455" longitude="-99.081413" heading="123.3" radius="32.0" cargo="false" ramp="false" />
+	<parkpos id="g70" latitude="19.422073" longitude="-99.080902" heading="54.0" radius="22.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="SLI" type="E190" real="true" hours="15" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="g71" latitude="19.421890" longitude="-99.080566" heading="29.5" radius="22.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="AMX" type="B39M" real="true" hours="15" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="g72" latitude="19.421707" longitude="-99.080215" heading="29.7" radius="22.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="AMX" type="B39M" real="true" hours="15" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="g73" latitude="19.421465" longitude="-99.079865" heading="29.7" radius="22.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="AMX" type="B38M" real="true" hours="16" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="g75" latitude="19.420637" longitude="-99.080055" heading="211.3" radius="18.0" cargo="false" ramp="false" />
+	<parkpos id="g76" latitude="19.420805" longitude="-99.080399" heading="213.1" radius="18.0" cargo="false" ramp="false" />
+	<parkpos id="g77" latitude="19.420967" longitude="-99.080688" heading="212.1" radius="18.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="SLI" type="E190" real="false" hours="15" />
+			<option airline="SLI" type="E190" real="true" hours="19" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="g78" latitude="19.421164" longitude="-99.080994" heading="212.1" radius="18.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="AMX" type="B738" real="true" hours="15" />
+			<option airline="SLI" type="E190" real="true" hours="21" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="g79" latitude="19.421337" longitude="-99.081306" heading="211.0" radius="18.0" cargo="false" ramp="false" />
+	<parkpos id="g8" latitude="19.432199" longitude="-99.086235" heading="352.5" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="g80" latitude="19.421555" longitude="-99.081627" heading="209.8" radius="18.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="SLI" type="E190" real="false" hours="16,19,20" />
+			<option airline="SLI" type="E190" real="true" hours="15" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="g81" latitude="19.421730" longitude="-99.081963" heading="211.7" radius="18.0" cargo="false" ramp="false" />
+	<parkpos id="g9" latitude="19.432138" longitude="-99.085815" heading="0.4" radius="22.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="UAL" type="B737" real="false" hours="16,17" />
+			<option airline="VOI" type="A320" real="true" hours="21" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="p40" latitude="19.440067" longitude="-99.073357" heading="82.1" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="p42" latitude="19.440844" longitude="-99.072266" heading="328.1" radius="28.0" cargo="true" ramp="true" />
+	<parkpos id="p45" latitude="19.441822" longitude="-99.070480" heading="329.7" radius="28.0" cargo="true" ramp="true" />
+	<parkpos id="sp6" latitude="19.430294" longitude="-99.089569" heading="295.2" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="sp7" latitude="19.431068" longitude="-99.088051" heading="124.6" radius="23.0" cargo="false" ramp="false" />
+</parkpositions>

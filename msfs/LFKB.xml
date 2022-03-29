@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<meta>
+	<info name="author" value="PPG_MSFS" />
+	<info name="version" value="2.0" />
+	<info name="date" value="Jan 29, 2021" />
+</meta>
+<parameters>
+	<parameter name="airport_name" value="Poretta" />
+	<parameter name="supplier" value="MSFS ORBX" />
+	<parameter name="altitude" value="23" />
+	<parameter name="num_parkpos" value="8" />
+	<parameter name="parking_percentage" value="25" />
+</parameters>
+<parkpositions>
+	<parkpos id="1" latitude="42.543068" longitude="9.483692" heading="252.9" radius="20.0" cargo="true" ramp="true" />
+	<parkpos id="2" latitude="42.545753" longitude="9.482672" heading="283.0" radius="20.0" cargo="false" ramp="true" />
+	<parkpos id="3" latitude="42.546249" longitude="9.482500" heading="282.4" radius="20.0" cargo="false" ramp="true" />
+	<parkpos id="4" latitude="42.546749" longitude="9.482397" heading="281.5" radius="20.0" cargo="false" ramp="true" />
+	<parkpos id="6" latitude="42.547821" longitude="9.481922" heading="282.8" radius="20.0" cargo="false" ramp="true" />
+	<parkpos id="8" latitude="42.548878" longitude="9.481529" heading="282.3" radius="20.0" cargo="false" ramp="true" />
+	<parkpos id="r13" latitude="42.549358" longitude="9.478592" heading="357.2" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="r15" latitude="42.549213" longitude="9.478930" heading="204.8" radius="14.0" cargo="false" ramp="true" />
+</parkpositions>
+<afcad>
+	<parkpos id="1" airls="AFR,CCM" />
+	<parkpos id="2" airls="AFR,CCM" />
+	<parkpos id="3" airls="AFR,CCM" />
+	<parkpos id="4" airls="AFR,CCM" />
+	<parkpos id="6" airls="AFR,CCM" />
+	<parkpos id="8" airls="AFR,CCM" />
+	<parkpos id="r13" airls="" />
+	<parkpos id="r15" airls="" />
+</afcad>

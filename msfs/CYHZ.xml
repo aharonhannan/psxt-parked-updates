@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<meta>
+	<info name="author" value="PSXT_MSFS" />
+	<info name="version" value="29.8" />
+	<info name="date" value="Dec 16, 2021" />
+</meta>
+<parameters>
+	<parameter name="airport_name" value="" />
+	<parameter name="supplier" value="MSFS add-on FSimStudios" />
+	<parameter name="altitude" value="476" />
+	<parameter name="num_parkpos" value="30" />
+	<parameter name="parking_percentage" value="25" />
+	<parameter name="last_update" value="Jan 18, 2022" />
+	<parameter name="home_base" value="" />
+	<parameter name="max_two" value="" />
+	<parameter name="real_only" value="0" />
+	<parameter name="actual_hour_only" value="0" />
+</parameters>
+<parkpositions>
+	<parkpos id="1" latitude="44.870914" longitude="-63.533279" heading="340.3" radius="25.0" cargo="true" ramp="true" />
+	<parkpos id="2" latitude="44.871204" longitude="-63.532612" heading="339.6" radius="25.0" cargo="true" ramp="true" />
+	<parkpos id="C2" latitude="44.883614" longitude="-63.514595" heading="304.8" radius="20.0" cargo="false" ramp="true" />
+	<parkpos id="g12" latitude="44.885082" longitude="-63.513470" heading="259.7" radius="22.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="ACA" type="BCS3" real="false" hours="12" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="g14" latitude="44.885506" longitude="-63.513420" heading="269.1" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="g15" latitude="44.886040" longitude="-63.513485" heading="302.7" radius="32.0" cargo="false" ramp="false" />
+	<parkpos id="g16" latitude="44.886425" longitude="-63.513649" heading="259.9" radius="22.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="CJT" type="B752" real="false" hours="12" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="g18" latitude="44.886799" longitude="-63.513863" heading="260.2" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="g20" latitude="44.887161" longitude="-63.513851" heading="284.7" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="g22" latitude="44.887669" longitude="-63.513966" heading="296.6" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="g24" latitude="44.888561" longitude="-63.514198" heading="239.3" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="g28" latitude="44.889278" longitude="-63.515686" heading="215.1" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="g3" latitude="44.884335" longitude="-63.514065" heading="325.1" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="g36" latitude="44.889366" longitude="-63.516666" heading="125.0" radius="15.0" cargo="false" ramp="true" />
+	<parkpos id="g38" latitude="44.889610" longitude="-63.516457" heading="127.5" radius="15.0" cargo="false" ramp="true" />
+	<parkpos id="g42" latitude="44.889843" longitude="-63.516220" heading="127.0" radius="15.0" cargo="false" ramp="true" />
+	<parkpos id="g46" latitude="44.890102" longitude="-63.515892" heading="185.8" radius="15.0" cargo="false" ramp="true" />
+	<parkpos id="g5" latitude="44.884411" longitude="-63.513706" heading="11.1" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="g6" latitude="44.884121" longitude="-63.513367" heading="11.2" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="g7" latitude="44.884346" longitude="-63.513100" heading="317.0" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="g8" latitude="44.884602" longitude="-63.512962" heading="267.6" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="g9" latitude="44.884804" longitude="-63.513248" heading="230.3" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="r1" latitude="44.881489" longitude="-63.516361" heading="306.9" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="r2" latitude="44.883335" longitude="-63.514969" heading="304.9" radius="20.0" cargo="false" ramp="true" />
+	<parkpos id="r3" latitude="44.881264" longitude="-63.516571" heading="304.8" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="r4" latitude="44.879776" longitude="-63.518620" heading="247.4" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="r5" latitude="44.876339" longitude="-63.521420" heading="288.2" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="r6" latitude="44.876095" longitude="-63.521667" heading="289.8" radius="14.0" cargo="false" ramp="true">
+		<aircraft>
+			<option airline="PVL" type="DH8A" real="false" hours="16" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="r7" latitude="44.873825" longitude="-63.524414" heading="304.2" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="r8" latitude="44.867054" longitude="-63.531837" heading="220.2" radius="30.0" cargo="false" ramp="true" />
+</parkpositions>

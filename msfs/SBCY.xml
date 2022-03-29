@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<meta>
+	<info name="author" value="PPG_MSFS" />
+	<info name="version" value="2.0" />
+	<info name="date" value="Jan 18, 2021" />
+</meta>
+<parameters>
+	<parameter name="airport_name" value="Marechal Rondon Intl" />
+	<parameter name="supplier" value="MSFS " />
+	<parameter name="altitude" value="610" />
+	<parameter name="num_parkpos" value="32" />
+	<parameter name="parking_percentage" value="25" />
+	<parameter name="last_update" value="Jan 18, 2021" />
+	<parameter name="home_base" value="" />
+	<parameter name="max_two" value="" />
+	<parameter name="actual_hour_only" value="1" />
+	<parameter name="real_only" value="1" />
+	<parameter name="learn" value="1" />
+	<parameter name="add_from_AFCAD" value="0" />
+</parameters>
+<parkpositions>
+	<parkpos id="1" latitude="-15.649705" longitude="-56.120152" heading="242.3" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="10" latitude="-15.652768" longitude="-56.118496" heading="243.2" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="11" latitude="-15.653040" longitude="-56.118351" heading="242.8" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="12" latitude="-15.653312" longitude="-56.118221" heading="242.8" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="13" latitude="-15.653578" longitude="-56.118076" heading="243.0" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="2" latitude="-15.650063" longitude="-56.119961" heading="242.2" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="3" latitude="-15.650407" longitude="-56.119778" heading="242.0" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="4" latitude="-15.650796" longitude="-56.119572" heading="242.0" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="5" latitude="-15.651186" longitude="-56.119350" heading="242.6" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="6" latitude="-15.651510" longitude="-56.119179" heading="243.0" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="7" latitude="-15.651827" longitude="-56.118999" heading="242.7" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="8" latitude="-15.652155" longitude="-56.118835" heading="242.7" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="9" latitude="-15.652484" longitude="-56.118671" heading="243.3" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="r1" latitude="-15.648551" longitude="-56.120686" heading="242.0" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="r2" latitude="-15.648869" longitude="-56.120510" heading="242.0" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="r3" latitude="-15.649205" longitude="-56.120346" heading="242.0" radius="22.0" cargo="false" ramp="false" />
+	<parkpos id="sp1" latitude="-15.656549" longitude="-56.118179" heading="152.0" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="sp10" latitude="-15.662397" longitude="-56.114014" heading="150.0" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="sp2" latitude="-15.656406" longitude="-56.117916" heading="152.0" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="sp3" latitude="-15.656290" longitude="-56.117355" heading="152.0" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="sp4" latitude="-15.656651" longitude="-56.117126" heading="332.0" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="sp5" latitude="-15.656769" longitude="-56.117451" heading="332.0" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="sp6" latitude="-15.657014" longitude="-56.117836" heading="332.0" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="sp7" latitude="-15.661041" longitude="-56.114708" heading="241.0" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="sp8" latitude="-15.661715" longitude="-56.114338" heading="62.0" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="sp9" latitude="-15.662045" longitude="-56.114155" heading="62.0" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="swp1" latitude="-15.654035" longitude="-56.117775" heading="152.0" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="swp2" latitude="-15.654122" longitude="-56.117962" heading="152.0" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="swp3" latitude="-15.654525" longitude="-56.117756" heading="152.0" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="swp4" latitude="-15.654427" longitude="-56.117565" heading="152.0" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="swp5" latitude="-15.654934" longitude="-56.117535" heading="152.0" radius="14.0" cargo="false" ramp="true" />
+	<parkpos id="swp6" latitude="-15.654850" longitude="-56.117344" heading="152.0" radius="14.0" cargo="false" ramp="true" />
+</parkpositions>
+<afcad>
+	<parkpos id="1" airls="" />
+	<parkpos id="10" airls="" />
+	<parkpos id="11" airls="" />
+	<parkpos id="12" airls="" />
+	<parkpos id="13" airls="" />
+	<parkpos id="2" airls="" />
+	<parkpos id="3" airls="" />
+	<parkpos id="4" airls="" />
+	<parkpos id="5" airls="" />
+	<parkpos id="6" airls="" />
+	<parkpos id="7" airls="" />
+	<parkpos id="8" airls="" />
+	<parkpos id="9" airls="" />
+	<parkpos id="r1" airls="" />
+	<parkpos id="r2" airls="" />
+	<parkpos id="r3" airls="" />
+	<parkpos id="sp1" airls="" />
+	<parkpos id="sp10" airls="" />
+	<parkpos id="sp2" airls="" />
+	<parkpos id="sp3" airls="" />
+	<parkpos id="sp4" airls="" />
+	<parkpos id="sp5" airls="" />
+	<parkpos id="sp6" airls="" />
+	<parkpos id="sp7" airls="" />
+	<parkpos id="sp8" airls="" />
+	<parkpos id="sp9" airls="" />
+	<parkpos id="swp1" airls="" />
+	<parkpos id="swp2" airls="" />
+	<parkpos id="swp3" airls="" />
+	<parkpos id="swp4" airls="" />
+	<parkpos id="swp5" airls="" />
+	<parkpos id="swp6" airls="" />
+</afcad>
