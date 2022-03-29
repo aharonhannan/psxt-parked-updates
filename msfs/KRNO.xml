@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <meta>
 	<info name="author" value="PPG_MSFS" />
-	<info name="version" value="3.2" />
-	<info name="date" value="Aug 10, 2021" />
+	<info name="version" value="4.0" />
+	<info name="date" value="Aug 24, 2021" />
 </meta>
 <parameters>
 	<parameter name="airport_name" value="Reno\/Tahoe Intl" />
