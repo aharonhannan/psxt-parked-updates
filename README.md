@@ -16,6 +16,7 @@ Special thanks to these folks (and their compute power) for generating files. Co
 
 - [AVSIM\kiek](https://www.avsim.com/profile/101066-kiek/)
 - [AVSIM\airlinetycoon](https://www.avsim.com/profile/369444-airlinetycoon/)
+- [AVSIM\airportdisco123](https://www.avsim.com/profile/504703-airportdisco123/)
 
 ## Credits
 
