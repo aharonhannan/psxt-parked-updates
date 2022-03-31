@@ -141,7 +141,6 @@
 			<option airline="DAL" type="B752" real="true" hours="21,22" />
 		</aircraft>
 	</parkpos>
-	</parkpos>
 	<parkpos id="D11" latitude="29.988789" longitude="-90.259048" heading="192.4" radius="30.0" cargo="false" ramp="false" />
 	<parkpos id="D12" latitude="29.988581" longitude="-90.259583" heading="157.6" radius="36.0" cargo="false" ramp="false">
 		<aircraft>
