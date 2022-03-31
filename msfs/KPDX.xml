@@ -159,7 +159,6 @@
 			<option airline="QXE" type="DH8D" real="true" hours="15,16,18" />
 		</aircraft>
 	</parkpos>
-	</parkpos>
 	<parkpos id="C21" latitude="45.589878" longitude="-122.600075" heading="85.5" radius="22.0" cargo="false" ramp="false">
 		<aircraft>
 			<option airline="ASA" type="B738" real="false" hours="20" />
