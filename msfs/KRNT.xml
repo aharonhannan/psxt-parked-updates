@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<meta>
+	<info name="author" value="PSXT_MSFS" />
+	<info name="version" value="31.7.1" />
+	<info name="date" value="May 11, 2022" />
+</meta>
+<parameters>
+	<parameter name="airport_name" value="Renton Mun" />
+	<parameter name="supplier" value="MSFS add-on Drzewiecki Design" />
+	<parameter name="altitude" value="23" />
+	<parameter name="num_parkpos" value="25" />
+	<parameter name="parking_percentage" value="50" />
+	<parameter name="last_update" value="May 11, 2022" />
+	<parameter name="home_base" value="" />
+	<parameter name="max_two" value="" />
+	<parameter name="days" value="0" />
+	<parameter name="actual_hour_only" value="0" />
+	<parameter name="real_only" value="0" />
+	<parameter name="auto_correct" value="0" />
+</parameters>
+<parkpositions>
+	<parkpos id="A6" latitude="47.488983" longitude="-122.212990" heading="264.5" radius="18.0" cargo="false" ramp="true" />
+	<parkpos id="A9" latitude="47.490288" longitude="-122.213234" heading="264.3" radius="18.0" cargo="false" ramp="true" />
+	<parkpos id="B2" latitude="47.487179" longitude="-122.216682" heading="129.3" radius="18.0" cargo="false" ramp="true" />
+	<parkpos id="B3" latitude="47.487682" longitude="-122.216743" heading="129.3" radius="18.0" cargo="false" ramp="true" />
+	<parkpos id="D4" latitude="47.491627" longitude="-122.211044" heading="180.5" radius="18.0" cargo="false" ramp="true" />
+	<parkpos id="D8" latitude="47.490246" longitude="-122.210083" heading="86.4" radius="18.0" cargo="false" ramp="true" />
+	<parkpos id="np13" latitude="47.492378" longitude="-122.213562" heading="173.3" radius="8.0" cargo="false" ramp="true" />
+	<parkpos id="np9" latitude="47.492607" longitude="-122.213768" heading="173.3" radius="8.0" cargo="false" ramp="true" />
+	<parkpos id="nwp20" latitude="47.496384" longitude="-122.217918" heading="353.9" radius="8.0" cargo="false" ramp="true">
+		<aircraft>
+			<option airline="PVT" type="C172" real="true" hours="0,1,2" />
+			<option airline="PVT" type="M20P" real="true" hours="1,2" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="nwp22" latitude="47.496368" longitude="-122.218239" heading="353.9" radius="8.0" cargo="false" ramp="true" />
+	<parkpos id="nwp23" latitude="47.496346" longitude="-122.218399" heading="353.9" radius="8.0" cargo="false" ramp="true" />
+	<parkpos id="nwp24" latitude="47.496601" longitude="-122.218033" heading="174.2" radius="8.0" cargo="false" ramp="true">
+		<aircraft>
+			<option airline="PVT" type="C172" real="true" hours="1,2" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="nwp25" latitude="47.496590" longitude="-122.218193" heading="174.2" radius="8.0" cargo="false" ramp="true" />
+	<parkpos id="nwp26" latitude="47.496582" longitude="-122.218353" heading="174.2" radius="8.0" cargo="false" ramp="true" />
+	<parkpos id="nwp27" latitude="47.496571" longitude="-122.218513" heading="174.2" radius="8.0" cargo="false" ramp="true" />
+	<parkpos id="nwp28" latitude="47.496620" longitude="-122.217957" heading="353.9" radius="8.0" cargo="false" ramp="true">
+		<aircraft>
+			<option airline="PVT" type="C172" real="true" hours="0,1,2" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="nwp29" latitude="47.496609" longitude="-122.218117" heading="353.9" radius="8.0" cargo="false" ramp="true">
+		<aircraft>
+			<option airline="PVT" type="C172" real="true" hours="0,1" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="nwp30" latitude="47.496597" longitude="-122.218277" heading="353.9" radius="8.0" cargo="false" ramp="true" />
+	<parkpos id="nwp31" latitude="47.496586" longitude="-122.218430" heading="353.9" radius="8.0" cargo="false" ramp="true" />
+	<parkpos id="nwp32" latitude="47.496574" longitude="-122.218590" heading="353.9" radius="8.0" cargo="false" ramp="true">
+		<aircraft>
+			<option airline="PVT" type="C172" real="true" hours="1,2" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="nwp44" latitude="47.497986" longitude="-122.218048" heading="174.2" radius="8.0" cargo="false" ramp="true">
+		<aircraft>
+			<option airline="PVT" type="C172" real="true" hours="0,1,2" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="nwp49" latitude="47.497913" longitude="-122.219139" heading="174.2" radius="8.0" cargo="false" ramp="true" />
+	<parkpos id="nwp50" latitude="47.498219" longitude="-122.218086" heading="174.2" radius="8.0" cargo="false" ramp="true">
+		<aircraft>
+			<option airline="PVT" type="C172" real="true" hours="0,1,2" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="nwp53" latitude="47.498188" longitude="-122.218651" heading="174.2" radius="8.0" cargo="false" ramp="true" />
+	<parkpos id="sp1" latitude="47.485760" longitude="-122.210335" heading="210.5" radius="10.0" cargo="false" ramp="true" />
+</parkpositions>
+<afcad>
+	<parkpos id="A6" airls="" />
+	<parkpos id="A9" airls="" />
+	<parkpos id="B2" airls="" />
+	<parkpos id="B3" airls="" />
+	<parkpos id="D4" airls="" />
+	<parkpos id="D8" airls="" />
+	<parkpos id="np13" airls="" />
+	<parkpos id="np9" airls="" />
+	<parkpos id="nwp20" airls="" />
+	<parkpos id="nwp22" airls="" />
+	<parkpos id="nwp23" airls="" />
+	<parkpos id="nwp24" airls="" excludes="nwp28,nwp29" />
+	<parkpos id="nwp25" airls="" excludes="nwp29,nwp30" />
+	<parkpos id="nwp26" airls="" excludes="nwp30,nwp31" />
+	<parkpos id="nwp27" airls="" excludes="nwp31,nwp32" />
+	<parkpos id="nwp28" airls="" excludes="nwp24" />
+	<parkpos id="nwp29" airls="" excludes="nwp24,nwp25" />
+	<parkpos id="nwp30" airls="" excludes="nwp25,nwp26" />
+	<parkpos id="nwp31" airls="" excludes="nwp26,nwp27" />
+	<parkpos id="nwp32" airls="" excludes="nwp27" />
+	<parkpos id="nwp44" airls="" />
+	<parkpos id="nwp49" airls="" />
+	<parkpos id="nwp50" airls="" />
+	<parkpos id="nwp53" airls="" />
+	<parkpos id="sp1" airls="" />
+</afcad>
